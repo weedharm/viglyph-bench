@@ -1,0 +1,272 @@
+{
+ "all": {
+  "n": 180,
+  "exact_full": 0.572,
+  "exact_full_ci95": [
+   0.499,
+   0.642
+  ],
+  "exact_full_ci": 0.578,
+  "exact_full_ci_ci95": [
+   0.505,
+   0.648
+  ],
+  "exact_span": 0.622,
+  "exact_span_ci95": [
+   0.55,
+   0.69
+  ],
+  "exact_span_ci": 0.628,
+  "exact_span_ci_ci95": [
+   0.555,
+   0.695
+  ],
+  "ned": 0.9532,
+  "cer_nfc": 0.0469,
+  "cer_nfd": 0.0414,
+  "errors": {
+   "base": 72,
+   "tone": 92,
+   "diacritic": 57,
+   "other": 12
+  },
+  "tone_recovery": {
+   "sac": 0.925,
+   "huyen": 0.943,
+   "hoi": 0.858,
+   "nga": 0.933,
+   "nang": 0.939
+  },
+  "diac_recovery": {
+   "mu": 0.951,
+   "moc": 0.963,
+   "trang": 0.812,
+   "gach": 0.838
+  }
+ },
+ "bucket:short": {
+  "n": 72,
+  "exact_full": 0.639,
+  "exact_full_ci95": [
+   0.524,
+   0.74
+  ],
+  "exact_full_ci": 0.653,
+  "exact_full_ci_ci95": [
+   0.538,
+   0.752
+  ],
+  "exact_span": 0.722,
+  "exact_span_ci95": [
+   0.61,
+   0.812
+  ],
+  "exact_span_ci": 0.736,
+  "exact_span_ci_ci95": [
+   0.624,
+   0.824
+  ],
+  "ned": 0.9348,
+  "cer_nfc": 0.0652,
+  "cer_nfd": 0.0567,
+  "errors": {
+   "base": 12,
+   "tone": 23,
+   "diacritic": 14,
+   "other": 2
+  },
+  "tone_recovery": {
+   "sac": 0.885,
+   "huyen": 0.96,
+   "hoi": 0.55,
+   "nga": 0.882,
+   "nang": 0.839
+  },
+  "diac_recovery": {
+   "mu": 0.949,
+   "moc": 0.872,
+   "trang": 0.714,
+   "gach": 0.667
+  }
+ },
+ "mixed_case": {
+  "n": 166,
+  "exact_full": 0.566,
+  "exact_full_ci95": [
+   0.49,
+   0.639
+  ],
+  "exact_full_ci": 0.566,
+  "exact_full_ci_ci95": [
+   0.49,
+   0.639
+  ],
+  "exact_span": 0.608,
+  "exact_span_ci95": [
+   0.533,
+   0.679
+  ],
+  "exact_span_ci": 0.608,
+  "exact_span_ci_ci95": [
+   0.533,
+   0.679
+  ],
+  "ned": 0.9577,
+  "cer_nfc": 0.0423,
+  "cer_nfd": 0.0379,
+  "errors": {
+   "base": 65,
+   "tone": 89,
+   "diacritic": 55,
+   "other": 11
+  },
+  "tone_recovery": {
+   "sac": 0.923,
+   "huyen": 0.943,
+   "hoi": 0.867,
+   "nga": 0.929,
+   "nang": 0.941
+  },
+  "diac_recovery": {
+   "mu": 0.949,
+   "moc": 0.962,
+   "trang": 0.822,
+   "gach": 0.844
+  }
+ },
+ "upper": {
+  "n": 14,
+  "exact_full": 0.643,
+  "exact_full_ci95": [
+   0.388,
+   0.837
+  ],
+  "exact_full_ci": 0.714,
+  "exact_full_ci_ci95": [
+   0.454,
+   0.883
+  ],
+  "exact_span": 0.786,
+  "exact_span_ci95": [
+   0.524,
+   0.924
+  ],
+  "exact_span_ci": 0.857,
+  "exact_span_ci_ci95": [
+   0.601,
+   0.96
+  ],
+  "ned": 0.8992,
+  "cer_nfc": 0.1008,
+  "cer_nfd": 0.0829,
+  "errors": {
+   "base": 7,
+   "tone": 3,
+   "diacritic": 2,
+   "other": 1
+  },
+  "tone_recovery": {
+   "sac": 1.0,
+   "huyen": 1.0,
+   "hoi": 0.667,
+   "nga": 1.0,
+   "nang": 0.923
+  },
+  "diac_recovery": {
+   "mu": 1.0,
+   "moc": 1.0,
+   "trang": 0.667,
+   "gach": 0.667
+  }
+ },
+ "bucket:medium": {
+  "n": 72,
+  "exact_full": 0.556,
+  "exact_full_ci95": [
+   0.441,
+   0.665
+  ],
+  "exact_full_ci": 0.556,
+  "exact_full_ci_ci95": [
+   0.441,
+   0.665
+  ],
+  "exact_span": 0.597,
+  "exact_span_ci95": [
+   0.482,
+   0.703
+  ],
+  "exact_span_ci": 0.597,
+  "exact_span_ci_ci95": [
+   0.482,
+   0.703
+  ],
+  "ned": 0.9608,
+  "cer_nfc": 0.0392,
+  "cer_nfd": 0.0351,
+  "errors": {
+   "base": 36,
+   "tone": 35,
+   "diacritic": 20,
+   "other": 7
+  },
+  "tone_recovery": {
+   "sac": 0.904,
+   "huyen": 0.945,
+   "hoi": 0.898,
+   "nga": 0.939,
+   "nang": 0.932
+  },
+  "diac_recovery": {
+   "mu": 0.939,
+   "moc": 0.964,
+   "trang": 1.0,
+   "gach": 0.8
+  }
+ },
+ "bucket:long": {
+  "n": 36,
+  "exact_full": 0.472,
+  "exact_full_ci95": [
+   0.32,
+   0.63
+  ],
+  "exact_full_ci": 0.472,
+  "exact_full_ci_ci95": [
+   0.32,
+   0.63
+  ],
+  "exact_span": 0.472,
+  "exact_span_ci95": [
+   0.32,
+   0.63
+  ],
+  "exact_span_ci": 0.472,
+  "exact_span_ci_ci95": [
+   0.32,
+   0.63
+  ],
+  "ned": 0.9746,
+  "cer_nfc": 0.0255,
+  "cer_nfd": 0.0237,
+  "errors": {
+   "base": 24,
+   "tone": 34,
+   "diacritic": 23,
+   "other": 3
+  },
+  "tone_recovery": {
+   "sac": 0.944,
+   "huyen": 0.94,
+   "hoi": 0.923,
+   "nga": 0.949,
+   "nang": 0.978
+  },
+  "diac_recovery": {
+   "mu": 0.96,
+   "moc": 0.987,
+   "trang": 0.767,
+   "gach": 0.891
+  }
+ }
+}

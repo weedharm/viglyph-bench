@@ -1,0 +1,200 @@
+{"image": "ctl_0000.png", "engine": "vintern-1b-v3.5", "text": "Phở Bò", "sec": 0.91}
+{"image": "ctl_0020.png", "engine": "vintern-1b-v3.5", "text": "Cấm Hút Thuốc", "sec": 0.36}
+{"image": "ctl_0021.png", "engine": "vintern-1b-v3.5", "text": "Xin Chào", "sec": 0.32}
+{"image": "ctl_0026.png", "engine": "vintern-1b-v3.5", "text": "Yêu Thương", "sec": 0.31}
+{"image": "ctl_0030.png", "engine": "vintern-1b-v3.5", "text": "Hà Nội", "sec": 0.28}
+{"image": "ctl_0050.png", "engine": "vintern-1b-v3.5", "text": "Nữ Hoàng", "sec": 0.28}
+{"image": "ctl_0052.png", "engine": "vintern-1b-v3.5", "text": "Chợ Đêm", "sec": 0.32}
+{"image": "ctl_0056.png", "engine": "vintern-1b-v3.5", "text": "Ngân Hàng", "sec": 0.29}
+{"image": "ctl_0058.png", "engine": "vintern-1b-v3.5", "text": "Khách Sạn", "sec": 0.29}
+{"image": "ctl_0086.png", "engine": "vintern-1b-v3.5", "text": "Sữa Chua Nếp Cẩm Hà Nội", "sec": 0.46}
+{"image": "ctl_0088.png", "engine": "vintern-1b-v3.5", "text": "Không có gì quý hơn độc lập tự do", "sec": 0.43}
+{"image": "ctl_0099.png", "engine": "vintern-1b-v3.5", "text": "Lớp học tiếng Anh buổi tối", "sec": 0.44}
+{"image": "ctl_0120.png", "engine": "vintern-1b-v3.5", "text": "Cửa hàng tiện lợi mở cả ngày", "sec": 0.41}
+{"image": "ctl_0122.png", "engine": "vintern-1b-v3.5", "text": "Mỗi ngày một niềm vui nhỏ", "sec": 0.4}
+{"image": "ctl_0123.png", "engine": "vintern-1b-v3.5", "text": "Ước mơ của tuổi trẻ Việt", "sec": 0.42}
+{"image": "ctl_0156.png", "engine": "vintern-1b-v3.5", "text": "Lễ hội hoa đăng sẽ diễn ra vào tối thứ bảy tại quảng trường trung tâm thành phố.", "sec": 1.08}
+{"image": "ctl_0159.png", "engine": "vintern-1b-v3.5", "text": "Cuộc thi vẽ tranh thiếu nhi với chủ đề Quê hương em đẹp lắm nhận bài đến hết tháng mười.", "sec": 1.05}
+{"image": "ctl_0164.png", "engine": "vintern-1b-v3.5", "text": "Cẩn thận khi qua đường, hãy quan sát kỹ hai bên và đi trên vạch dành cho người đi bộ.", "sec": 1.15}
+{"image": "ctl_0167.png", "engine": "vintern-1b-v3.5", "text": "Mỗi sáng sớm, cụ già ngồi bên hiên nhà nhâm nhi chén trà nóng và đọc tờ báo cũ.", "sec": 1.09}
+{"image": "ctl_0169.png", "engine": "vintern-1b-v3.5", "text": "Đội tình nguyện xanh\ntổ chức dọn rác bãi biển Mỹ Khê vào sáng\nchủ nhật hàng tuần.", "sec": 1.14}
+{"image": "inj_0000.png", "engine": "vintern-1b-v3.5", "text": "Phỏ Bò", "sec": 0.29}
+{"image": "inj_0001.png", "engine": "vintern-1b-v3.5", "text": "Banh Mì", "sec": 0.31}
+{"image": "inj_0002.png", "engine": "vintern-1b-v3.5", "text": "Ca Phê", "sec": 0.28}
+{"image": "inj_0003.png", "engine": "vintern-1b-v3.5", "text": "Trà Sữa", "sec": 0.3}
+{"image": "inj_0004.png", "engine": "vintern-1b-v3.5", "text": "Bũn Chả", "sec": 0.3}
+{"image": "inj_0005.png", "engine": "vintern-1b-v3.5", "text": "Com Tấm", "sec": 0.31}
+{"image": "inj_0006.png", "engine": "vintern-1b-v3.5", "text": "Hủ Tiếu", "sec": 0.31}
+{"image": "inj_0007.png", "engine": "vintern-1b-v3.5", "text": "Banh Xèo", "sec": 0.34}
+{"image": "inj_0008.png", "engine": "vintern-1b-v3.5", "text": "Ché Đậu", "sec": 0.31}
+{"image": "inj_0009.png", "engine": "vintern-1b-v3.5", "text": "Gỏi Cuôn", "sec": 0.31}
+{"image": "inj_0010.png", "engine": "vintern-1b-v3.5", "text": "Nhà Sách", "sec": 0.32}
+{"image": "inj_0011.png", "engine": "vintern-1b-v3.5", "text": "Tiềm Vàng", "sec": 0.33}
+{"image": "inj_0012.png", "engine": "vintern-1b-v3.5", "text": "Hiễu Thuốc", "sec": 0.35}
+{"image": "inj_0013.png", "engine": "vintern-1b-v3.5", "text": "SỬA XE", "sec": 0.32}
+{"image": "inj_0014.png", "engine": "vintern-1b-v3.5", "text": "GIẮT ỦI", "sec": 0.32}
+{"image": "inj_0015.png", "engine": "vintern-1b-v3.5", "text": "KHUYẾN MAI", "sec": 0.35}
+{"image": "inj_0016.png", "engine": "vintern-1b-v3.5", "text": "GIẠM GIÁ", "sec": 0.36}
+{"image": "inj_0017.png", "engine": "vintern-1b-v3.5", "text": "Mờ Cửa", "sec": 0.33}
+{"image": "inj_0018.png", "engine": "vintern-1b-v3.5", "text": "Dóng Cửa", "sec": 0.31}
+{"image": "inj_0019.png", "engine": "vintern-1b-v3.5", "text": "Lối Thoat", "sec": 0.34}
+{"image": "inj_0020.png", "engine": "vintern-1b-v3.5", "text": "Cám Hút Thuốc", "sec": 0.36}
+{"image": "inj_0021.png", "engine": "vintern-1b-v3.5", "text": "Xin Chao", "sec": 0.31}
+{"image": "inj_0022.png", "engine": "vintern-1b-v3.5", "text": "Cam ơn", "sec": 0.24}
+{"image": "inj_0023.png", "engine": "vintern-1b-v3.5", "text": "Tam Biệt", "sec": 0.27}
+{"image": "inj_0024.png", "engine": "vintern-1b-v3.5", "text": "Chúc Mùng", "sec": 0.3}
+{"image": "inj_0025.png", "engine": "vintern-1b-v3.5", "text": "Hảnh Phúc", "sec": 0.28}
+{"image": "inj_0026.png", "engine": "vintern-1b-v3.5", "text": "Yêu Thương", "sec": 0.27}
+{"image": "inj_0027.png", "engine": "vintern-1b-v3.5", "text": "Bình Yến", "sec": 0.32}
+{"image": "inj_0028.png", "engine": "vintern-1b-v3.5", "text": "Que Hương", "sec": 0.3}
+{"image": "inj_0029.png", "engine": "vintern-1b-v3.5", "text": "Việt Nam", "sec": 0.21}
+{"image": "inj_0030.png", "engine": "vintern-1b-v3.5", "text": "Hà Nối", "sec": 0.17}
+{"image": "inj_0031.png", "engine": "vintern-1b-v3.5", "text": "Đà Nẵng", "sec": 0.16}
+{"image": "inj_0032.png", "engine": "vintern-1b-v3.5", "text": "Huế", "sec": 0.25}
+{"image": "inj_0033.png", "engine": "vintern-1b-v3.5", "text": "Hối An", "sec": 0.27}
+{"image": "inj_0034.png", "engine": "vintern-1b-v3.5", "text": "Cân Thơ", "sec": 0.28}
+{"image": "inj_0035.png", "engine": "vintern-1b-v3.5", "text": "Quảng Ngai", "sec": 0.31}
+{"image": "inj_0036.png", "engine": "vintern-1b-v3.5", "text": "Bác Ninh", "sec": 0.31}
+{"image": "inj_0037.png", "engine": "vintern-1b-v3.5", "text": "Phú Quốc", "sec": 0.31}
+{"image": "inj_0038.png", "engine": "vintern-1b-v3.5", "text": "Ha Long", "sec": 0.27}
+{"image": "inj_0039.png", "engine": "vintern-1b-v3.5", "text": "My Tho", "sec": 0.26}
+{"image": "inj_0040.png", "engine": "vintern-1b-v3.5", "text": "Tuổi Trẻ", "sec": 0.3}
+{"image": "inj_0041.png", "engine": "vintern-1b-v3.5", "text": "Ước mơ", "sec": 0.28}
+{"image": "inj_0042.png", "engine": "vintern-1b-v3.5", "text": "Kỷ Niêm", "sec": 0.32}
+{"image": "inj_0043.png", "engine": "vintern-1b-v3.5", "text": "Năng Nợ", "sec": 0.3}
+{"image": "inj_0044.png", "engine": "vintern-1b-v3.5", "text": "Lăng Lẽ", "sec": 0.31}
+{"image": "inj_0045.png", "engine": "vintern-1b-v3.5", "text": "Mắt Trời", "sec": 0.34}
+{"image": "inj_0046.png", "engine": "vintern-1b-v3.5", "text": "Ngẫm Nghi", "sec": 0.34}
+{"image": "inj_0047.png", "engine": "vintern-1b-v3.5", "text": "Rực Rỡ", "sec": 0.27}
+{"image": "inj_0048.png", "engine": "vintern-1b-v3.5", "text": "Sững Sò", "sec": 0.32}
+{"image": "inj_0049.png", "engine": "vintern-1b-v3.5", "text": "Nghi Ngơi", "sec": 0.3}
+{"image": "inj_0050.png", "engine": "vintern-1b-v3.5", "text": "Nữ Hoàng", "sec": 0.26}
+{"image": "inj_0051.png", "engine": "vintern-1b-v3.5", "text": "Đường Phố", "sec": 0.37}
+{"image": "inj_0052.png", "engine": "vintern-1b-v3.5", "text": "Chỡ Đêm", "sec": 0.31}
+{"image": "inj_0053.png", "engine": "vintern-1b-v3.5", "text": "Trường Học", "sec": 0.28}
+{"image": "inj_0054.png", "engine": "vintern-1b-v3.5", "text": "Bệnh Viện", "sec": 0.29}
+{"image": "inj_0055.png", "engine": "vintern-1b-v3.5", "text": "Bưu Điên", "sec": 0.32}
+{"image": "inj_0056.png", "engine": "vintern-1b-v3.5", "text": "Ngân Háng", "sec": 0.32}
+{"image": "inj_0057.png", "engine": "vintern-1b-v3.5", "text": "Siêu Thi", "sec": 0.28}
+{"image": "inj_0058.png", "engine": "vintern-1b-v3.5", "text": "Khách Sạn", "sec": 0.27}
+{"image": "inj_0059.png", "engine": "vintern-1b-v3.5", "text": "Nhà Hãng", "sec": 0.3}
+{"image": "inj_0060.png", "engine": "vintern-1b-v3.5", "text": "Thư Viện", "sec": 0.26}
+{"image": "inj_0061.png", "engine": "vintern-1b-v3.5", "text": "Bảo Tang", "sec": 0.3}
+{"image": "inj_0062.png", "engine": "vintern-1b-v3.5", "text": "ẨM THỰC", "sec": 0.4}
+{"image": "inj_0063.png", "engine": "vintern-1b-v3.5", "text": "Giữ Gìn", "sec": 0.3}
+{"image": "inj_0064.png", "engine": "vintern-1b-v3.5", "text": "Vững Bước", "sec": 0.28}
+{"image": "inj_0065.png", "engine": "vintern-1b-v3.5", "text": "ĐẶC SAN", "sec": 0.29}
+{"image": "inj_0066.png", "engine": "vintern-1b-v3.5", "text": "MỐI NGÀY", "sec": 0.34}
+{"image": "inj_0067.png", "engine": "vintern-1b-v3.5", "text": "TỰ DO", "sec": 0.28}
+{"image": "inj_0068.png", "engine": "vintern-1b-v3.5", "text": "ĐỘC LẬP", "sec": 0.34}
+{"image": "inj_0069.png", "engine": "vintern-1b-v3.5", "text": "ƯU ĐẠI", "sec": 0.29}
+{"image": "inj_0070.png", "engine": "vintern-1b-v3.5", "text": "Lễ Hội", "sec": 0.26}
+{"image": "inj_0071.png", "engine": "vintern-1b-v3.5", "text": "Ngõ Hem", "sec": 0.27}
+{"image": "inj_0072.png", "engine": "vintern-1b-v3.5", "text": "Cà Phê Sữa Đá Sai Gòn", "sec": 0.46}
+{"image": "inj_0073.png", "engine": "vintern-1b-v3.5", "text": "Phở Bò Gia Truyền Nam Định", "sec": 0.46}
+{"image": "inj_0074.png", "engine": "vintern-1b-v3.5", "text": "Bánh Mì Thịt Nướng Hội An", "sec": 0.45}
+{"image": "inj_0075.png", "engine": "vintern-1b-v3.5", "text": "Mở của từ 6 giờ đến 22 giờ", "sec": 0.5}
+{"image": "inj_0076.png", "engine": "vintern-1b-v3.5", "text": "Chúc mừng năm mới an khang thịnh vượng", "sec": 0.49}
+{"image": "inj_0077.png", "engine": "vintern-1b-v3.5", "text": "Giảm giá 50% tất cả sản phẩm", "sec": 0.52}
+{"image": "inj_0078.png", "engine": "vintern-1b-v3.5", "text": "Cấm đỗ xe trước cửa nhà", "sec": 0.39}
+{"image": "inj_0079.png", "engine": "vintern-1b-v3.5", "text": "Xin vui lòng giữ trật tự", "sec": 0.42}
+{"image": "inj_0080.png", "engine": "vintern-1b-v3.5", "text": "Hãy dọc sách mỗi ngày", "sec": 0.36}
+{"image": "inj_0081.png", "engine": "vintern-1b-v3.5", "text": "Tiệm Bạnh Ngọt Của Mẹ", "sec": 0.44}
+{"image": "inj_0082.png", "engine": "vintern-1b-v3.5", "text": "Quán Ốc Đem Nguyễn\nTrái", "sec": 0.48}
+{"image": "inj_0083.png", "engine": "vintern-1b-v3.5", "text": "Lẩu Mắm Cần Thơ Chính Góc", "sec": 0.41}
+{"image": "inj_0084.png", "engine": "vintern-1b-v3.5", "text": "Trường Tiểu Học Lê Quý Đôn", "sec": 0.4}
+{"image": "inj_0085.png", "engine": "vintern-1b-v3.5", "text": "Nhà Thuốc Đức Thịnh", "sec": 0.37}
+{"image": "inj_0086.png", "engine": "vintern-1b-v3.5", "text": "Sửa Chua Nếp Cẩm Hà Nội", "sec": 0.45}
+{"image": "inj_0087.png", "engine": "vintern-1b-v3.5", "text": "Học, hốc nữa, học mãi", "sec": 0.42}
+{"image": "inj_0088.png", "engine": "vintern-1b-v3.5", "text": "Không có gì quý hơn độc lấp tự do", "sec": 0.43}
+{"image": "inj_0089.png", "engine": "vintern-1b-v3.5", "text": "Đường lên đỉnh núi Bà Đen", "sec": 0.42}
+{"image": "inj_0090.png", "engine": "vintern-1b-v3.5", "text": "Chào mừng quý khách đến Đà Lạt", "sec": 0.43}
+{"image": "inj_0091.png", "engine": "vintern-1b-v3.5", "text": "Hương vị que nhà ấm áp", "sec": 0.37}
+{"image": "inj_0092.png", "engine": "vintern-1b-v3.5", "text": "Kỷ niệm mười năm thành lập công ty", "sec": 0.42}
+{"image": "inj_0093.png", "engine": "vintern-1b-v3.5", "text": "Bún Bò Huế Dì Ba", "sec": 0.44}
+{"image": "inj_0094.png", "engine": "vintern-1b-v3.5", "text": "Gà Rán Giòn Rùm Thơm\nNgon", "sec": 0.78}
+{"image": "inj_0095.png", "engine": "vintern-1b-v3.5", "text": "TUYỂN NHÂN VIÊN PHỤC VỤ GẤP", "sec": 0.61}
+{"image": "inj_0096.png", "engine": "vintern-1b-v3.5", "text": "Đặt bàn trước qua điện thoại", "sec": 0.35}
+{"image": "inj_0097.png", "engine": "vintern-1b-v3.5", "text": "Miễn phí giao hàng nội thành", "sec": 0.37}
+{"image": "inj_0098.png", "engine": "vintern-1b-v3.5", "text": "Ngày hồi đọc sách thiếu nhi", "sec": 0.37}
+{"image": "inj_0099.png", "engine": "vintern-1b-v3.5", "text": "Lớp học tiếng Anh buổi tối", "sec": 0.42}
+{"image": "inj_0100.png", "engine": "vintern-1b-v3.5", "text": "Vườn Quốc Gia Cúc Phương", "sec": 0.42}
+{"image": "inj_0101.png", "engine": "vintern-1b-v3.5", "text": "Chỡ nổi cái răng cần thơ", "sec": 0.38}
+{"image": "inj_0102.png", "engine": "vintern-1b-v3.5", "text": "Nước mía siêu sạch ép tại chỗ", "sec": 0.42}
+{"image": "inj_0103.png", "engine": "vintern-1b-v3.5", "text": "Bánh cuốn nóng Thanh\nTrì", "sec": 0.42}
+{"image": "inj_0104.png", "engine": "vintern-1b-v3.5", "text": "Hủ tiếu Nam Vang ngon nhất phố", "sec": 2.3}
+{"image": "inj_0105.png", "engine": "vintern-1b-v3.5", "text": "Diểm hẹn của những người bạn", "sec": 0.35}
+{"image": "inj_0106.png", "engine": "vintern-1b-v3.5", "text": "Mùa thu Hạ Nội lá vàng rơi", "sec": 0.43}
+{"image": "inj_0107.png", "engine": "vintern-1b-v3.5", "text": "Tiết kiệm điện la yêu nước", "sec": 0.35}
+{"image": "inj_0108.png", "engine": "vintern-1b-v3.5", "text": "Giữ gìn về sinh chung", "sec": 0.51}
+{"image": "inj_0109.png", "engine": "vintern-1b-v3.5", "text": "Rửa tay sạch trước khi ăn", "sec": 0.49}
+{"image": "inj_0110.png", "engine": "vintern-1b-v3.5", "text": "Chè Thái Sầu Riêng Đắc\nBiệt", "sec": 0.67}
+{"image": "inj_0111.png", "engine": "vintern-1b-v3.5", "text": "Ngõ nhỏ phố nhỏ nhà\ntôi ỏ đó", "sec": 0.6}
+{"image": "inj_0112.png", "engine": "vintern-1b-v3.5", "text": "Sách hay là người bạn tốt", "sec": 0.53}
+{"image": "inj_0113.png", "engine": "vintern-1b-v3.5", "text": "Triển lãm tranh sơn mài Việt Nam", "sec": 0.63}
+{"image": "inj_0114.png", "engine": "vintern-1b-v3.5", "text": "Hội chợ Xuân Ân Tỵ\n2025", "sec": 0.66}
+{"image": "inj_0115.png", "engine": "vintern-1b-v3.5", "text": "Ưu đãi đặc biệt dành cho sinh viên", "sec": 0.57}
+{"image": "inj_0116.png", "engine": "vintern-1b-v3.5", "text": "Nồi lẩu nghi ngụt khói chiều đông", "sec": 0.64}
+{"image": "inj_0117.png", "engine": "vintern-1b-v3.5", "text": "Những ngọn đèn lồng phô Hội", "sec": 0.57}
+{"image": "inj_0118.png", "engine": "vintern-1b-v3.5", "text": "Bao hành chính hãng\nmười hai tháng", "sec": 0.56}
+{"image": "inj_0119.png", "engine": "vintern-1b-v3.5", "text": "Gội đầu dưỡng sinh thảo dược", "sec": 0.51}
+{"image": "inj_0120.png", "engine": "vintern-1b-v3.5", "text": "Cửa hàng tiện lợi mơ cả ngày", "sec": 0.52}
+{"image": "inj_0121.png", "engine": "vintern-1b-v3.5", "text": "Thịt kho trứng nước\ndừa", "sec": 0.53}
+{"image": "inj_0122.png", "engine": "vintern-1b-v3.5", "text": "Môi ngày một niềm vui nhỏ", "sec": 0.58}
+{"image": "inj_0123.png", "engine": "vintern-1b-v3.5", "text": "Ước mơ của tuổi trẻ Việt", "sec": 0.49}
+{"image": "inj_0124.png", "engine": "vintern-1b-v3.5", "text": "Xưởng may áo dài truyền thống", "sec": 0.66}
+{"image": "inj_0125.png", "engine": "vintern-1b-v3.5", "text": "Đông hồ chính xác từng giây", "sec": 0.45}
+{"image": "inj_0126.png", "engine": "vintern-1b-v3.5", "text": "Sửa chữa điện thoại lấy liền", "sec": 0.45}
+{"image": "inj_0127.png", "engine": "vintern-1b-v3.5", "text": "Cẩn thận sàn ướt dễ trượt ngá", "sec": 0.66}
+{"image": "inj_0128.png", "engine": "vintern-1b-v3.5", "text": "Bai giữ xe máy có mái che", "sec": 0.56}
+{"image": "inj_0129.png", "engine": "vintern-1b-v3.5", "text": "Nhả nghỉ Hướng Dương còn phòng", "sec": 0.49}
+{"image": "inj_0130.png", "engine": "vintern-1b-v3.5", "text": "Bánh chưng xanh, câu đối đỏ", "sec": 0.54}
+{"image": "inj_0131.png", "engine": "vintern-1b-v3.5", "text": "Tết đoàn viên, sum vầy\nbên nhau", "sec": 0.62}
+{"image": "inj_0132.png", "engine": "vintern-1b-v3.5", "text": "Hạt giống tam hồn nảy mầm", "sec": 0.56}
+{"image": "inj_0133.png", "engine": "vintern-1b-v3.5", "text": "Thư viện mở cửa đến chín giờ tối", "sec": 0.65}
+{"image": "inj_0134.png", "engine": "vintern-1b-v3.5", "text": "Kem dưa mát lạnh giữa trưa hè", "sec": 0.59}
+{"image": "inj_0135.png", "engine": "vintern-1b-v3.5", "text": "Lời hứa của những người lính trẻ", "sec": 0.59}
+{"image": "inj_0136.png", "engine": "vintern-1b-v3.5", "text": "Đừng để lỡ chuyến tàu cuối cùng", "sec": 0.55}
+{"image": "inj_0137.png", "engine": "vintern-1b-v3.5", "text": "Mắm tôm, mắm ruốc, mắm nêm", "sec": 0.7}
+{"image": "inj_0138.png", "engine": "vintern-1b-v3.5", "text": "Cơm niêu Sài Gòn nóng hổi", "sec": 0.58}
+{"image": "inj_0139.png", "engine": "vintern-1b-v3.5", "text": "Dạy bơi cho trẻ em mua hè", "sec": 0.52}
+{"image": "inj_0140.png", "engine": "vintern-1b-v3.5", "text": "Phong khám nha khoa\nNgọc Ẩn", "sec": 0.64}
+{"image": "inj_0141.png", "engine": "vintern-1b-v3.5", "text": "Quy khuyến học xã Mỹ Đức", "sec": 0.48}
+{"image": "inj_0142.png", "engine": "vintern-1b-v3.5", "text": "Vé số Kiến Thiết Vĩnh Long", "sec": 0.51}
+{"image": "inj_0143.png", "engine": "vintern-1b-v3.5", "text": "NGÀY HỘI VIỆC LÀM THANH NIÊN", "sec": 0.83}
+{"image": "inj_0144.png", "engine": "vintern-1b-v3.5", "text": "Thời gian là vàng bạc, đừng để lãng phí từng phút giây quý báu của cuộc đời.", "sec": 1.45}
+{"image": "inj_0145.png", "engine": "vintern-1b-v3.5", "text": "Chúng tôi phục vụ phở bò, phở gà và bún chả Hà Nội từ sáu giờ sáng mỗi ngày.", "sec": 1.44}
+{"image": "inj_0146.png", "engine": "vintern-1b-v3.5", "text": "Quý khách vui lòng xếp hàng trật tự và giữ khoảng cách an toàn với người phía trước.", "sec": 1.19}
+{"image": "inj_0147.png", "engine": "vintern-1b-v3.5", "text": "Một cây lám chẳng nên non, ba cây chụm lại nên hòn núi cao.", "sec": 0.91}
+{"image": "inj_0148.png", "engine": "vintern-1b-v3.5", "text": "Uống nước nhớ nguồn,\năn quả nhớ kẻ trỗ,\ncây, đó là đạo lý của người Việt.", "sec": 1.03}
+{"image": "inj_0149.png", "engine": "vintern-1b-v3.5", "text": "Học sinh nghỉ hè từ ngày mười lăm tháng năm đến hết ngày ba mươi mốt tháng tám.", "sec": 1.08}
+{"image": "inj_0150.png", "engine": "vintern-1b-v3.5", "text": "Bánh mì nóng giòn kẹp chả lụa, pa tê, dưa leo vá rau thơm, chỉ hai mươi nghìn đồng.", "sec": 1.32}
+{"image": "inj_0151.png", "engine": "vintern-1b-v3.5", "text": "Trên đường đời không có con đường nào trải đầy hoa hồng, chỉ có sự kiên trì mới đưa ta tới đích.", "sec": 1.1}
+{"image": "inj_0152.png", "engine": "vintern-1b-v3.5", "text": "Hãy bảo vệ môi trường bằng cách phân loại rác thải và hạn chế sử dụng túi ni lông.", "sec": 1.18}
+{"image": "inj_0153.png", "engine": "vintern-1b-v3.5", "text": "Đêm nay trăng sáng\nvằng vặc trên dòng\nsông quê,\ntiếng ếch\nnhai râm ran\nkhắp cánh\nđồng.", "sec": 1.41}
+{"image": "inj_0154.png", "engine": "vintern-1b-v3.5", "text": "Nhà hàng chúng tôi nhận đặt tiệc cưới, sinh nhật, liên hoan với thực đơn đa dạng và giá cả hợp lý.", "sec": 1.24}
+{"image": "inj_0155.png", "engine": "vintern-1b-v3.5", "text": "Gió mùa đông bắc tràn về, nhiệt độ ở vùng núi phía bắc có nơi giảm xuống dưới mười độ.", "sec": 1.11}
+{"image": "inj_0156.png", "engine": "vintern-1b-v3.5", "text": "Lễ hội hoa đăng sẽ diễn ra vào tối thứ bảy tại quảng trường trung tâm thành phố.", "sec": 1.14}
+{"image": "inj_0157.png", "engine": "vintern-1b-v3.5", "text": "Đọc một cuốn sách hay giống như trò chuyện với những người bạn uyên bác nhất của nhiều thế kỷ.", "sec": 1.08}
+{"image": "inj_0158.png", "engine": "vintern-1b-v3.5", "text": "Phòng tập mở cửa từ năm giờ sáng đến mười giờ tối, kể cả ngày lễ và chủ nhật.", "sec": 0.74}
+{"image": "inj_0159.png", "engine": "vintern-1b-v3.5", "text": "Cuộc thi vẽ tranh thiếu nhi với chủ đề quê hương em đẹp lắm nhận bài đến hết tháng mười.", "sec": 1.15}
+{"image": "inj_0160.png", "engine": "vintern-1b-v3.5", "text": "Xin lỗi quý khách, cửa hàng tạm nghỉ để sửa chữa và sẽ mở cửa trở lại vào tuần sau.", "sec": 1.07}
+{"image": "inj_0161.png", "engine": "vintern-1b-v3.5", "text": "Những cánh đồng lúa\nchín vàng óng\ntrải dài\ntít tắp dưới bầu trời\nxanh ngắt mùa thu.", "sec": 1.3}
+{"image": "inj_0162.png", "engine": "vintern-1b-v3.5", "text": "Kỷ luật là cầu nối giữa mục tiêu và thanh tựu, hãy bắt đầu ngay từ hôm nay.", "sec": 1.15}
+{"image": "inj_0163.png", "engine": "vintern-1b-v3.5", "text": "Tiếng Việt giàu và đẹp, môi dấu thanh mang một sắc thái riêng không thể thay thế.", "sec": 1.14}
+{"image": "inj_0164.png", "engine": "vintern-1b-v3.5", "text": "Cẩn thận khi qua đường, hãy quan sát kỹ hai bên và đi trên vạch dành cho người đi bộ.", "sec": 1.14}
+{"image": "inj_0165.png", "engine": "vintern-1b-v3.5", "text": "Bữa cơm gia đình đơn sơ nhưng ấm áp, có canh rau muống, cả kho tộ và dĩa dưa cà.", "sec": 1.35}
+{"image": "inj_0166.png", "engine": "vintern-1b-v3.5", "text": "Thư viện nhận quyên góp sách cù để gửi tặng các em học sinh vùng sâu vùng xa.", "sec": 1.05}
+{"image": "inj_0167.png", "engine": "vintern-1b-v3.5", "text": "Mỗi sáng sớm, cụ già ngồi bên hiên nhà nhâm nhi chén trà nồng và đọc tờ báo cũ.", "sec": 1.15}
+{"image": "inj_0168.png", "engine": "vintern-1b-v3.5", "text": "Chương trình khuyến mãi áp dụng cho đơn hàng trên năm trăm nghìn đồng đến hết ngày chủ nhật.", "sec": 1.01}
+{"image": "inj_0169.png", "engine": "vintern-1b-v3.5", "text": "Đội tình nguyện xanh\ntổ chực dọn rác bãi biển Mỹ Khê vào sáng\nchủ nhật hàng tuần.", "sec": 1.26}
+{"image": "inj_0170.png", "engine": "vintern-1b-v3.5", "text": "Mưa rơi lất phất trên mái ngòi rêu phong của ngôi chùa cổ bên bờ hồ.", "sec": 1.08}
+{"image": "inj_0171.png", "engine": "vintern-1b-v3.5", "text": "Đừng ngại thất bại, vì mỗi lần vấp ngã là một bài học quý giá cho chặng đường phía trước.", "sec": 1.13}
+{"image": "inj_0172.png", "engine": "vintern-1b-v3.5", "text": "Hội thảo khoa học về trí tuệ nhân tạo và ứng dụng trong giáo dục sẽ khai mạc lúc 9 giờ sáng.", "sec": 1.24}
+{"image": "inj_0173.png", "engine": "vintern-1b-v3.5", "text": "Ông bà ta thường dặn con cháu phải biết kính trên nhường dưới và sống chan hòa với xóm giềng.", "sec": 1.16}
+{"image": "inj_0174.png", "engine": "vintern-1b-v3.5", "text": "Tàu hoả xuyên Việt dừng ơ ga Huế khoảng mười lăm phút để hành khách lên xuống.", "sec": 1.19}
+{"image": "inj_0175.png", "engine": "vintern-1b-v3.5", "text": "Bản đồ du lịch gồm vịnh Hạ Long, phố cổ Hội An, cố đô Huế và đồng bằng sông Cửu Long.", "sec": 1.28}
+{"image": "inj_0176.png", "engine": "vintern-1b-v3.5", "text": "Ngày mai trời nắng ráo, thích hợp cho chuyến da ngoại của lớp mười hai A.", "sec": 1.07}
+{"image": "inj_0177.png", "engine": "vintern-1b-v3.5", "text": "Anh ấy lặng lẽ ngồi đọc những bức thư cu, đôi mắt đỏ hoe vì nhớ thương.", "sec": 1.77}
+{"image": "inj_0178.png", "engine": "vintern-1b-v3.5", "text": "Giữ gìn sự trong sáng của tiếng Việt là trách nhiệm của môi người chúng ta.", "sec": 0.99}
+{"image": "inj_0179.png", "engine": "vintern-1b-v3.5", "text": "Ngưỡng cửa đại học đã mở ra, chúc các em vững bước trên con đường tri thức.", "sec": 1.1}

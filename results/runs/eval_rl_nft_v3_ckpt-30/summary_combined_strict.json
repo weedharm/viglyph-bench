@@ -1,0 +1,42 @@
+{
+ "all": {
+  "n": 180,
+  "exact_span_all": 0.45,
+  "ci95": [
+   0.379,
+   0.523
+  ],
+  "exact_full_all": 0.417,
+  "cer_nfd_max": 0.0617
+ },
+ "bucket:short": {
+  "n": 72,
+  "exact_span_all": 0.542,
+  "ci95": [
+   0.427,
+   0.652
+  ],
+  "exact_full_all": 0.486,
+  "cer_nfd_max": 0.095
+ },
+ "bucket:medium": {
+  "n": 72,
+  "exact_span_all": 0.458,
+  "ci95": [
+   0.348,
+   0.573
+  ],
+  "exact_full_all": 0.431,
+  "cer_nfd_max": 0.0429
+ },
+ "bucket:long": {
+  "n": 36,
+  "exact_span_all": 0.25,
+  "ci95": [
+   0.138,
+   0.411
+  ],
+  "exact_full_all": 0.25,
+  "cer_nfd_max": 0.033
+ }
+}

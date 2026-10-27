@@ -1,0 +1,706 @@
+{
+ "A": "../results/runs/baseline_1024",
+ "B": "../results/runs/eval_rl_nft_v3b_ckpt-80",
+ "items": {
+  "q000": {
+   "prompt_id": "vg0_0094",
+   "text": "Gà Rán Giòn Rụm Thơm Ngon",
+   "bucket": "medium",
+   "l": "A",
+   "r": "B"
+  },
+  "q001": {
+   "prompt_id": "vg0_0133",
+   "text": "Thư viện mở cửa đến chín giờ tối",
+   "bucket": "medium",
+   "l": "B",
+   "r": "A"
+  },
+  "q002": {
+   "prompt_id": "vg0_0062",
+   "text": "ẨM THỰC",
+   "bucket": "short",
+   "l": "B",
+   "r": "A"
+  },
+  "q003": {
+   "prompt_id": "vg0_0149",
+   "text": "Học sinh nghỉ hè từ ngày mười lăm tháng năm đến hết ngày ba mươi mốt tháng tám.",
+   "bucket": "long",
+   "l": "A",
+   "r": "B"
+  },
+  "q004": {
+   "prompt_id": "vg0_0041",
+   "text": "Ước Mơ",
+   "bucket": "short",
+   "l": "A",
+   "r": "B"
+  },
+  "q005": {
+   "prompt_id": "vg0_0179",
+   "text": "Ngưỡng cửa đại học đã mở ra, chúc các em vững bước trên con đường tri thức.",
+   "bucket": "long",
+   "l": "A",
+   "r": "B"
+  },
+  "q006": {
+   "prompt_id": "vg0_0148",
+   "text": "Uống nước nhớ nguồn, ăn quả nhớ kẻ trồng cây, đó là đạo lý của người Việt.",
+   "bucket": "long",
+   "l": "A",
+   "r": "B"
+  },
+  "q007": {
+   "prompt_id": "vg0_0038",
+   "text": "Hạ Long",
+   "bucket": "short",
+   "l": "A",
+   "r": "B"
+  },
+  "q008": {
+   "prompt_id": "vg0_0163",
+   "text": "Tiếng Việt giàu và đẹp, mỗi dấu thanh mang một sắc thái riêng không thể thay thế.",
+   "bucket": "long",
+   "l": "B",
+   "r": "A"
+  },
+  "q009": {
+   "prompt_id": "vg0_0003",
+   "text": "Trà Sữa",
+   "bucket": "short",
+   "l": "A",
+   "r": "B"
+  },
+  "q010": {
+   "prompt_id": "vg0_0135",
+   "text": "Lời hứa của những người lính trẻ",
+   "bucket": "medium",
+   "l": "A",
+   "r": "B"
+  },
+  "q011": {
+   "prompt_id": "vg0_0160",
+   "text": "Xin lỗi quý khách, cửa hàng tạm nghỉ để sửa chữa và sẽ mở cửa trở lại vào tuần sau.",
+   "bucket": "long",
+   "l": "A",
+   "r": "B"
+  },
+  "q012": {
+   "prompt_id": "vg0_0047",
+   "text": "Rực Rỡ",
+   "bucket": "short",
+   "l": "B",
+   "r": "A"
+  },
+  "q013": {
+   "prompt_id": "vg0_0075",
+   "text": "Mở cửa từ 6 giờ đến 22 giờ",
+   "bucket": "medium",
+   "l": "A",
+   "r": "B"
+  },
+  "q014": {
+   "prompt_id": "vg0_0105",
+   "text": "Điểm hẹn của những người bạn",
+   "bucket": "medium",
+   "l": "A",
+   "r": "B"
+  },
+  "q015": {
+   "prompt_id": "vg0_0140",
+   "text": "Phòng khám nha khoa Ngọc Ẩn",
+   "bucket": "medium",
+   "l": "B",
+   "r": "A"
+  },
+  "q016": {
+   "prompt_id": "vg0_0050",
+   "text": "Nữ Hoàng",
+   "bucket": "short",
+   "l": "B",
+   "r": "A"
+  },
+  "q017": {
+   "prompt_id": "vg0_0000",
+   "text": "Phở Bò",
+   "bucket": "short",
+   "l": "B",
+   "r": "A"
+  },
+  "q018": {
+   "prompt_id": "vg0_0166",
+   "text": "Thư viện nhận quyên góp sách cũ để gửi tặng các em học sinh vùng sâu vùng xa.",
+   "bucket": "long",
+   "l": "A",
+   "r": "B"
+  },
+  "q019": {
+   "prompt_id": "vg0_0142",
+   "text": "Vé số Kiến Thiết Vĩnh Long",
+   "bucket": "medium",
+   "l": "B",
+   "r": "A"
+  },
+  "q020": {
+   "prompt_id": "vg0_0130",
+   "text": "Bánh chưng xanh, câu đối đỏ",
+   "bucket": "medium",
+   "l": "B",
+   "r": "A"
+  },
+  "q021": {
+   "prompt_id": "vg0_0093",
+   "text": "Bún Bò Huế Dì Ba",
+   "bucket": "medium",
+   "l": "B",
+   "r": "A"
+  },
+  "q022": {
+   "prompt_id": "vg0_0120",
+   "text": "Cửa hàng tiện lợi mở cả ngày",
+   "bucket": "medium",
+   "l": "B",
+   "r": "A"
+  },
+  "q023": {
+   "prompt_id": "vg0_0025",
+   "text": "Hạnh Phúc",
+   "bucket": "short",
+   "l": "B",
+   "r": "A"
+  },
+  "q024": {
+   "prompt_id": "vg0_0141",
+   "text": "Quỹ khuyến học xã Mỹ Đức",
+   "bucket": "medium",
+   "l": "B",
+   "r": "A"
+  },
+  "q025": {
+   "prompt_id": "vg0_0077",
+   "text": "Giảm giá 50% tất cả sản phẩm",
+   "bucket": "medium",
+   "l": "A",
+   "r": "B"
+  },
+  "q026": {
+   "prompt_id": "vg0_0151",
+   "text": "Trên đường đời không có con đường nào trải đầy hoa hồng, chỉ có sự kiên trì mới đưa ta tới đích.",
+   "bucket": "long",
+   "l": "A",
+   "r": "B"
+  },
+  "q027": {
+   "prompt_id": "vg0_0116",
+   "text": "Nồi lẩu nghi ngút khói chiều đông",
+   "bucket": "medium",
+   "l": "A",
+   "r": "B"
+  },
+  "q028": {
+   "prompt_id": "vg0_0057",
+   "text": "Siêu Thị",
+   "bucket": "short",
+   "l": "B",
+   "r": "A"
+  },
+  "q029": {
+   "prompt_id": "vg0_0023",
+   "text": "Tạm Biệt",
+   "bucket": "short",
+   "l": "B",
+   "r": "A"
+  },
+  "q030": {
+   "prompt_id": "vg0_0042",
+   "text": "Kỷ Niệm",
+   "bucket": "short",
+   "l": "B",
+   "r": "A"
+  },
+  "q031": {
+   "prompt_id": "vg0_0100",
+   "text": "Vườn Quốc Gia Cúc Phương",
+   "bucket": "medium",
+   "l": "A",
+   "r": "B"
+  },
+  "q032": {
+   "prompt_id": "vg0_0051",
+   "text": "Đường Phố",
+   "bucket": "short",
+   "l": "A",
+   "r": "B"
+  },
+  "q033": {
+   "prompt_id": "vg0_0067",
+   "text": "TỰ DO",
+   "bucket": "short",
+   "l": "B",
+   "r": "A"
+  },
+  "q034": {
+   "prompt_id": "vg0_0043",
+   "text": "Nặng Nợ",
+   "bucket": "short",
+   "l": "A",
+   "r": "B"
+  },
+  "q035": {
+   "prompt_id": "vg0_0147",
+   "text": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao.",
+   "bucket": "long",
+   "l": "A",
+   "r": "B"
+  },
+  "q036": {
+   "prompt_id": "vg0_0065",
+   "text": "ĐẶC SẢN",
+   "bucket": "short",
+   "l": "A",
+   "r": "B"
+  },
+  "q037": {
+   "prompt_id": "vg0_0056",
+   "text": "Ngân Hàng",
+   "bucket": "short",
+   "l": "A",
+   "r": "B"
+  },
+  "q038": {
+   "prompt_id": "vg0_0026",
+   "text": "Yêu Thương",
+   "bucket": "short",
+   "l": "A",
+   "r": "B"
+  },
+  "q039": {
+   "prompt_id": "vg0_0068",
+   "text": "ĐỘC LẬP",
+   "bucket": "short",
+   "l": "B",
+   "r": "A"
+  },
+  "q040": {
+   "prompt_id": "vg0_0146",
+   "text": "Quý khách vui lòng xếp hàng trật tự và giữ khoảng cách an toàn với người phía trước.",
+   "bucket": "long",
+   "l": "A",
+   "r": "B"
+  },
+  "q041": {
+   "prompt_id": "vg0_0090",
+   "text": "Chào mừng quý khách đến Đà Lạt",
+   "bucket": "medium",
+   "l": "A",
+   "r": "B"
+  },
+  "q042": {
+   "prompt_id": "vg0_0173",
+   "text": "Ông bà ta thường dặn con cháu phải biết kính trên nhường dưới và sống chan hoà với xóm giềng.",
+   "bucket": "long",
+   "l": "B",
+   "r": "A"
+  },
+  "q043": {
+   "prompt_id": "vg0_0059",
+   "text": "Nhà Hàng",
+   "bucket": "short",
+   "l": "A",
+   "r": "B"
+  },
+  "q044": {
+   "prompt_id": "vg0_0158",
+   "text": "Phòng tập mở cửa từ năm giờ sáng đến mười giờ tối, kể cả ngày lễ và chủ nhật.",
+   "bucket": "long",
+   "l": "A",
+   "r": "B"
+  },
+  "q045": {
+   "prompt_id": "vg0_0012",
+   "text": "Hiệu Thuốc",
+   "bucket": "short",
+   "l": "B",
+   "r": "A"
+  },
+  "q046": {
+   "prompt_id": "vg0_0125",
+   "text": "Đồng hồ chính xác từng giây",
+   "bucket": "medium",
+   "l": "B",
+   "r": "A"
+  },
+  "q047": {
+   "prompt_id": "vg0_0091",
+   "text": "Hương vị quê nhà ấm áp",
+   "bucket": "medium",
+   "l": "A",
+   "r": "B"
+  },
+  "q048": {
+   "prompt_id": "vg0_0136",
+   "text": "Đừng để lỡ chuyến tàu cuối cùng",
+   "bucket": "medium",
+   "l": "B",
+   "r": "A"
+  },
+  "q049": {
+   "prompt_id": "vg0_0157",
+   "text": "Đọc một cuốn sách hay giống như trò chuyện với những người bạn uyên bác nhất của nhiều thế kỷ.",
+   "bucket": "long",
+   "l": "A",
+   "r": "B"
+  },
+  "q050": {
+   "prompt_id": "vg0_0102",
+   "text": "Nước mía siêu sạch ép tại chỗ",
+   "bucket": "medium",
+   "l": "A",
+   "r": "B"
+  },
+  "q051": {
+   "prompt_id": "vg0_0048",
+   "text": "Sững Sờ",
+   "bucket": "short",
+   "l": "B",
+   "r": "A"
+  },
+  "q052": {
+   "prompt_id": "vg0_0053",
+   "text": "Trường Học",
+   "bucket": "short",
+   "l": "B",
+   "r": "A"
+  },
+  "q053": {
+   "prompt_id": "vg0_0165",
+   "text": "Bữa cơm gia đình đơn sơ nhưng ấm áp, có canh rau muống, cá kho tộ và đĩa dưa cà.",
+   "bucket": "long",
+   "l": "A",
+   "r": "B"
+  },
+  "q054": {
+   "prompt_id": "vg0_0076",
+   "text": "CHÚC MỪNG NĂM MỚI AN KHANG THỊNH VƯỢNG",
+   "bucket": "medium",
+   "l": "B",
+   "r": "A"
+  },
+  "q055": {
+   "prompt_id": "vg0_0046",
+   "text": "Ngẫm Nghĩ",
+   "bucket": "short",
+   "l": "A",
+   "r": "B"
+  },
+  "q056": {
+   "prompt_id": "vg0_0064",
+   "text": "Vững Bước",
+   "bucket": "short",
+   "l": "A",
+   "r": "B"
+  },
+  "q057": {
+   "prompt_id": "vg0_0040",
+   "text": "Tuổi Trẻ",
+   "bucket": "short",
+   "l": "B",
+   "r": "A"
+  },
+  "q058": {
+   "prompt_id": "vg0_0137",
+   "text": "Mắm tôm, mắm ruốc, mắm nêm",
+   "bucket": "medium",
+   "l": "A",
+   "r": "B"
+  },
+  "q059": {
+   "prompt_id": "vg0_0007",
+   "text": "Bánh Xèo",
+   "bucket": "short",
+   "l": "A",
+   "r": "B"
+  },
+  "q060": {
+   "prompt_id": "vg0_0152",
+   "text": "Hãy bảo vệ môi trường bằng cách phân loại rác thải và hạn chế sử dụng túi ni lông.",
+   "bucket": "long",
+   "l": "B",
+   "r": "A"
+  },
+  "q061": {
+   "prompt_id": "vg0_0176",
+   "text": "Ngày mai trời nắng ráo, thích hợp cho chuyến dã ngoại của lớp mười hai A.",
+   "bucket": "long",
+   "l": "A",
+   "r": "B"
+  },
+  "q062": {
+   "prompt_id": "vg0_0027",
+   "text": "Bình Yên",
+   "bucket": "short",
+   "l": "A",
+   "r": "B"
+  },
+  "q063": {
+   "prompt_id": "vg0_0069",
+   "text": "ƯU ĐÃI",
+   "bucket": "short",
+   "l": "B",
+   "r": "A"
+  },
+  "q064": {
+   "prompt_id": "vg0_0036",
+   "text": "Bắc Ninh",
+   "bucket": "short",
+   "l": "A",
+   "r": "B"
+  },
+  "q065": {
+   "prompt_id": "vg0_0029",
+   "text": "Việt Nam",
+   "bucket": "short",
+   "l": "B",
+   "r": "A"
+  },
+  "q066": {
+   "prompt_id": "vg0_0121",
+   "text": "Thịt kho trứng nước dừa",
+   "bucket": "medium",
+   "l": "A",
+   "r": "B"
+  },
+  "q067": {
+   "prompt_id": "vg0_0052",
+   "text": "Chợ Đêm",
+   "bucket": "short",
+   "l": "B",
+   "r": "A"
+  },
+  "q068": {
+   "prompt_id": "vg0_0017",
+   "text": "Mở Cửa",
+   "bucket": "short",
+   "l": "B",
+   "r": "A"
+  },
+  "q069": {
+   "prompt_id": "vg0_0132",
+   "text": "Hạt giống tâm hồn nảy mầm",
+   "bucket": "medium",
+   "l": "A",
+   "r": "B"
+  },
+  "q070": {
+   "prompt_id": "vg0_0112",
+   "text": "Sách hay là người bạn tốt",
+   "bucket": "medium",
+   "l": "A",
+   "r": "B"
+  },
+  "q071": {
+   "prompt_id": "vg0_0172",
+   "text": "Hội thảo khoa học về trí tuệ nhân tạo và ứng dụng trong giáo dục sẽ khai mạc lúc tám giờ sáng.",
+   "bucket": "long",
+   "l": "A",
+   "r": "B"
+  },
+  "q072": {
+   "prompt_id": "vg0_0054",
+   "text": "Bệnh Viện",
+   "bucket": "short",
+   "l": "A",
+   "r": "B"
+  },
+  "q073": {
+   "prompt_id": "vg0_0153",
+   "text": "Đêm nay trăng sáng vằng vặc trên dòng sông quê, tiếng ếch nhái râm ran khắp cánh đồng.",
+   "bucket": "long",
+   "l": "B",
+   "r": "A"
+  },
+  "q074": {
+   "prompt_id": "vg0_0030",
+   "text": "Hà Nội",
+   "bucket": "short",
+   "l": "B",
+   "r": "A"
+  },
+  "q075": {
+   "prompt_id": "vg0_0079",
+   "text": "Xin vui lòng giữ trật tự",
+   "bucket": "medium",
+   "l": "A",
+   "r": "B"
+  },
+  "q076": {
+   "prompt_id": "vg0_0143",
+   "text": "NGÀY HỘI VIỆC LÀM THANH NIÊN",
+   "bucket": "medium",
+   "l": "B",
+   "r": "A"
+  },
+  "q077": {
+   "prompt_id": "vg0_0082",
+   "text": "Quán Ốc Đêm Nguyễn Trãi",
+   "bucket": "medium",
+   "l": "B",
+   "r": "A"
+  },
+  "q078": {
+   "prompt_id": "vg0_0109",
+   "text": "Rửa tay sạch trước khi ăn",
+   "bucket": "medium",
+   "l": "A",
+   "r": "B"
+  },
+  "q079": {
+   "prompt_id": "vg0_0088",
+   "text": "Không có gì quý hơn độc lập tự do",
+   "bucket": "medium",
+   "l": "B",
+   "r": "A"
+  },
+  "q080": {
+   "prompt_id": "vg0_0097",
+   "text": "Miễn phí giao hàng nội thành",
+   "bucket": "medium",
+   "l": "B",
+   "r": "A"
+  },
+  "q081": {
+   "prompt_id": "vg0_0010",
+   "text": "Nhà Sách",
+   "bucket": "short",
+   "l": "B",
+   "r": "A"
+  },
+  "q082": {
+   "prompt_id": "vg0_0126",
+   "text": "Sửa chữa điện thoại lấy liền",
+   "bucket": "medium",
+   "l": "A",
+   "r": "B"
+  },
+  "q083": {
+   "prompt_id": "vg0_0178",
+   "text": "Giữ gìn sự trong sáng của tiếng Việt là trách nhiệm của mỗi người chúng ta.",
+   "bucket": "long",
+   "l": "A",
+   "r": "B"
+  },
+  "q084": {
+   "prompt_id": "vg0_0045",
+   "text": "Mặt Trời",
+   "bucket": "short",
+   "l": "B",
+   "r": "A"
+  },
+  "q085": {
+   "prompt_id": "vg0_0022",
+   "text": "Cảm Ơn",
+   "bucket": "short",
+   "l": "A",
+   "r": "B"
+  },
+  "q086": {
+   "prompt_id": "vg0_0106",
+   "text": "Mùa thu Hà Nội lá vàng rơi",
+   "bucket": "medium",
+   "l": "A",
+   "r": "B"
+  },
+  "q087": {
+   "prompt_id": "vg0_0080",
+   "text": "Hãy đọc sách mỗi ngày",
+   "bucket": "medium",
+   "l": "A",
+   "r": "B"
+  },
+  "q088": {
+   "prompt_id": "vg0_0034",
+   "text": "Cần Thơ",
+   "bucket": "short",
+   "l": "A",
+   "r": "B"
+  },
+  "q089": {
+   "prompt_id": "vg0_0138",
+   "text": "Cơm niêu Sài Gòn nóng hổi",
+   "bucket": "medium",
+   "l": "A",
+   "r": "B"
+  },
+  "q090": {
+   "prompt_id": "vg0_0122",
+   "text": "Mỗi ngày một niềm vui nhỏ",
+   "bucket": "medium",
+   "l": "A",
+   "r": "B"
+  },
+  "q091": {
+   "prompt_id": "vg0_0037",
+   "text": "Phú Quốc",
+   "bucket": "short",
+   "l": "B",
+   "r": "A"
+  },
+  "q092": {
+   "prompt_id": "vg0_0168",
+   "text": "Chương trình khuyến mãi áp dụng cho đơn hàng trên năm trăm nghìn đồng đến hết ngày chủ nhật.",
+   "bucket": "long",
+   "l": "B",
+   "r": "A"
+  },
+  "q093": {
+   "prompt_id": "vg0_0134",
+   "text": "Kem dừa mát lạnh giữa trưa hè",
+   "bucket": "medium",
+   "l": "A",
+   "r": "B"
+  },
+  "q094": {
+   "prompt_id": "vg0_0066",
+   "text": "MỖI NGÀY",
+   "bucket": "short",
+   "l": "B",
+   "r": "A"
+  },
+  "q095": {
+   "prompt_id": "vg0_0101",
+   "text": "Chợ Nổi Cái Răng Cần Thơ",
+   "bucket": "medium",
+   "l": "B",
+   "r": "A"
+  },
+  "q096": {
+   "prompt_id": "vg0_0092",
+   "text": "Kỷ niệm mười năm thành lập công ty",
+   "bucket": "medium",
+   "l": "A",
+   "r": "B"
+  },
+  "q097": {
+   "prompt_id": "vg0_0081",
+   "text": "Tiệm Bánh Ngọt Của Mẹ",
+   "bucket": "medium",
+   "l": "A",
+   "r": "B"
+  },
+  "q098": {
+   "prompt_id": "vg0_0119",
+   "text": "Gội đầu dưỡng sinh thảo dược",
+   "bucket": "medium",
+   "l": "A",
+   "r": "B"
+  },
+  "q099": {
+   "prompt_id": "vg0_0154",
+   "text": "Nhà hàng chúng tôi nhận đặt tiệc cưới, sinh nhật, liên hoan với thực đơn đa dạng và giá cả hợp lý.",
+   "bucket": "long",
+   "l": "B",
+   "r": "A"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "all": {
+  "n_prompts": 180,
+  "n_per_prompt": 4.0,
+  "pass1_qwen3vl": 0.574,
+  "bestof_sel-vintern_qwen3vl": 0.656,
+  "oracle_qwen3vl": 0.844,
+  "pass1_vintern": 0.542,
+  "bestof_sel-vintern_vintern": 0.811,
+  "oracle_vintern": 0.811
+ },
+ "short": {
+  "n_prompts": 72,
+  "n_per_prompt": 4.0,
+  "pass1_qwen3vl": 0.691,
+  "bestof_sel-vintern_qwen3vl": 0.708,
+  "oracle_qwen3vl": 0.903,
+  "pass1_vintern": 0.611,
+  "bestof_sel-vintern_vintern": 0.833,
+  "oracle_vintern": 0.833
+ },
+ "medium": {
+  "n_prompts": 72,
+  "n_per_prompt": 4.0,
+  "pass1_qwen3vl": 0.597,
+  "bestof_sel-vintern_qwen3vl": 0.736,
+  "oracle_qwen3vl": 0.903,
+  "pass1_vintern": 0.601,
+  "bestof_sel-vintern_vintern": 0.889,
+  "oracle_vintern": 0.889
+ },
+ "long": {
+  "n_prompts": 36,
+  "n_per_prompt": 4.0,
+  "pass1_qwen3vl": 0.292,
+  "bestof_sel-vintern_qwen3vl": 0.389,
+  "oracle_qwen3vl": 0.611,
+  "pass1_vintern": 0.285,
+  "bestof_sel-vintern_vintern": 0.611,
+  "oracle_vintern": 0.611
+ }
+}

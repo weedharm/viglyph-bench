@@ -1,0 +1,200 @@
+{"id": "inj_0000", "original": "Phở Bò", "shown": "Phỏ Bò", "kind": "diac_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0001", "original": "Bánh Mì", "shown": "Banh Mì", "kind": "tone_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0002", "original": "Cà Phê", "shown": "Ca Phê", "kind": "tone_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0003", "original": "Trà Sữa", "shown": "Trá Sữa", "kind": "tone_swap", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0004", "original": "Bún Chả", "shown": "Bũn Chả", "kind": "tone_swap", "font": "DejaVuSans-Bold"}
+{"id": "inj_0005", "original": "Cơm Tấm", "shown": "Com Tấm", "kind": "diac_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0006", "original": "Hủ Tiếu", "shown": "Hủ Tiéu", "kind": "diac_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0007", "original": "Bánh Xèo", "shown": "Banh Xèo", "kind": "tone_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0008", "original": "Chè Đậu", "shown": "Ché Đậu", "kind": "tone_swap", "font": "DejaVuSans-Bold"}
+{"id": "inj_0009", "original": "Gỏi Cuốn", "shown": "Gỏi Cuôn", "kind": "tone_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0010", "original": "Nhà Sách", "shown": "Nhà Sach", "kind": "tone_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0011", "original": "Tiệm Vàng", "shown": "Tiềm Vàng", "kind": "tone_swap", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0012", "original": "Hiệu Thuốc", "shown": "Hiễu Thuốc", "kind": "tone_swap", "font": "DejaVuSans-Bold"}
+{"id": "inj_0013", "original": "SỬA XE", "shown": "SỨA XE", "kind": "tone_swap", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0014", "original": "GIẶT ỦI", "shown": "GIĂT ỦI", "kind": "tone_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0015", "original": "KHUYẾN MÃI", "shown": "KHUYẾN MAI", "kind": "tone_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0016", "original": "GIẢM GIÁ", "shown": "GIẠM GIÁ", "kind": "tone_swap", "font": "DejaVuSans-Bold"}
+{"id": "inj_0017", "original": "Mở Cửa", "shown": "Mờ Cửa", "kind": "tone_swap", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0018", "original": "Đóng Cửa", "shown": "Dóng Cửa", "kind": "diac_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0019", "original": "Lối Thoát", "shown": "Lối Thoat", "kind": "tone_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0020", "original": "Cấm Hút Thuốc", "shown": "Cám Hút Thuốc", "kind": "diac_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0021", "original": "Xin Chào", "shown": "Xin Chao", "kind": "tone_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0022", "original": "Cảm Ơn", "shown": "Cam Ơn", "kind": "tone_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0023", "original": "Tạm Biệt", "shown": "Tam Biệt", "kind": "tone_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0024", "original": "Chúc Mừng", "shown": "Chúc Mùng", "kind": "diac_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0025", "original": "Hạnh Phúc", "shown": "Hảnh Phúc", "kind": "tone_swap", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0026", "original": "Yêu Thương", "shown": "Yêu Thưong", "kind": "diac_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0027", "original": "Bình Yên", "shown": "Bình Yen", "kind": "diac_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0028", "original": "Quê Hương", "shown": "Que Hương", "kind": "diac_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0029", "original": "Việt Nam", "shown": "Viềt Nam", "kind": "tone_swap", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0030", "original": "Hà Nội", "shown": "Hà Nối", "kind": "tone_swap", "font": "DejaVuSans-Bold"}
+{"id": "inj_0031", "original": "Đà Nẵng", "shown": "Đà Năng", "kind": "tone_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0032", "original": "Huế", "shown": "Hué", "kind": "diac_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0033", "original": "Hội An", "shown": "Hối An", "kind": "tone_swap", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0034", "original": "Cần Thơ", "shown": "Cân Thơ", "kind": "tone_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0035", "original": "Quảng Ngãi", "shown": "Quảng Ngai", "kind": "tone_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0036", "original": "Bắc Ninh", "shown": "Bác Ninh", "kind": "diac_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0037", "original": "Phú Quốc", "shown": "Phú Quóc", "kind": "diac_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0038", "original": "Hạ Long", "shown": "Ha Long", "kind": "tone_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0039", "original": "Mỹ Tho", "shown": "My Tho", "kind": "tone_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0040", "original": "Tuổi Trẻ", "shown": "Tuổi Trẹ", "kind": "tone_swap", "font": "DejaVuSans-Bold"}
+{"id": "inj_0041", "original": "Ước Mơ", "shown": "Ươc Mơ", "kind": "tone_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0042", "original": "Kỷ Niệm", "shown": "Kỷ Niềm", "kind": "tone_swap", "font": "DejaVuSans-Bold"}
+{"id": "inj_0043", "original": "Nặng Nợ", "shown": "Năng Nợ", "kind": "tone_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0044", "original": "Lặng Lẽ", "shown": "Lăng Lẽ", "kind": "tone_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0045", "original": "Mặt Trời", "shown": "Mẳt Trời", "kind": "tone_swap", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0046", "original": "Ngẫm Nghĩ", "shown": "Ngẫm Nghi", "kind": "tone_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0047", "original": "Rực Rỡ", "shown": "Rực Rở", "kind": "tone_swap", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0048", "original": "Sững Sờ", "shown": "Sững Sò", "kind": "diac_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0049", "original": "Nghỉ Ngơi", "shown": "Nghi Ngơi", "kind": "tone_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0050", "original": "Nữ Hoàng", "shown": "Nũ Hoàng", "kind": "diac_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0051", "original": "Đường Phố", "shown": "Đuờng Phố", "kind": "diac_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0052", "original": "Chợ Đêm", "shown": "Chỡ Đêm", "kind": "tone_swap", "font": "DejaVuSans-Bold"}
+{"id": "inj_0053", "original": "Trường Học", "shown": "Trưỡng Học", "kind": "tone_swap", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0054", "original": "Bệnh Viện", "shown": "Bênh Viện", "kind": "tone_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0055", "original": "Bưu Điện", "shown": "Bưu Điên", "kind": "tone_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0056", "original": "Ngân Hàng", "shown": "Ngân Háng", "kind": "tone_swap", "font": "DejaVuSans-Bold"}
+{"id": "inj_0057", "original": "Siêu Thị", "shown": "Siêu Thi", "kind": "tone_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0058", "original": "Khách Sạn", "shown": "Khãch Sạn", "kind": "tone_swap", "font": "DejaVuSans-Bold"}
+{"id": "inj_0059", "original": "Nhà Hàng", "shown": "Nhà Hãng", "kind": "tone_swap", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0060", "original": "Thư Viện", "shown": "Thư Viẹn", "kind": "diac_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0061", "original": "Bảo Tàng", "shown": "Bảo Tang", "kind": "tone_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0062", "original": "ẨM THỰC", "shown": "ẤM THỰC", "kind": "tone_swap", "font": "DejaVuSans-Bold"}
+{"id": "inj_0063", "original": "Giữ Gìn", "shown": "Giũ Gìn", "kind": "diac_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0064", "original": "Vững Bước", "shown": "Vững Buớc", "kind": "diac_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0065", "original": "ĐẶC SẢN", "shown": "ĐẶC SAN", "kind": "tone_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0066", "original": "MỖI NGÀY", "shown": "MỐI NGÀY", "kind": "tone_swap", "font": "DejaVuSans-Bold"}
+{"id": "inj_0067", "original": "TỰ DO", "shown": "TỤ DO", "kind": "diac_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0068", "original": "ĐỘC LẬP", "shown": "ĐỘC LÂP", "kind": "tone_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0069", "original": "ƯU ĐÃI", "shown": "ƯU ĐẠI", "kind": "tone_swap", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0070", "original": "LỄ HỘI", "shown": "LẼ HỘI", "kind": "diac_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0071", "original": "Ngõ Hẻm", "shown": "Ngõ Hem", "kind": "tone_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0072", "original": "Cà Phê Sữa Đá Sài Gòn", "shown": "Cà Phê Sữa Đá Sai Gòn", "kind": "tone_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0073", "original": "Phở Bò Gia Truyền Nam Định", "shown": "Phở Bò Gia Truyến Nam Định", "kind": "tone_swap", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0074", "original": "Bánh Mì Thịt Nướng Hội An", "shown": "Bánh Mì Thịt Nưỡng Hội An", "kind": "tone_swap", "font": "DejaVuSans-Bold"}
+{"id": "inj_0075", "original": "Mở cửa từ 6 giờ đến 22 giờ", "shown": "Mở của từ 6 giờ đến 22 giờ", "kind": "diac_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0076", "original": "CHÚC MỪNG NĂM MỚI AN KHANG THỊNH VƯỢNG", "shown": "CHÚC MỪNG NĂM MỚI AN KHANG THÍNH VƯỢNG", "kind": "tone_swap", "font": "DejaVuSans-Bold"}
+{"id": "inj_0077", "original": "Giảm giá 50% tất cả sản phẩm", "shown": "Giảm giá 50% tất cá sản phẩm", "kind": "tone_swap", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0078", "original": "Cấm đỗ xe trước cửa nhà", "shown": "Cấm đõ xe trước cửa nhà", "kind": "diac_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0079", "original": "Xin vui lòng giữ trật tự", "shown": "Xin vui lòng giũ trật tự", "kind": "diac_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0080", "original": "Hãy đọc sách mỗi ngày", "shown": "Hãy dọc sách mỗi ngày", "kind": "diac_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0081", "original": "Tiệm Bánh Ngọt Của Mẹ", "shown": "Tiệm Bạnh Ngọt Của Mẹ", "kind": "tone_swap", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0082", "original": "Quán Ốc Đêm Nguyễn Trãi", "shown": "Quán Ốc Đem Nguyễn Trãi", "kind": "diac_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0083", "original": "Lẩu Mắm Cần Thơ Chính Gốc", "shown": "Lẩu Mắm Cần Thơ Chính Góc", "kind": "diac_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0084", "original": "Trường Tiểu Học Lê Quý Đôn", "shown": "Trường Tiểu Học Lê Quý Đon", "kind": "diac_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0085", "original": "Nhà Thuốc Đức Thịnh", "shown": "Nhà Thuốc Đưc Thịnh", "kind": "tone_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0086", "original": "Sữa Chua Nếp Cẩm Hà Nội", "shown": "Sưa Chua Nếp Cẩm Hà Nội", "kind": "tone_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0087", "original": "Học, học nữa, học mãi", "shown": "Học, hõc nữa, học mãi", "kind": "tone_swap", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0088", "original": "Không có gì quý hơn độc lập tự do", "shown": "Không có gì quý hơn độc lẩp tự do", "kind": "tone_swap", "font": "DejaVuSans-Bold"}
+{"id": "inj_0089", "original": "Đường lên đỉnh núi Bà Đen", "shown": "Đượng lên đỉnh núi Bà Đen", "kind": "tone_swap", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0090", "original": "Chào mừng quý khách đến Đà Lạt", "shown": "Chào mừng quý khách đến Đà Lat", "kind": "tone_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0091", "original": "Hương vị quê nhà ấm áp", "shown": "Hương vị que nhà ấm áp", "kind": "diac_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0092", "original": "Kỷ niệm mười năm thành lập công ty", "shown": "Kỷ niệm mười năm thành lâp công ty", "kind": "tone_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0093", "original": "Bún Bò Huế Dì Ba", "shown": "Bún Bò Huê Dì Ba", "kind": "tone_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0094", "original": "Gà Rán Giòn Rụm Thơm Ngon", "shown": "Gà Rán Giòn Rùm Thơm Ngon", "kind": "tone_swap", "font": "DejaVuSans-Bold"}
+{"id": "inj_0095", "original": "TUYỂN NHÂN VIÊN PHỤC VỤ GẤP", "shown": "TUYẺN NHÂN VIÊN PHỤC VỤ GẤP", "kind": "diac_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0096", "original": "Đặt bàn trước qua điện thoại", "shown": "Đăt bàn trước qua điện thoại", "kind": "tone_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0097", "original": "Miễn phí giao hàng nội thành", "shown": "Miẽn phí giao hàng nội thành", "kind": "diac_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0098", "original": "Ngày hội đọc sách thiếu nhi", "shown": "Ngày hồi đọc sách thiếu nhi", "kind": "tone_swap", "font": "DejaVuSans-Bold"}
+{"id": "inj_0099", "original": "Lớp học tiếng Anh buổi tối", "shown": "Lớp học tiếng Anh buỏi tối", "kind": "diac_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0100", "original": "Vườn Quốc Gia Cúc Phương", "shown": "Vưòn Quốc Gia Cúc Phương", "kind": "diac_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0101", "original": "Chợ Nổi Cái Răng Cần Thơ", "shown": "Chỡ Nổi Cái Răng Cần Thơ", "kind": "tone_swap", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0102", "original": "Nước mía siêu sạch ép tại chỗ", "shown": "Nước mia siêu sạch ép tại chỗ", "kind": "tone_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0103", "original": "Bánh cuốn nóng Thanh Trì", "shown": "Bánh cuón nóng Thanh Trì", "kind": "diac_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0104", "original": "Hủ tiếu Nam Vang ngon nhất phố", "shown": "Hủ tiéu Nam Vang ngon nhất phố", "kind": "diac_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0105", "original": "Điểm hẹn của những người bạn", "shown": "Diểm hẹn của những người bạn", "kind": "diac_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0106", "original": "Mùa thu Hà Nội lá vàng rơi", "shown": "Mùa thu Hạ Nội lá vàng rơi", "kind": "tone_swap", "font": "DejaVuSans-Bold"}
+{"id": "inj_0107", "original": "Tiết kiệm điện là yêu nước", "shown": "Tiết kiệm điện la yêu nước", "kind": "tone_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0108", "original": "Giữ gìn vệ sinh chung", "shown": "Giữ gìn về sinh chung", "kind": "tone_swap", "font": "DejaVuSans-Bold"}
+{"id": "inj_0109", "original": "Rửa tay sạch trước khi ăn", "shown": "Rửa tay sạch trưóc khi ăn", "kind": "diac_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0110", "original": "Chè Thái Sầu Riêng Đặc Biệt", "shown": "Chè Thái Sầu Riêng Đắc Biệt", "kind": "tone_swap", "font": "DejaVuSans-Bold"}
+{"id": "inj_0111", "original": "Ngõ nhỏ phố nhỏ nhà tôi ở đó", "shown": "Ngõ nhỏ phố nhỏ nhà tôi ỏ đó", "kind": "diac_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0112", "original": "Sách hay là người bạn tốt", "shown": "Sách hay là người bạn tót", "kind": "diac_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0113", "original": "Triển lãm tranh sơn mài Việt Nam", "shown": "Triển lãm tranh sơn mài Viẹt Nam", "kind": "diac_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0114", "original": "Hội chợ Xuân Ất Tỵ 2025", "shown": "Hội chợ Xuân Ât Tỵ 2025", "kind": "tone_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0115", "original": "Ưu đãi đặc biệt dành cho sinh viên", "shown": "Ưu đãi đăc biệt dành cho sinh viên", "kind": "tone_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0116", "original": "Nồi lẩu nghi ngút khói chiều đông", "shown": "Nồi lẩu nghi ngụt khói chiều đông", "kind": "tone_swap", "font": "DejaVuSans-Bold"}
+{"id": "inj_0117", "original": "Những ngọn đèn lồng phố Hội", "shown": "Những ngọn đèn lồng phô Hội", "kind": "tone_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0118", "original": "Bảo hành chính hãng mười hai tháng", "shown": "Bao hành chính hãng mười hai tháng", "kind": "tone_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0119", "original": "Gội đầu dưỡng sinh thảo dược", "shown": "Gội đầu dưỡng sinh thảo dươc", "kind": "tone_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0120", "original": "Cửa hàng tiện lợi mở cả ngày", "shown": "Cửa hàng tiện lợi mơ cả ngày", "kind": "tone_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0121", "original": "Thịt kho trứng nước dừa", "shown": "Thìt kho trứng nước dừa", "kind": "tone_swap", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0122", "original": "Mỗi ngày một niềm vui nhỏ", "shown": "Môi ngày một niềm vui nhỏ", "kind": "tone_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0123", "original": "Ước mơ của tuổi trẻ Việt", "shown": "Ưóc mơ của tuổi trẻ Việt", "kind": "diac_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0124", "original": "Xưởng may áo dài truyền thống", "shown": "Xưởng may áo dai truyền thống", "kind": "tone_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0125", "original": "Đồng hồ chính xác từng giây", "shown": "Đông hồ chính xác từng giây", "kind": "tone_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0126", "original": "Sửa chữa điện thoại lấy liền", "shown": "Sửa chửa điện thoại lấy liền", "kind": "tone_swap", "font": "DejaVuSans-Bold"}
+{"id": "inj_0127", "original": "Cẩn thận sàn ướt dễ trượt ngã", "shown": "Cẩn thận sàn ướt dễ trượt ngá", "kind": "tone_swap", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0128", "original": "Bãi giữ xe máy có mái che", "shown": "Bai giữ xe máy có mái che", "kind": "tone_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0129", "original": "Nhà nghỉ Hướng Dương còn phòng", "shown": "Nhả nghỉ Hướng Dương còn phòng", "kind": "tone_swap", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0130", "original": "Bánh chưng xanh, câu đối đỏ", "shown": "Bánh chưng xanh, câu đối dỏ", "kind": "diac_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0131", "original": "Tết đoàn viên, sum vầy bên nhau", "shown": "Têt đoàn viên, sum vầy bên nhau", "kind": "tone_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0132", "original": "Hạt giống tâm hồn nảy mầm", "shown": "Hạt giống tam hồn nảy mầm", "kind": "diac_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0133", "original": "Thư viện mở cửa đến chín giờ tối", "shown": "Thư viện mở cửa đến chín giờ tồi", "kind": "tone_swap", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0134", "original": "Kem dừa mát lạnh giữa trưa hè", "shown": "Kem dưa mát lạnh giữa trưa hè", "kind": "tone_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0135", "original": "Lời hứa của những người lính trẻ", "shown": "Lời hứa cụa những người lính trẻ", "kind": "tone_swap", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0136", "original": "Đừng để lỡ chuyến tàu cuối cùng", "shown": "Đừng dể lỡ chuyến tàu cuối cùng", "kind": "diac_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0137", "original": "Mắm tôm, mắm ruốc, mắm nêm", "shown": "Mắm tôm, mắm ruốc, mẵm nêm", "kind": "tone_swap", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0138", "original": "Cơm niêu Sài Gòn nóng hổi", "shown": "Cơm niêu Sài Gon nóng hổi", "kind": "tone_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0139", "original": "Dạy bơi cho trẻ em mùa hè", "shown": "Dạy bơi cho trẻ em mụa hè", "kind": "tone_swap", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0140", "original": "Phòng khám nha khoa Ngọc Ẩn", "shown": "Phong khám nha khoa Ngọc Ẩn", "kind": "tone_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0141", "original": "Quỹ khuyến học xã Mỹ Đức", "shown": "Quy khuyến học xã Mỹ Đức", "kind": "tone_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0142", "original": "Vé số Kiến Thiết Vĩnh Long", "shown": "Vé số Kién Thiết Vĩnh Long", "kind": "diac_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0143", "original": "NGÀY HỘI VIỆC LÀM THANH NIÊN", "shown": "NGÀY HỘI VIẸC LÀM THANH NIÊN", "kind": "diac_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0144", "original": "Thời gian là vàng bạc, đừng để lãng phí từng phút giây quý báu của cuộc đời.", "shown": "Thời gian là vàng bạc, đừng để lãng phí từng phút giây quý bau của cuộc đời.", "kind": "tone_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0145", "original": "Chúng tôi phục vụ phở bò, phở gà và bún chả Hà Nội từ sáu giờ sáng mỗi ngày.", "shown": "Chúng tôi phục vụ phở bò, phở gà và bún chả Hà Nội tù sáu giờ sáng mỗi ngày.", "kind": "diac_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0146", "original": "Quý khách vui lòng xếp hàng trật tự và giữ khoảng cách an toàn với người phía trước.", "shown": "Quý khách vui lòng xếp hàng trật tự và giứ khoảng cách an toàn với người phía trước.", "kind": "tone_swap", "font": "DejaVuSans-Bold"}
+{"id": "inj_0147", "original": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao.", "shown": "Một cây lám chẳng nên non, ba cây chụm lại nên hòn núi cao.", "kind": "tone_swap", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0148", "original": "Uống nước nhớ nguồn, ăn quả nhớ kẻ trồng cây, đó là đạo lý của người Việt.", "shown": "Uống nước nhớ nguồn, ăn quả nhớ kẻ trỗng cây, đó là đạo lý của người Việt.", "kind": "tone_swap", "font": "DejaVuSans-Bold"}
+{"id": "inj_0149", "original": "Học sinh nghỉ hè từ ngày mười lăm tháng năm đến hết ngày ba mươi mốt tháng tám.", "shown": "Học sinh nghỉ hè từ ngày mười lăm tháng năm đến hết ngày ba mươi mổt tháng tám.", "kind": "tone_swap", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0150", "original": "Bánh mì nóng giòn kẹp chả lụa, pa tê, dưa leo và rau thơm, chỉ hai mươi nghìn đồng.", "shown": "Bánh mì nóng giòn kẹp chả lụa, pa tê, dưa leo vá rau thơm, chỉ hai mươi nghìn đồng.", "kind": "tone_swap", "font": "DejaVuSans-Bold"}
+{"id": "inj_0151", "original": "Trên đường đời không có con đường nào trải đầy hoa hồng, chỉ có sự kiên trì mới đưa ta tới đích.", "shown": "Trên đường đời không có con dường nào trải đầy hoa hồng, chỉ có sự kiên trì mới đưa ta tới đích.", "kind": "diac_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0152", "original": "Hãy bảo vệ môi trường bằng cách phân loại rác thải và hạn chế sử dụng túi ni lông.", "shown": "Hãy bảo vệ môi trường bằng cách phân loại rác thải và hạn chế sủ dụng túi ni lông.", "kind": "diac_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0153", "original": "Đêm nay trăng sáng vằng vặc trên dòng sông quê, tiếng ếch nhái râm ran khắp cánh đồng.", "shown": "Đêm nay trăng sáng vằng vặc trên dòng sông quê, tiếng ếch nhai râm ran khắp cánh đồng.", "kind": "tone_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0154", "original": "Nhà hàng chúng tôi nhận đặt tiệc cưới, sinh nhật, liên hoan với thực đơn đa dạng và giá cả hợp lý.", "shown": "Nhà hàng chúng tôi nhạn đặt tiệc cưới, sinh nhật, liên hoan với thực đơn đa dạng và giá cả hợp lý.", "kind": "diac_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0155", "original": "Gió mùa đông bắc tràn về, nhiệt độ ở vùng núi phía bắc có nơi giảm xuống dưới mười độ.", "shown": "Gió mùa đông bắc tràn về, nhiệt độ ở vùng núi phía bắc có nơi giảm xuống dưói mười độ.", "kind": "diac_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0156", "original": "Lễ hội hoa đăng sẽ diễn ra vào tối thứ bảy tại quảng trường trung tâm thành phố.", "shown": "Lễ hội hoa đăng sẽ diễn ra vào tối thứ bảy tại quảng trường trung tâm thành phồ.", "kind": "tone_swap", "font": "DejaVuSans-Bold"}
+{"id": "inj_0157", "original": "Đọc một cuốn sách hay giống như trò chuyện với những người bạn uyên bác nhất của nhiều thế kỷ.", "shown": "Đọc một cuốn sách hay giống như trò chuyện với những người bạn uyên bãc nhất của nhiều thế kỷ.", "kind": "tone_swap", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0158", "original": "Phòng tập mở cửa từ năm giờ sáng đến mười giờ tối, kể cả ngày lễ và chủ nhật.", "shown": "Phòng tập mở cửa từ năm giờ sáng đến mười giờ tối, kể cả ngày lế và chủ nhật.", "kind": "tone_swap", "font": "DejaVuSans-Bold"}
+{"id": "inj_0159", "original": "Cuộc thi vẽ tranh thiếu nhi với chủ đề Quê hương em đẹp lắm nhận bài đến hết tháng mười.", "shown": "Cuộc thi vẽ tranh thiếu nhi với chủ đè Quê hương em đẹp lắm nhận bài đến hết tháng mười.", "kind": "diac_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0160", "original": "Xin lỗi quý khách, cửa hàng tạm nghỉ để sửa chữa và sẽ mở cửa trở lại vào tuần sau.", "shown": "Xin lỗi quý khách, cửa hàng tạm nghỉ để sửa chữa và sẽ mở cữa trở lại vào tuần sau.", "kind": "tone_swap", "font": "DejaVuSans-Bold"}
+{"id": "inj_0161", "original": "Những cánh đồng lúa chín vàng óng trải dài tít tắp dưới bầu trời xanh ngắt mùa thu.", "shown": "Những cánh đồng lua chín vàng óng trải dài tít tắp dưới bầu trời xanh ngắt mùa thu.", "kind": "tone_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0162", "original": "Kỷ luật là cầu nối giữa mục tiêu và thành tựu, hãy bắt đầu ngay từ hôm nay.", "shown": "Kỷ luật là cầu nối giữa mục tiêu và thanh tựu, hãy bắt đầu ngay từ hôm nay.", "kind": "tone_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0163", "original": "Tiếng Việt giàu và đẹp, mỗi dấu thanh mang một sắc thái riêng không thể thay thế.", "shown": "Tiếng Việt giàu và đẹp, môi dấu thanh mang một sắc thái riêng không thể thay thế.", "kind": "tone_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0164", "original": "Cẩn thận khi qua đường, hãy quan sát kỹ hai bên và đi trên vạch dành cho người đi bộ.", "shown": "Cẩn thận khi qua đường, hãy quan sát kỹ hai bên và đi trên vạch dành cho người đi bô.", "kind": "tone_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0165", "original": "Bữa cơm gia đình đơn sơ nhưng ấm áp, có canh rau muống, cá kho tộ và đĩa dưa cà.", "shown": "Bữa cơm gia đình đơn sơ nhưng ấm áp, có canh rau muống, cả kho tộ và đĩa dưa cà.", "kind": "tone_swap", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0166", "original": "Thư viện nhận quyên góp sách cũ để gửi tặng các em học sinh vùng sâu vùng xa.", "shown": "Thư viện nhận quyên góp sách cù để gửi tặng các em học sinh vùng sâu vùng xa.", "kind": "tone_swap", "font": "DejaVuSans-Bold"}
+{"id": "inj_0167", "original": "Mỗi sáng sớm, cụ già ngồi bên hiên nhà nhâm nhi chén trà nóng và đọc tờ báo cũ.", "shown": "Mỗi sáng sớm, cụ già ngồi bên hiên nhà nhâm nhi chén trà nong và đọc tờ báo cũ.", "kind": "tone_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0168", "original": "Chương trình khuyến mãi áp dụng cho đơn hàng trên năm trăm nghìn đồng đến hết ngày chủ nhật.", "shown": "Chương trình khuyến mãi áp dụng cho đon hàng trên năm trăm nghìn đồng đến hết ngày chủ nhật.", "kind": "diac_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0169", "original": "Đội tình nguyện xanh tổ chức dọn rác bãi biển Mỹ Khê vào sáng chủ nhật hằng tuần.", "shown": "Đội tình nguyện xanh tổ chực dọn rác bãi biển Mỹ Khê vào sáng chủ nhật hằng tuần.", "kind": "tone_swap", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0170", "original": "Mưa rơi lất phất trên mái ngói rêu phong của ngôi chùa cổ bên bờ hồ.", "shown": "Mưa rơi lất phất trên mái ngòi rêu phong của ngôi chùa cổ bên bờ hồ.", "kind": "tone_swap", "font": "DejaVuSans-Bold"}
+{"id": "inj_0171", "original": "Đừng ngại thất bại, vì mỗi lần vấp ngã là một bài học quý giá cho chặng đường phía trước.", "shown": "Đững ngại thất bại, vì mỗi lần vấp ngã là một bài học quý giá cho chặng đường phía trước.", "kind": "tone_swap", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0172", "original": "Hội thảo khoa học về trí tuệ nhân tạo và ứng dụng trong giáo dục sẽ khai mạc lúc tám giờ sáng.", "shown": "Hội thảo khoa học về trí tuệ nhân tạo và ứng dụng trong giáo dục se khai mạc lúc tám giờ sáng.", "kind": "tone_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0173", "original": "Ông bà ta thường dặn con cháu phải biết kính trên nhường dưới và sống chan hoà với xóm giềng.", "shown": "Ông bà ta thường dặn con cháu phải biét kính trên nhường dưới và sống chan hoà với xóm giềng.", "kind": "diac_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0174", "original": "Tàu hoả xuyên Việt dừng ở ga Huế khoảng mười lăm phút để hành khách lên xuống.", "shown": "Tàu hoả xuyên Việt dừng ơ ga Huế khoảng mười lăm phút để hành khách lên xuống.", "kind": "tone_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0175", "original": "Bản đồ du lịch gồm vịnh Hạ Long, phố cổ Hội An, cố đô Huế và đồng bằng sông Cửu Long.", "shown": "Bản đồ du lịch gồm vịnh Hạ Long, phố cổ Hội An, cố đô Huế và đồng bằng sông Củu Long.", "kind": "diac_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0176", "original": "Ngày mai trời nắng ráo, thích hợp cho chuyến dã ngoại của lớp mười hai A.", "shown": "Ngày mai trời nắng ráo, thích hợp cho chuyến da ngoại của lớp mười hai A.", "kind": "tone_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0177", "original": "Anh ấy lặng lẽ ngồi đọc những bức thư cũ, đôi mắt đỏ hoe vì nhớ thương.", "shown": "Anh ấy lặng lẽ ngồi đọc những bức thư cu, đôi mắt đỏ hoe vì nhớ thương.", "kind": "tone_drop", "font": "DejaVuSerif-Bold"}
+{"id": "inj_0178", "original": "Giữ gìn sự trong sáng của tiếng Việt là trách nhiệm của mỗi người chúng ta.", "shown": "Giữ gìn sự trong sáng của tiếng Việt là trách nhiệm của môi người chúng ta.", "kind": "tone_drop", "font": "DejaVuSans-Bold"}
+{"id": "inj_0179", "original": "Ngưỡng cửa đại học đã mở ra, chúc các em vững bước trên con đường tri thức.", "shown": "Ngưỡng cửa đại học đã mở ra, chúc các em vửng bước trên con đường tri thức.", "kind": "tone_swap", "font": "DejaVuSerif-Bold"}
+{"id": "ctl_0020", "original": "Cấm Hút Thuốc", "shown": "Cấm Hút Thuốc", "kind": "control", "font": "DejaVuSans-Bold"}
+{"id": "ctl_0056", "original": "Ngân Hàng", "shown": "Ngân Hàng", "kind": "control", "font": "DejaVuSerif-Bold"}
+{"id": "ctl_0026", "original": "Yêu Thương", "shown": "Yêu Thương", "kind": "control", "font": "DejaVuSans-Bold"}
+{"id": "ctl_0058", "original": "Khách Sạn", "shown": "Khách Sạn", "kind": "control", "font": "DejaVuSerif-Bold"}
+{"id": "ctl_0120", "original": "Cửa hàng tiện lợi mở cả ngày", "shown": "Cửa hàng tiện lợi mở cả ngày", "kind": "control", "font": "DejaVuSans-Bold"}
+{"id": "ctl_0050", "original": "Nữ Hoàng", "shown": "Nữ Hoàng", "kind": "control", "font": "DejaVuSerif-Bold"}
+{"id": "ctl_0086", "original": "Sữa Chua Nếp Cẩm Hà Nội", "shown": "Sữa Chua Nếp Cẩm Hà Nội", "kind": "control", "font": "DejaVuSans-Bold"}
+{"id": "ctl_0052", "original": "Chợ Đêm", "shown": "Chợ Đêm", "kind": "control", "font": "DejaVuSerif-Bold"}
+{"id": "ctl_0123", "original": "Ước mơ của tuổi trẻ Việt", "shown": "Ước mơ của tuổi trẻ Việt", "kind": "control", "font": "DejaVuSans-Bold"}
+{"id": "ctl_0159", "original": "Cuộc thi vẽ tranh thiếu nhi với chủ đề Quê hương em đẹp lắm nhận bài đến hết tháng mười.", "shown": "Cuộc thi vẽ tranh thiếu nhi với chủ đề Quê hương em đẹp lắm nhận bài đến hết tháng mười.", "kind": "control", "font": "DejaVuSerif-Bold"}
+{"id": "ctl_0156", "original": "Lễ hội hoa đăng sẽ diễn ra vào tối thứ bảy tại quảng trường trung tâm thành phố.", "shown": "Lễ hội hoa đăng sẽ diễn ra vào tối thứ bảy tại quảng trường trung tâm thành phố.", "kind": "control", "font": "DejaVuSans-Bold"}
+{"id": "ctl_0000", "original": "Phở Bò", "shown": "Phở Bò", "kind": "control", "font": "DejaVuSerif-Bold"}
+{"id": "ctl_0122", "original": "Mỗi ngày một niềm vui nhỏ", "shown": "Mỗi ngày một niềm vui nhỏ", "kind": "control", "font": "DejaVuSans-Bold"}
+{"id": "ctl_0167", "original": "Mỗi sáng sớm, cụ già ngồi bên hiên nhà nhâm nhi chén trà nóng và đọc tờ báo cũ.", "shown": "Mỗi sáng sớm, cụ già ngồi bên hiên nhà nhâm nhi chén trà nóng và đọc tờ báo cũ.", "kind": "control", "font": "DejaVuSerif-Bold"}
+{"id": "ctl_0088", "original": "Không có gì quý hơn độc lập tự do", "shown": "Không có gì quý hơn độc lập tự do", "kind": "control", "font": "DejaVuSans-Bold"}
+{"id": "ctl_0164", "original": "Cẩn thận khi qua đường, hãy quan sát kỹ hai bên và đi trên vạch dành cho người đi bộ.", "shown": "Cẩn thận khi qua đường, hãy quan sát kỹ hai bên và đi trên vạch dành cho người đi bộ.", "kind": "control", "font": "DejaVuSerif-Bold"}
+{"id": "ctl_0021", "original": "Xin Chào", "shown": "Xin Chào", "kind": "control", "font": "DejaVuSans-Bold"}
+{"id": "ctl_0169", "original": "Đội tình nguyện xanh tổ chức dọn rác bãi biển Mỹ Khê vào sáng chủ nhật hằng tuần.", "shown": "Đội tình nguyện xanh tổ chức dọn rác bãi biển Mỹ Khê vào sáng chủ nhật hằng tuần.", "kind": "control", "font": "DejaVuSerif-Bold"}
+{"id": "ctl_0030", "original": "Hà Nội", "shown": "Hà Nội", "kind": "control", "font": "DejaVuSans-Bold"}
+{"id": "ctl_0099", "original": "Lớp học tiếng Anh buổi tối", "shown": "Lớp học tiếng Anh buổi tối", "kind": "control", "font": "DejaVuSerif-Bold"}

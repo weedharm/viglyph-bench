@@ -1,0 +1,206 @@
+{
+ "outputs/dev_base": {
+  "qwen3vl": {
+   "exact": 0.417,
+   "cer": 0.0614,
+   "n": 60
+  },
+  "vintern": {
+   "exact": 0.317,
+   "cer": 0.2687,
+   "n": 60
+  },
+  "easyocr": {
+   "exact": 0.05,
+   "cer": 0.223,
+   "n": 60
+  }
+ },
+ "outputs/dev_rl_nft_v3/ckpt-20": {
+  "qwen3vl": {
+   "exact": 0.367,
+   "cer": 0.0424,
+   "n": 60
+  },
+  "vintern": {
+   "exact": 0.233,
+   "cer": 0.1263,
+   "n": 60
+  },
+  "easyocr": {
+   "exact": 0.05,
+   "cer": 0.2093,
+   "n": 60
+  }
+ },
+ "outputs/dev_rl_nft_v3/ckpt-30": {
+  "qwen3vl": {
+   "exact": 0.433,
+   "cer": 0.0274,
+   "n": 60
+  },
+  "vintern": {
+   "exact": 0.3,
+   "cer": 0.1116,
+   "n": 60
+  },
+  "easyocr": {
+   "exact": 0.117,
+   "cer": 0.2127,
+   "n": 60
+  }
+ },
+ "outputs/dev_rl_nft_v3/ckpt-40": {
+  "qwen3vl": {
+   "exact": 0.35,
+   "cer": 0.0359,
+   "n": 60
+  },
+  "vintern": {
+   "exact": 0.267,
+   "cer": 0.1272,
+   "n": 60
+  },
+  "easyocr": {
+   "exact": 0.05,
+   "cer": 0.2157,
+   "n": 60
+  }
+ },
+ "outputs/dev_rl_nft_v3b/ckpt-50": {
+  "qwen3vl": {
+   "exact": 0.483,
+   "cer": 0.0332,
+   "n": 60
+  },
+  "vintern": {
+   "exact": 0.333,
+   "cer": 0.125,
+   "n": 60
+  },
+  "easyocr": {
+   "exact": 0.05,
+   "cer": 0.211,
+   "n": 60
+  }
+ },
+ "outputs/dev_rl_nft_v3b/ckpt-60": {
+  "qwen3vl": {
+   "exact": 0.417,
+   "cer": 0.0353,
+   "n": 60
+  },
+  "vintern": {
+   "exact": 0.317,
+   "cer": 0.1034,
+   "n": 60
+  },
+  "easyocr": {
+   "exact": 0.067,
+   "cer": 0.2063,
+   "n": 60
+  }
+ },
+ "outputs/dev_rl_nft_v3b/ckpt-70": {
+  "qwen3vl": {
+   "exact": 0.467,
+   "cer": 0.03,
+   "n": 60
+  },
+  "vintern": {
+   "exact": 0.35,
+   "cer": 0.1129,
+   "n": 60
+  },
+  "easyocr": {
+   "exact": 0.033,
+   "cer": 0.2063,
+   "n": 60
+  }
+ },
+ "outputs/dev_rl_nft_v3b/ckpt-80": {
+  "qwen3vl": {
+   "exact": 0.517,
+   "cer": 0.0241,
+   "n": 60
+  },
+  "vintern": {
+   "exact": 0.383,
+   "cer": 0.1015,
+   "n": 60
+  },
+  "easyocr": {
+   "exact": 0.117,
+   "cer": 0.2105,
+   "n": 60
+  }
+ },
+ "outputs/dev_rl_nft_v3c/ckpt-90": {
+  "qwen3vl": {
+   "exact": 0.433,
+   "cer": 0.029,
+   "n": 60
+  },
+  "vintern": {
+   "exact": 0.35,
+   "cer": 0.1185,
+   "n": 60
+  },
+  "easyocr": {
+   "exact": 0.067,
+   "cer": 0.2057,
+   "n": 60
+  }
+ },
+ "outputs/dev_rl_nft_v3c/ckpt-100": {
+  "qwen3vl": {
+   "exact": 0.517,
+   "cer": 0.0285,
+   "n": 60
+  },
+  "vintern": {
+   "exact": 0.317,
+   "cer": 0.1124,
+   "n": 60
+  },
+  "easyocr": {
+   "exact": 0.033,
+   "cer": 0.2178,
+   "n": 60
+  }
+ },
+ "outputs/dev_rl_nft_v3c/ckpt-110": {
+  "qwen3vl": {
+   "exact": 0.467,
+   "cer": 0.0424,
+   "n": 60
+  },
+  "vintern": {
+   "exact": 0.233,
+   "cer": 0.1007,
+   "n": 60
+  },
+  "easyocr": {
+   "exact": 0.05,
+   "cer": 0.2243,
+   "n": 60
+  }
+ },
+ "outputs/dev_rl_nft_v3c/ckpt-120": {
+  "qwen3vl": {
+   "exact": 0.4,
+   "cer": 0.04,
+   "n": 60
+  },
+  "vintern": {
+   "exact": 0.233,
+   "cer": 0.0965,
+   "n": 60
+  },
+  "easyocr": {
+   "exact": 0.05,
+   "cer": 0.2276,
+   "n": 60
+  }
+ }
+}

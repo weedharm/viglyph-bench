@@ -1,0 +1,218 @@
+{
+ "easyocr": {
+  "control": {
+   "faithful": 15,
+   "other": 5,
+   "n": 20
+  },
+  "kind:control": {
+   "faithful": 15,
+   "other": 5,
+   "n": 20
+  },
+  "injected": {
+   "faithful": 118,
+   "other": 62,
+   "n": 180
+  },
+  "kind:diac_drop": {
+   "faithful": 39,
+   "other": 15,
+   "n": 54
+  },
+  "kind:tone_drop": {
+   "faithful": 45,
+   "other": 19,
+   "n": 64
+  },
+  "kind:tone_swap": {
+   "faithful": 34,
+   "other": 28,
+   "n": 62
+  },
+  "examples": [
+   {
+    "shown": "Tiềm Vàng",
+    "original": "Tiệm Vàng",
+    "ocr": "Tiểm Vàng",
+    "verdict": "other"
+   },
+   {
+    "shown": "GIẠM GIÁ",
+    "original": "GIẢM GIÁ",
+    "ocr": "GIAM GIÁ",
+    "verdict": "other"
+   },
+   {
+    "shown": "Viềt Nam",
+    "original": "Việt Nam",
+    "ocr": "Viêt Nam",
+    "verdict": "other"
+   },
+   {
+    "shown": "Ươc Mơ",
+    "original": "Ước Mơ",
+    "ocr": "Uơc Mơ",
+    "verdict": "other"
+   },
+   {
+    "shown": "Kỷ Niềm",
+    "original": "Kỷ Niệm",
+    "ocr": "Kỷ Niêm",
+    "verdict": "other"
+   },
+   {
+    "shown": "Mẳt Trời",
+    "original": "Mặt Trời",
+    "ocr": "Mẳt Tròi",
+    "verdict": "other"
+   },
+   {
+    "shown": "Nghi Ngơi",
+    "original": "Nghỉ Ngơi",
+    "ocr": "Nghi Ngoi",
+    "verdict": "other"
+   },
+   {
+    "shown": "Trưỡng Học",
+    "original": "Trường Học",
+    "ocr": "Irưỡng Học",
+    "verdict": "other"
+   },
+   {
+    "shown": "ẤM THỰC",
+    "original": "ẨM THỰC",
+    "ocr": "ÂM THỰC",
+    "verdict": "other"
+   },
+   {
+    "shown": "ƯU ĐẠI",
+    "original": "ƯU ĐÃI",
+    "ocr": "UU ĐẠI",
+    "verdict": "other"
+   },
+   {
+    "shown": "LẼ HỘI",
+    "original": "LỄ HỘI",
+    "ocr": "LẼ HỘl",
+    "verdict": "other"
+   },
+   {
+    "shown": "Lẩu Mắm Cần Thơ Chính Góc",
+    "original": "Lẩu Mắm Cần Thơ Chính Gốc",
+    "ocr": "Lẩu Mắm Cẩn Thơ Chính Góc",
+    "verdict": "other"
+   }
+  ]
+ },
+ "vintern": {
+  "control": {
+   "faithful": 19,
+   "other": 1,
+   "n": 20
+  },
+  "kind:control": {
+   "faithful": 19,
+   "other": 1,
+   "n": 20
+  },
+  "injected": {
+   "faithful": 81,
+   "autocorrect": 78,
+   "other": 21,
+   "n": 180
+  },
+  "kind:diac_drop": {
+   "faithful": 15,
+   "autocorrect": 35,
+   "other": 4,
+   "n": 54
+  },
+  "kind:tone_drop": {
+   "faithful": 39,
+   "autocorrect": 18,
+   "other": 7,
+   "n": 64
+  },
+  "kind:tone_swap": {
+   "autocorrect": 25,
+   "faithful": 27,
+   "other": 10,
+   "n": 62
+  },
+  "examples": [
+   {
+    "shown": "Trá Sữa",
+    "original": "Trà Sữa",
+    "ocr": "Trà Sữa",
+    "verdict": "autocorrect"
+   },
+   {
+    "shown": "Hủ Tiéu",
+    "original": "Hủ Tiếu",
+    "ocr": "Hủ Tiếu",
+    "verdict": "autocorrect"
+   },
+   {
+    "shown": "Nhà Sach",
+    "original": "Nhà Sách",
+    "ocr": "Nhà Sách",
+    "verdict": "autocorrect"
+   },
+   {
+    "shown": "SỨA XE",
+    "original": "SỬA XE",
+    "ocr": "SỬA XE",
+    "verdict": "autocorrect"
+   },
+   {
+    "shown": "GIĂT ỦI",
+    "original": "GIẶT ỦI",
+    "ocr": "GIẮT ỦI",
+    "verdict": "other"
+   },
+   {
+    "shown": "Cam Ơn",
+    "original": "Cảm Ơn",
+    "ocr": "Cam ơn",
+    "verdict": "other"
+   },
+   {
+    "shown": "Yêu Thưong",
+    "original": "Yêu Thương",
+    "ocr": "Yêu Thương",
+    "verdict": "autocorrect"
+   },
+   {
+    "shown": "Bình Yen",
+    "original": "Bình Yên",
+    "ocr": "Bình Yến",
+    "verdict": "other"
+   },
+   {
+    "shown": "Viềt Nam",
+    "original": "Việt Nam",
+    "ocr": "Việt Nam",
+    "verdict": "autocorrect"
+   },
+   {
+    "shown": "Đà Năng",
+    "original": "Đà Nẵng",
+    "ocr": "Đà Nẵng",
+    "verdict": "autocorrect"
+   },
+   {
+    "shown": "Hué",
+    "original": "Huế",
+    "ocr": "Huế",
+    "verdict": "autocorrect"
+   },
+   {
+    "shown": "Phú Quóc",
+    "original": "Phú Quốc",
+    "ocr": "Phú Quốc",
+    "verdict": "autocorrect"
+   }
+  ]
+ }
+}

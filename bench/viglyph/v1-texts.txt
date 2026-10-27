@@ -1,0 +1,510 @@
+# ViGlyph-Bench draft v0 - chuỗi chữ đích (NFC). Mỗi dòng một mẫu; dòng bắt đầu bằng # là chú thích.
+# Bucket được tính tự động theo số từ: short 1-3, medium 4-10, long 11-25.
+# --- short ---
+Phở Bò
+Bánh Mì
+Cà Phê
+Trà Sữa
+Bún Chả
+Cơm Tấm
+Hủ Tiếu
+Bánh Xèo
+Chè Đậu
+Gỏi Cuốn
+Nhà Sách
+Tiệm Vàng
+Hiệu Thuốc
+SỬA XE
+GIẶT ỦI
+KHUYẾN MÃI
+GIẢM GIÁ
+Mở Cửa
+Đóng Cửa
+Lối Thoát
+Cấm Hút Thuốc
+Xin Chào
+Cảm Ơn
+Tạm Biệt
+Chúc Mừng
+Hạnh Phúc
+Yêu Thương
+Bình Yên
+Quê Hương
+Việt Nam
+Hà Nội
+Đà Nẵng
+Huế
+Hội An
+Cần Thơ
+Quảng Ngãi
+Bắc Ninh
+Phú Quốc
+Hạ Long
+Mỹ Tho
+Tuổi Trẻ
+Ước Mơ
+Kỷ Niệm
+Nặng Nợ
+Lặng Lẽ
+Mặt Trời
+Ngẫm Nghĩ
+Rực Rỡ
+Sững Sờ
+Nghỉ Ngơi
+Nữ Hoàng
+Đường Phố
+Chợ Đêm
+Trường Học
+Bệnh Viện
+Bưu Điện
+Ngân Hàng
+Siêu Thị
+Khách Sạn
+Nhà Hàng
+Thư Viện
+Bảo Tàng
+ẨM THỰC
+Giữ Gìn
+Vững Bước
+ĐẶC SẢN
+MỖI NGÀY
+TỰ DO
+ĐỘC LẬP
+ƯU ĐÃI
+LỄ HỘI
+Ngõ Hẻm
+# --- medium ---
+Cà Phê Sữa Đá Sài Gòn
+Phở Bò Gia Truyền Nam Định
+Bánh Mì Thịt Nướng Hội An
+Mở cửa từ 6 giờ đến 22 giờ
+CHÚC MỪNG NĂM MỚI AN KHANG THỊNH VƯỢNG
+Giảm giá 50% tất cả sản phẩm
+Cấm đỗ xe trước cửa nhà
+Xin vui lòng giữ trật tự
+Hãy đọc sách mỗi ngày
+Tiệm Bánh Ngọt Của Mẹ
+Quán Ốc Đêm Nguyễn Trãi
+Lẩu Mắm Cần Thơ Chính Gốc
+Trường Tiểu Học Lê Quý Đôn
+Nhà Thuốc Đức Thịnh
+Sữa Chua Nếp Cẩm Hà Nội
+Học, học nữa, học mãi
+Không có gì quý hơn độc lập tự do
+Đường lên đỉnh núi Bà Đen
+Chào mừng quý khách đến Đà Lạt
+Hương vị quê nhà ấm áp
+Kỷ niệm mười năm thành lập công ty
+Bún Bò Huế Dì Ba
+Gà Rán Giòn Rụm Thơm Ngon
+TUYỂN NHÂN VIÊN PHỤC VỤ GẤP
+Đặt bàn trước qua điện thoại
+Miễn phí giao hàng nội thành
+Ngày hội đọc sách thiếu nhi
+Lớp học tiếng Anh buổi tối
+Vườn Quốc Gia Cúc Phương
+Chợ Nổi Cái Răng Cần Thơ
+Nước mía siêu sạch ép tại chỗ
+Bánh cuốn nóng Thanh Trì
+Hủ tiếu Nam Vang ngon nhất phố
+Điểm hẹn của những người bạn
+Mùa thu Hà Nội lá vàng rơi
+Tiết kiệm điện là yêu nước
+Giữ gìn vệ sinh chung
+Rửa tay sạch trước khi ăn
+Chè Thái Sầu Riêng Đặc Biệt
+Ngõ nhỏ phố nhỏ nhà tôi ở đó
+Sách hay là người bạn tốt
+Triển lãm tranh sơn mài Việt Nam
+Hội chợ Xuân Ất Tỵ 2025
+Ưu đãi đặc biệt dành cho sinh viên
+Nồi lẩu nghi ngút khói chiều đông
+Những ngọn đèn lồng phố Hội
+Bảo hành chính hãng mười hai tháng
+Gội đầu dưỡng sinh thảo dược
+Cửa hàng tiện lợi mở cả ngày
+Thịt kho trứng nước dừa
+Mỗi ngày một niềm vui nhỏ
+Ước mơ của tuổi trẻ Việt
+Xưởng may áo dài truyền thống
+Đồng hồ chính xác từng giây
+Sửa chữa điện thoại lấy liền
+Cẩn thận sàn ướt dễ trượt ngã
+Bãi giữ xe máy có mái che
+Nhà nghỉ Hướng Dương còn phòng
+Bánh chưng xanh, câu đối đỏ
+Tết đoàn viên, sum vầy bên nhau
+Hạt giống tâm hồn nảy mầm
+Thư viện mở cửa đến chín giờ tối
+Kem dừa mát lạnh giữa trưa hè
+Lời hứa của những người lính trẻ
+Đừng để lỡ chuyến tàu cuối cùng
+Mắm tôm, mắm ruốc, mắm nêm
+Cơm niêu Sài Gòn nóng hổi
+Dạy bơi cho trẻ em mùa hè
+Phòng khám nha khoa Ngọc Ẩn
+Quỹ khuyến học xã Mỹ Đức
+Vé số Kiến Thiết Vĩnh Long
+NGÀY HỘI VIỆC LÀM THANH NIÊN
+# --- long ---
+Thời gian là vàng bạc, đừng để lãng phí từng phút giây quý báu của cuộc đời.
+Chúng tôi phục vụ phở bò, phở gà và bún chả Hà Nội từ sáu giờ sáng mỗi ngày.
+Quý khách vui lòng xếp hàng trật tự và giữ khoảng cách an toàn với người phía trước.
+Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao.
+Uống nước nhớ nguồn, ăn quả nhớ kẻ trồng cây, đó là đạo lý của người Việt.
+Học sinh nghỉ hè từ ngày mười lăm tháng năm đến hết ngày ba mươi mốt tháng tám.
+Bánh mì nóng giòn kẹp chả lụa, pa tê, dưa leo và rau thơm, chỉ hai mươi nghìn đồng.
+Trên đường đời không có con đường nào trải đầy hoa hồng, chỉ có sự kiên trì mới đưa ta tới đích.
+Hãy bảo vệ môi trường bằng cách phân loại rác thải và hạn chế sử dụng túi ni lông.
+Đêm nay trăng sáng vằng vặc trên dòng sông quê, tiếng ếch nhái râm ran khắp cánh đồng.
+Nhà hàng chúng tôi nhận đặt tiệc cưới, sinh nhật, liên hoan với thực đơn đa dạng và giá cả hợp lý.
+Gió mùa đông bắc tràn về, nhiệt độ ở vùng núi phía bắc có nơi giảm xuống dưới mười độ.
+Lễ hội hoa đăng sẽ diễn ra vào tối thứ bảy tại quảng trường trung tâm thành phố.
+Đọc một cuốn sách hay giống như trò chuyện với những người bạn uyên bác nhất của nhiều thế kỷ.
+Phòng tập mở cửa từ năm giờ sáng đến mười giờ tối, kể cả ngày lễ và chủ nhật.
+Cuộc thi vẽ tranh thiếu nhi với chủ đề Quê hương em đẹp lắm nhận bài đến hết tháng mười.
+Xin lỗi quý khách, cửa hàng tạm nghỉ để sửa chữa và sẽ mở cửa trở lại vào tuần sau.
+Những cánh đồng lúa chín vàng óng trải dài tít tắp dưới bầu trời xanh ngắt mùa thu.
+Kỷ luật là cầu nối giữa mục tiêu và thành tựu, hãy bắt đầu ngay từ hôm nay.
+Tiếng Việt giàu và đẹp, mỗi dấu thanh mang một sắc thái riêng không thể thay thế.
+Cẩn thận khi qua đường, hãy quan sát kỹ hai bên và đi trên vạch dành cho người đi bộ.
+Bữa cơm gia đình đơn sơ nhưng ấm áp, có canh rau muống, cá kho tộ và đĩa dưa cà.
+Thư viện nhận quyên góp sách cũ để gửi tặng các em học sinh vùng sâu vùng xa.
+Mỗi sáng sớm, cụ già ngồi bên hiên nhà nhâm nhi chén trà nóng và đọc tờ báo cũ.
+Chương trình khuyến mãi áp dụng cho đơn hàng trên năm trăm nghìn đồng đến hết ngày chủ nhật.
+Đội tình nguyện xanh tổ chức dọn rác bãi biển Mỹ Khê vào sáng chủ nhật hằng tuần.
+Mưa rơi lất phất trên mái ngói rêu phong của ngôi chùa cổ bên bờ hồ.
+Đừng ngại thất bại, vì mỗi lần vấp ngã là một bài học quý giá cho chặng đường phía trước.
+Hội thảo khoa học về trí tuệ nhân tạo và ứng dụng trong giáo dục sẽ khai mạc lúc tám giờ sáng.
+Ông bà ta thường dặn con cháu phải biết kính trên nhường dưới và sống chan hoà với xóm giềng.
+Tàu hoả xuyên Việt dừng ở ga Huế khoảng mười lăm phút để hành khách lên xuống.
+Bản đồ du lịch gồm vịnh Hạ Long, phố cổ Hội An, cố đô Huế và đồng bằng sông Cửu Long.
+Ngày mai trời nắng ráo, thích hợp cho chuyến dã ngoại của lớp mười hai A.
+Anh ấy lặng lẽ ngồi đọc những bức thư cũ, đôi mắt đỏ hoe vì nhớ thương.
+Giữ gìn sự trong sáng của tiếng Việt là trách nhiệm của mỗi người chúng ta.
+Ngưỡng cửa đại học đã mở ra, chúc các em vững bước trên con đường tri thức.
+# ViGlyph-Bench v1 — 320 chuỗi bổ sung (viết tay, NFC), nối sau 180 chuỗi của draft-v0 → 500 prompt.
+# Bucket tự tính theo số từ: short 1-3, medium 4-10, long 11-25.
+# --- short (128) ---
+Bún Bò Huế
+Bánh Đúc Nóng
+Chè Bưởi
+Xôi Xéo
+Nem Rán
+Cháo Lòng
+Bò Lúc Lắc
+Gà Nướng
+Lẩu Dê
+Ốc Luộc
+Mì Quảng
+Cao Lầu
+Xôi Gấc Đỏ
+Sữa Đậu Nành
+Nước Mía
+Kem Dừa
+Quà Lưu Niệm
+Bia Hơi
+Cà Phê Muối
+Sinh Tố Bơ
+Tạp Hóa
+Tiệm Bánh
+Hiệu Sách Cũ
+Quán Nhậu
+Nhà Thuốc
+Tiệm Tóc
+Sửa Điện Thoại
+Rửa Xe
+Cầm Đồ
+Văn Phòng Phẩm
+Đồ Gỗ
+Gốm Sứ
+Lụa Hà Đông
+Nón Lá
+Áo Dài
+Thời Trang Nữ
+Giày Dép
+Kính Mắt
+Đồng Hồ
+Đổi Tiền
+BÁN GẤP
+CHO THUÊ NHÀ
+CẤM ĐỖ XE
+GIẢM 50%
+ĐỒNG GIÁ
+HÀNG MỚI VỀ
+THANH LÝ
+TUYỂN DỤNG
+KHAI TRƯƠNG
+ĐANG GIẢM GIÁ
+HẾT HÀNG
+MIỄN PHÍ
+Lối Ra
+Lối Vào
+Tiệm Kim Hoàn
+Phòng Họp
+Thang Máy
+Cầu Thang Bộ
+Bãi Đỗ Xe
+Quầy Lễ Tân
+Phòng Khám
+Khoa Nhi
+Cấp Cứu
+Trạm Y Tế
+Đồ Chơi Gỗ
+Gỏi Gà Măng
+Nhà Ga
+Bến Xe
+Sân Bay
+Trường Mầm Non
+Bún Mọc Sườn
+Nhà Văn Hóa
+Chè Thưng Nóng
+Phố Đi Bộ
+Hồ Gươm
+Vịnh Hạ Long
+Phố Cổ
+Đà Lạt
+Sa Pa
+Tiệm Vải Lụa
+Hàng Mã Tết
+Huế Mộng Mơ
+Cốm Làng Vòng
+Côn Đảo
+Tết Nguyên Đán
+Trung Thu
+Giáng Sinh
+Mừng Thọ
+Song Hỷ
+Vu Quy
+Tân Hôn
+Thôi Nôi
+Tranh Sơn Mài
+Tri Ân
+Khuyến Học
+Thể Dục
+Bánh Giầy Giò
+Mỹ Nghệ
+Thủ Công
+Nghỉ Lễ
+Đóng Cửa Sớm
+Mở Cả Ngày
+Đã Đặt Bàn
+Chỗ Ngồi Trống
+Quẹt Thẻ
+Gửi Đồ
+Hàng Xách Tay
+Đặc Sản Vùng
+Mắm Tôm
+Nước Mắm
+Phở Cuốn
+Bánh Chưng
+Giò Lụa
+Chả Cá
+Bún Riêu
+Lò Bánh Mì
+Bánh Tráng Trộn
+Kẹo Lạc Vừng
+Cơm Gà
+Lẩu Mắm
+Chuối Nướng
+Bắp Xào
+Khoai Lang
+Sữa Ngô Nóng
+Nước Dừa
+Rượu Nếp
+Mứt Gừng
+Ô Mai
+# --- medium (128) ---
+Phở bò tái nạm gầu gân
+Cơm văn phòng giao tận nơi
+Bánh mì chảo nóng hổi mỗi sáng
+Cà phê sữa đá Sài Gòn xưa
+Trà chanh giã tay giải nhiệt
+Lẩu cá kèo lá giang chua cay
+Gà nướng mật ong thơm lừng
+Bún đậu mắm tôm chuẩn vị Hà Nội
+Chè khúc bạch mát lạnh ngày hè
+Bánh xèo miền Tây giòn rụm
+Giao hàng tận nơi trong vòng hai giờ
+GIẢM GIÁ MƯỜI PHẦN TRĂM CHO HỌC SINH
+Mua hai tặng một trong tuần này
+Hàng chính hãng bảo hành mười hai tháng
+Chỉ nhận khách đặt trước qua điện thoại
+Đổi trả trong vòng bảy ngày
+Thanh toán bằng mã QR tại quầy
+Xin vui lòng xếp hàng theo thứ tự
+KHÔNG HÚT THUỐC TRONG KHU VỰC NÀY
+Nhà hàng chay thanh tịnh giữa lòng phố
+Khu vực dành riêng cho người đi bộ
+Giữ trật tự trong thư viện
+Vui lòng tắt điện thoại khi vào lớp
+Học sinh xuống xe dắt bộ
+Đường đang thi công xin đi chậm
+CẤM ĐỔ RÁC VÀ XẢ THẢI BỪA BÃI
+Nghiêm cấm câu cá dưới hồ
+Thịt trâu gác bếp chuẩn vị Tây Bắc
+Giờ mở cửa từ tám giờ sáng
+Tạm nghỉ trưa từ mười một giờ
+Lớp học tiếng Anh cho người lớn
+Luyện thi đại học khối A và D
+Dạy bơi cho trẻ em dịp hè
+Câu lạc bộ cờ tướng phường Bến Nghé
+Hội chợ hàng Việt Nam chất lượng cao
+Lễ hội hoa xuân năm nay
+Đêm nhạc Trịnh Công Sơn tưởng niệm
+Giải chạy vì trẻ em vùng cao
+Ngày hội hiến máu nhân đạo
+Chương trình khám mắt miễn phí
+Tiệm May Áo Dài Cô Hằng
+Sửa chữa đồng hồ và kính mắt
+Khóa cửa điện tử thông minh
+Nội Thất Gỗ Óc Chó Cao Cấp
+Gạo ST25 ngon nhất thế giới
+Mật Ong Rừng Nguyên Chất U Minh
+Nước mắm truyền thống Phú Quốc
+Bánh Pía Sầu Riêng Sóc Trăng
+Kẹo dừa Bến Tre thơm ngon
+Nem Chua Thanh Hóa Đặc Sản
+Lớp vẽ tranh màu nước cho thiếu nhi
+Chè Thái Nguyên hảo hạng
+Rượu cần Tây Nguyên men lá
+Bưởi da xanh không hạt
+Xoài Cát Hòa Lộc Chín Cây
+Vải thiều Lục Ngạn ngọt lịm
+Nhãn lồng Hưng Yên tiến vua
+Dừa sáp Cầu Kè béo ngậy
+Hồng giòn Đà Lạt vừa thu hoạch
+Quà tặng ý nghĩa dành cho thầy cô
+Vạn sự như ý tỷ sự như mơ
+Chào mừng quý khách đến với Hội An
+Kính chúc thầy cô mạnh khỏe hạnh phúc
+Mừng đại lễ khánh thành chùa Bửu Long
+Trân trọng kính mời quý vị đại biểu
+Ngày hội gia đình Việt Nam
+Hội sách cũ mỗi sáng chủ nhật
+Nắng vàng biển xanh cát trắng
+Thương nhớ ơi quê hương tôi
+Uống nước nhớ nguồn
+Học thầy không tày học bạn
+Có công mài sắt có ngày nên kim
+Một cây làm chẳng nên non
+Đi một ngày đàng học một sàng khôn
+Ăn quả nhớ kẻ trồng cây
+Lá lành đùm lá rách
+Tốt gỗ hơn tốt nước sơn
+Gần mực thì đen gần đèn thì rạng
+Muốn sang thì bắc cầu kiều
+Bán hàng online thu nhập ổn định
+TUYỂN NHÂN VIÊN PHỤC VỤ CA TỐI
+Cần thợ phụ hồ lương cao
+Nhận dạy kèm toán lý hóa
+CHO THUÊ PHÒNG TRỌ KHÉP KÍN
+Bán đất nền sổ đỏ chính chủ
+Sang nhượng quán cà phê đang kinh doanh
+Chuyên sửa xe máy các loại
+Thay nhớt rửa xe lấy liền
+Vá vỏ ruột xe đạp xe máy
+THU MUA PHẾ LIỆU GIÁ CAO
+Dịch vụ chuyển nhà trọn gói
+Vệ sinh máy lạnh tận nhà
+Khoan cắt bê tông chuyên nghiệp
+In ấn thiệp cưới lấy nhanh
+Chụp ảnh thẻ lấy ngay
+Photo công chứng giấy tờ
+Đại lý vé máy bay giá rẻ
+Tour du lịch Sa Pa ba ngày
+Khách sạn view biển Nha Trang
+Homestay giữa rừng thông Đà Lạt
+Bể bơi bốn mùa nước ấm
+Phòng tập gym mở cửa xuyên đêm
+Yoga cho bà bầu mỗi sáng
+Tàu điện ngầm chuyến cuối lúc mười giờ
+Phòng Khám Nha Khoa Thẩm Mỹ Việt
+Bác sĩ trực hai mươi bốn giờ
+Tiêm chủng vắc xin cho trẻ
+Quầy thuốc đạt chuẩn GPP
+Rau sạch từ nông trại Đà Lạt
+Thịt heo sạch không chất tăng trọng
+Hải sản tươi sống bắt tại bè
+Cua Cà Mau chắc thịt
+Tôm hùm Bình Ba hấp bia
+Ốc len xào dừa béo ngậy
+Gỏi cá trích Phú Quốc
+Bánh canh ghẹ Vũng Tàu
+Mì vịt tiềm người Hoa
+Bánh đa cua Hải Phòng
+Bún chả cá Quy Nhơn
+Cơm hến Huế cay nồng
+Bánh căn Phan Rang nóng giòn
+Bò né ba ngon mỗi sáng
+Hột vịt lộn xào me
+Chè bà ba nước cốt dừa
+Sữa chua nếp cẩm mát lạnh
+Kem bơ Đà Lạt trứ danh
+Rau má đậu xanh giải nhiệt
+Nước ép cóc ổi xoài
+# --- long (64) ---
+Quán sẽ tạm nghỉ từ mùng một đến mùng năm Tết, kính chúc quý khách năm mới an lành.
+Vui lòng giữ gìn vệ sinh chung và bỏ rác đúng nơi quy định để bảo vệ môi trường.
+Học sinh đến trường trước bảy giờ sáng, mặc đồng phục và đeo khăn quàng đỏ đầy đủ.
+Chương trình khuyến mãi áp dụng cho tất cả sản phẩm, không áp dụng đồng thời với ưu đãi khác.
+Mỗi giọt máu cho đi là một cuộc đời ở lại, hãy cùng tham gia hiến máu nhân đạo.
+Thư viện mở cửa từ thứ hai đến thứ bảy, nghỉ chủ nhật và các ngày lễ lớn.
+Hãy sống như những đóa hoa, cho đời hương thơm mà chẳng đòi hỏi điều gì.
+Khách hàng vui lòng đếm lại tiền thừa và nhận hóa đơn trước khi rời cửa hàng của chúng tôi.
+Cấm các phương tiện có tải trọng trên mười tấn đi vào cầu trong giờ cao điểm.
+Bệnh nhân vui lòng xuất trình thẻ bảo hiểm y tế và giấy tờ tùy thân khi đăng ký khám.
+Tuổi trẻ là quãng thời gian đẹp nhất, hãy dám ước mơ và dám thay đổi bản thân.
+Nhà hàng nhận đặt tiệc sinh nhật, liên hoan công ty và tiệc cưới với thực đơn đa dạng.
+Đường lên đỉnh Fansipan dài và gian nan nhưng cảnh sắc trên đó đẹp như tranh vẽ.
+Mỗi ngày đọc một trang sách là mỗi ngày ta tiến gần hơn tới ước mơ của mình.
+Ban quản lý chung cư thông báo sẽ cắt nước để bảo trì đường ống vào sáng thứ năm.
+Chúc mừng sinh nhật mẹ yêu, cảm ơn mẹ đã luôn ở bên con những lúc khó khăn nhất.
+Gạo trắng nước trong, quê hương mình còn nghèo nhưng tình người ấm áp biết bao.
+Xin quý khách vui lòng không mang thức ăn và đồ uống từ bên ngoài vào nhà hàng.
+Lớp học tình thương miễn phí cho trẻ em có hoàn cảnh khó khăn trong khu phố.
+Trên đường đời không có con đường nào trải đầy hoa hồng, chỉ có ý chí mới giúp ta vượt qua.
+Chợ nổi Cái Răng họp từ tờ mờ sáng, ghe xuồng tấp nập chở đầy trái cây miền Tây.
+Phố cổ Hội An lung linh ánh đèn lồng mỗi đêm rằm, du khách thả hoa đăng trên sông Hoài.
+Vịnh Hạ Long được UNESCO công nhận là di sản thiên nhiên thế giới với hàng nghìn đảo đá vôi.
+Hồ Gươm vào thu đẹp dịu dàng với hàng liễu rủ và tháp Rùa cổ kính giữa lòng hồ.
+Quầy làm thủ tục sẽ đóng trước giờ cất cánh bốn mươi phút, mong quý hành khách đến sớm.
+Hành khách vui lòng thắt dây an toàn và giữ trật tự trong suốt hành trình của chuyến xe.
+Trường tổ chức lễ khai giảng năm học mới vào lúc bảy giờ ba mươi sáng ngày năm tháng chín.
+Đội tình nguyện trẻ cần thêm người phát quà cho các em nhỏ ở bản vùng cao dịp Trung thu.
+Mùa xuân là Tết trồng cây, làm cho đất nước càng ngày càng xuân.
+Không có việc gì khó, chỉ sợ lòng không bền, đào núi và lấp biển, quyết chí ắt làm nên.
+Ở đâu có lòng tin, ở đó có hy vọng, và nơi có hy vọng sẽ có bình yên.
+Bánh trung thu nhân thập cẩm, đậu xanh, khoai môn và trà xanh đã có mặt tại cửa hàng.
+Hãy gọi ngay cho chúng tôi để được tư vấn miễn phí về sức khỏe và dinh dưỡng.
+Khu vườn nhỏ trên sân thượng trồng đủ loại rau thơm, ớt, cà chua và vài khóm hoa hồng.
+Người dân lưu ý khóa cửa cẩn thận và không để tài sản có giá trị trong xe máy.
+Xin chân thành cảm ơn quý khách đã tin tưởng và đồng hành cùng chúng tôi suốt mười năm qua.
+Hôm nay trời nắng đẹp, cả nhà rủ nhau đi dạo công viên và ăn kem bên bờ hồ.
+Thực đơn hôm nay gồm canh chua cá lóc, thịt kho trứng, rau muống xào tỏi và cơm trắng.
+Bến phà sẽ ngừng hoạt động khi có gió mạnh trên cấp sáu, mong hành khách thông cảm.
+Công ty xin thông báo lịch nghỉ lễ Quốc khánh từ ngày mùng một đến hết ngày mùng ba tháng chín.
+Ngủ đủ giấc, ăn uống lành mạnh và tập thể dục đều đặn giúp bạn khỏe mạnh mỗi ngày.
+Bản làng chìm trong sương sớm, khói bếp lững lờ bay trên những mái nhà sàn bên sườn đồi.
+Hoa phượng đỏ rực sân trường báo hiệu một mùa hè nữa lại về, mùa của chia tay.
+Đừng để đến ngày mai những việc có thể làm hôm nay, thời gian trôi qua không bao giờ trở lại.
+Hội chợ ẩm thực đường phố diễn ra cuối tuần này với hơn một trăm gian hàng đặc sản ba miền.
+Mời bạn ghé quán thưởng thức ly cà phê phin đậm đà và nghe nhạc xưa nhẹ nhàng.
+Giải bóng đá thiếu niên toàn thành phố sẽ khởi tranh vào sáng chủ nhật tại sân vận động Thống Nhất.
+Nơi này từng là chiến trường ác liệt, nay đã trở thành khu di tích lịch sử quốc gia.
+Chiếc áo dài trắng tinh khôi đã gắn liền với tuổi học trò của biết bao thế hệ nữ sinh.
+Ông bà ta dạy rằng một chữ cũng là thầy, nửa chữ cũng là thầy, phải biết kính trọng.
+Cửa hàng chỉ nhận thanh toán bằng tiền mặt và chuyển khoản, không nhận thẻ tín dụng.
+Kỳ nghỉ hè sắp đến, hãy cùng con khám phá những vùng đất mới và học thêm điều hay.
+Tiếng mưa rơi tí tách trên mái tôn làm tôi nhớ những buổi chiều thơ ấu ở quê nội.
+Mọi ý kiến đóng góp xin gửi về hòm thư góp ý đặt tại sảnh chính của tòa nhà.
+Vì một Việt Nam xanh, hãy hạn chế sử dụng túi ni lông và đồ nhựa dùng một lần.
+Cuộc thi viết chữ đẹp dành cho học sinh tiểu học sẽ diễn ra vào cuối tháng mười một.
+Dòng sông quê hiền hòa uốn lượn qua cánh đồng lúa chín vàng ươm trong nắng chiều.
+Khi xảy ra hỏa hoạn, hãy bình tĩnh, dùng khăn ướt che mũi và thoát ra theo lối thoát hiểm.
+Những ngày cuối năm, phố phường rộn ràng sắc đào sắc quất và tiếng cười nói vui vẻ.
+Xin cảm ơn các y bác sĩ đã ngày đêm tận tụy chăm sóc sức khỏe cho người dân.
+Đọc sách không chỉ giúp mở mang kiến thức mà còn nuôi dưỡng tâm hồn mỗi người.
+Trước khi qua đường, hãy nhìn trái, nhìn phải và chỉ đi khi đèn tín hiệu chuyển xanh.
+Gian hàng thủ công mỹ nghệ trưng bày các sản phẩm mây tre đan, gốm sứ và tranh Đông Hồ.
+Chúng tôi luôn sẵn lòng lắng nghe để phục vụ quý khách ngày một tốt hơn.

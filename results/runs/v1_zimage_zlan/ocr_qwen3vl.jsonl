@@ -1,0 +1,500 @@
+{"image": "vg0_0000_s20261005.png", "engine": "qwen3vl-8b-instruct", "text": "Phở Bó", "sec": 1.78}
+{"image": "vg0_0001_s20261006.png", "engine": "qwen3vl-8b-instruct", "text": "Bánh Mì", "sec": 0.4}
+{"image": "vg0_0002_s20261007.png", "engine": "qwen3vl-8b-instruct", "text": "Cà Phê", "sec": 0.37}
+{"image": "vg0_0003_s20261008.png", "engine": "qwen3vl-8b-instruct", "text": "Trà SúaN", "sec": 0.41}
+{"image": "vg0_0004_s20261009.png", "engine": "qwen3vl-8b-instruct", "text": "Bún Chả", "sec": 0.37}
+{"image": "vg0_0005_s20261010.png", "engine": "qwen3vl-8b-instruct", "text": "Cộ m Tầm", "sec": 0.43}
+{"image": "vg0_0006_s20261011.png", "engine": "qwen3vl-8b-instruct", "text": "Hủ Tiề", "sec": 0.38}
+{"image": "vg0_0007_s20261012.png", "engine": "qwen3vl-8b-instruct", "text": "Bánh Xèo", "sec": 0.43}
+{"image": "vg0_0008_s20261013.png", "engine": "qwen3vl-8b-instruct", "text": "Chè Đậu", "sec": 0.38}
+{"image": "vg0_0009_s20261014.png", "engine": "qwen3vl-8b-instruct", "text": "Gỏi Cuốn", "sec": 0.38}
+{"image": "vg0_0010_s20261015.png", "engine": "qwen3vl-8b-instruct", "text": "Nhà Sách", "sec": 0.38}
+{"image": "vg0_0011_s20261016.png", "engine": "qwen3vl-8b-instruct", "text": "Tiệm Vàng", "sec": 0.39}
+{"image": "vg0_0012_s20261017.png", "engine": "qwen3vl-8b-instruct", "text": "Hiệu Thuốc", "sec": 0.38}
+{"image": "vg0_0013_s20261018.png", "engine": "qwen3vl-8b-instruct", "text": "SỬA XE", "sec": 0.42}
+{"image": "vg0_0014_s20261019.png", "engine": "qwen3vl-8b-instruct", "text": "GIẶT ỦI", "sec": 0.42}
+{"image": "vg0_0015_s20261020.png", "engine": "qwen3vl-8b-instruct", "text": "KHUYỆN MÃI", "sec": 0.52}
+{"image": "vg0_0016_s20261021.png", "engine": "qwen3vl-8b-instruct", "text": "GIẢM GIÁ", "sec": 0.42}
+{"image": "vg0_0017_s20261022.png", "engine": "qwen3vl-8b-instruct", "text": "Mợ Còa", "sec": 0.38}
+{"image": "vg0_0018_s20261023.png", "engine": "qwen3vl-8b-instruct", "text": "Dòng Cầu", "sec": 0.38}
+{"image": "vg0_0019_s20261024.png", "engine": "qwen3vl-8b-instruct", "text": "Lối Thoát", "sec": 0.42}
+{"image": "vg0_0020_s20261025.png", "engine": "qwen3vl-8b-instruct", "text": "Càm Hậu Thuok", "sec": 0.51}
+{"image": "vg0_0021_s20261026.png", "engine": "qwen3vl-8b-instruct", "text": "Xin Chào", "sec": 0.37}
+{"image": "vg0_0022_s20261027.png", "engine": "qwen3vl-8b-instruct", "text": "Cảm Ơn", "sec": 0.47}
+{"image": "vg0_0023_s20261028.png", "engine": "qwen3vl-8b-instruct", "text": "Tầm Biệt", "sec": 0.38}
+{"image": "vg0_0024_s20261029.png", "engine": "qwen3vl-8b-instruct", "text": "Chúc Múng", "sec": 0.38}
+{"image": "vg0_0025_s20261030.png", "engine": "qwen3vl-8b-instruct", "text": "Hạnh Phúc", "sec": 0.38}
+{"image": "vg0_0026_s20261031.png", "engine": "qwen3vl-8b-instruct", "text": "Yễu Thầm", "sec": 0.43}
+{"image": "vg0_0027_s20261032.png", "engine": "qwen3vl-8b-instruct", "text": "Bình Yện", "sec": 0.4}
+{"image": "vg0_0028_s20261033.png", "engine": "qwen3vl-8b-instruct", "text": "Quê Hào", "sec": 0.38}
+{"image": "vg0_0029_s20261034.png", "engine": "qwen3vl-8b-instruct", "text": "Việt Nam", "sec": 0.34}
+{"image": "vg0_0030_s20261035.png", "engine": "qwen3vl-8b-instruct", "text": "Hà Nỗi", "sec": 0.39}
+{"image": "vg0_0031_s20261036.png", "engine": "qwen3vl-8b-instruct", "text": "Dà Nhễu", "sec": 0.44}
+{"image": "vg0_0032_s20261037.png", "engine": "qwen3vl-8b-instruct", "text": "Huế", "sec": 0.3}
+{"image": "vg0_0033_s20261038.png", "engine": "qwen3vl-8b-instruct", "text": "Hồi An", "sec": 0.33}
+{"image": "vg0_0034_s20261039.png", "engine": "qwen3vl-8b-instruct", "text": "Cần Thơ", "sec": 0.38}
+{"image": "vg0_0035_s20261040.png", "engine": "qwen3vl-8b-instruct", "text": "Quàng Ngại", "sec": 0.38}
+{"image": "vg0_0036_s20261041.png", "engine": "qwen3vl-8b-instruct", "text": "Bộc Nình", "sec": 0.37}
+{"image": "vg0_0037_s20261042.png", "engine": "qwen3vl-8b-instruct", "text": "Phủ Quoc", "sec": 0.37}
+{"image": "vg0_0038_s20261043.png", "engine": "qwen3vl-8b-instruct", "text": "Hà Long", "sec": 0.33}
+{"image": "vg0_0039_s20261044.png", "engine": "qwen3vl-8b-instruct", "text": "Mỹ Tho", "sec": 0.37}
+{"image": "vg0_0040_s20261045.png", "engine": "qwen3vl-8b-instruct", "text": "Tuổi Trtể", "sec": 0.45}
+{"image": "vg0_0041_s20261046.png", "engine": "qwen3vl-8b-instruct", "text": "Ược Mố\nzlan", "sec": 0.59}
+{"image": "vg0_0042_s20261047.png", "engine": "qwen3vl-8b-instruct", "text": "Kỷ Niệm", "sec": 0.37}
+{"image": "vg0_0043_s20261048.png", "engine": "qwen3vl-8b-instruct", "text": "Nặng Nợ", "sec": 0.37}
+{"image": "vg0_0044_s20261049.png", "engine": "qwen3vl-8b-instruct", "text": "Lăng Lệ", "sec": 0.37}
+{"image": "vg0_0045_s20261050.png", "engine": "qwen3vl-8b-instruct", "text": "Mệt Trói", "sec": 0.38}
+{"image": "vg0_0046_s20261051.png", "engine": "qwen3vl-8b-instruct", "text": "Ngẫm Nghì", "sec": 0.42}
+{"image": "vg0_0047_s20261052.png", "engine": "qwen3vl-8b-instruct", "text": "Rủcc Rỡ", "sec": 0.42}
+{"image": "vg0_0048_s20261053.png", "engine": "qwen3vl-8b-instruct", "text": "Sựng Sơ", "sec": 0.41}
+{"image": "vg0_0049_s20261054.png", "engine": "qwen3vl-8b-instruct", "text": "Nghỉ Ngối", "sec": 0.42}
+{"image": "vg0_0050_s20261055.png", "engine": "qwen3vl-8b-instruct", "text": "Nẩu Hhờug\nzlàn", "sec": 0.6}
+{"image": "vg0_0051_s20261056.png", "engine": "qwen3vl-8b-instruct", "text": "Đừng Phở", "sec": 0.37}
+{"image": "vg0_0052_s20261057.png", "engine": "qwen3vl-8b-instruct", "text": "Chợ Dệm", "sec": 0.37}
+{"image": "vg0_0053_s20261058.png", "engine": "qwen3vl-8b-instruct", "text": "Trộng Hhốc", "sec": 0.42}
+{"image": "vg0_0054_s20261059.png", "engine": "qwen3vl-8b-instruct", "text": "Bình Vuến", "sec": 0.37}
+{"image": "vg0_0055_s20261060.png", "engine": "qwen3vl-8b-instruct", "text": "Bổ điện", "sec": 0.33}
+{"image": "vg0_0056_s20261061.png", "engine": "qwen3vl-8b-instruct", "text": "Ngặn Hhúg", "sec": 0.5}
+{"image": "vg0_0057_s20261062.png", "engine": "qwen3vl-8b-instruct", "text": "Siấu Thỡ", "sec": 0.37}
+{"image": "vg0_0058_s20261063.png", "engine": "qwen3vl-8b-instruct", "text": "Khắc Sẵn", "sec": 0.42}
+{"image": "vg0_0059_s20261064.png", "engine": "qwen3vl-8b-instruct", "text": "Nhà Huân", "sec": 0.37}
+{"image": "vg0_0060_s20261065.png", "engine": "qwen3vl-8b-instruct", "text": "Thùy Viên", "sec": 0.42}
+{"image": "vg0_0061_s20261066.png", "engine": "qwen3vl-8b-instruct", "text": "Bỡ Tận", "sec": 0.38}
+{"image": "vg0_0062_s20261067.png", "engine": "qwen3vl-8b-instruct", "text": "ẨM THỰC", "sec": 0.43}
+{"image": "vg0_0063_s20261068.png", "engine": "qwen3vl-8b-instruct", "text": "Giủ Gỉn", "sec": 0.42}
+{"image": "vg0_0064_s20261069.png", "engine": "qwen3vl-8b-instruct", "text": "Vển Bụ", "sec": 0.39}
+{"image": "vg0_0065_s20261070.png", "engine": "qwen3vl-8b-instruct", "text": "ĐẶC SẮC", "sec": 0.48}
+{"image": "vg0_0066_s20261071.png", "engine": "qwen3vl-8b-instruct", "text": "MỖI NGÀY", "sec": 0.46}
+{"image": "vg0_0067_s20261072.png", "engine": "qwen3vl-8b-instruct", "text": "TỰ DO", "sec": 0.33}
+{"image": "vg0_0068_s20261073.png", "engine": "qwen3vl-8b-instruct", "text": "ĐOÀN", "sec": 0.38}
+{"image": "vg0_0069_s20261074.png", "engine": "qwen3vl-8b-instruct", "text": "ƯƠ ĐẨI", "sec": 0.44}
+{"image": "vg0_0070_s20261075.png", "engine": "qwen3vl-8b-instruct", "text": "LỄ HỘI", "sec": 0.43}
+{"image": "vg0_0071_s20261076.png", "engine": "qwen3vl-8b-instruct", "text": "Ngò Hễm", "sec": 0.44}
+{"image": "vg0_0072_s20261077.png", "engine": "qwen3vl-8b-instruct", "text": "Cà Phê\nSàu Dóo\nSái Góg", "sec": 0.97}
+{"image": "vg0_0073_s20261078.png", "engine": "qwen3vl-8b-instruct", "text": "Phố Bồ Gia Triấn\nNam Dìnôt", "sec": 0.78}
+{"image": "vg0_0074_s20261079.png", "engine": "qwen3vl-8b-instruct", "text": "Bánh Mì Thắt Núơ\nHỏi An", "sec": 0.81}
+{"image": "vg0_0075_s20261080.png", "engine": "qwen3vl-8b-instruct", "text": "Mở cửa từ 6 giờ đến 22 hòu", "sec": 0.85}
+{"image": "vg0_0076_s20261081.png", "engine": "qwen3vl-8b-instruct", "text": "CHÚC MỪNG NĂM MỚI\nAN KHANG THỊNH VƯỢNG", "sec": 1.29}
+{"image": "vg0_0077_s20261082.png", "engine": "qwen3vl-8b-instruct", "text": "Giảm gúa 50%\nTắt ứ sán dhêm", "sec": 0.96}
+{"image": "vg0_0078_s20261083.png", "engine": "qwen3vl-8b-instruct", "text": "Cặm đổi xe thết kàu nạp", "sec": 0.73}
+{"image": "vg0_0079_s20261084.png", "engine": "qwen3vl-8b-instruct", "text": "Xin vuỉ pổg giừ trять tộ", "sec": 0.78}
+{"image": "vg0_0080_s20261085.png", "engine": "qwen3vl-8b-instruct", "text": "Hẫy gốc sách\ngơi nniẫy", "sec": 0.74}
+{"image": "vg0_0081_s20261086.png", "engine": "qwen3vl-8b-instruct", "text": "Tiệm Bãh\nNgọt Cứu Mê", "sec": 0.81}
+{"image": "vg0_0082_s20261087.png", "engine": "qwen3vl-8b-instruct", "text": "Quán Ốc\nĐệm Nguyễn Trải", "sec": 0.68}
+{"image": "vg0_0083_s20261088.png", "engine": "qwen3vl-8b-instruct", "text": "Lẩu Mắm Nân Thộ\nChinh Góc", "sec": 0.79}
+{"image": "vg0_0084_s20261089.png", "engine": "qwen3vl-8b-instruct", "text": "Trung Tòa Hoa\nĐức Quyền", "sec": 0.74}
+{"image": "vg0_0085_s20261090.png", "engine": "qwen3vl-8b-instruct", "text": "Nhà Thuốc\nDuçi Thính", "sec": 0.6}
+{"image": "vg0_0086_s20261091.png", "engine": "qwen3vl-8b-instruct", "text": "Sửa Chua Nếp Càm Hà Nòi", "sec": 0.78}
+{"image": "vg0_0087_s20261092.png", "engine": "qwen3vl-8b-instruct", "text": "Húc, hặc nải, hác mái", "sec": 0.69}
+{"image": "vg0_0088_s20261093.png", "engine": "qwen3vl-8b-instruct", "text": "Kkống hớ nhiếc\ngrễu thân\nđốc lặc tàứ đoy", "sec": 1.13}
+{"image": "vg0_0089_s20261094.png", "engine": "qwen3vl-8b-instruct", "text": "Dừng uể đìn nái Bá Den", "sec": 0.66}
+{"image": "vg0_0090_s20261095.png", "engine": "qwen3vl-8b-instruct", "text": "Chào mường qươ kost\nđốn Dẫ Lắt", "sec": 0.87}
+{"image": "vg0_0091_s20261096.png", "engine": "qwen3vl-8b-instruct", "text": "Hàng vì quặc hòa ẩm áp", "sec": 0.6}
+{"image": "vg0_0092_s20261097.png", "engine": "qwen3vl-8b-instruct", "text": "Ký niễm tểi niễn cen lốt cững gy", "sec": 0.95}
+{"image": "vg0_0093_s20261098.png", "engine": "qwen3vl-8b-instruct", "text": "Bùn Bộ Huệ Dì Ba", "sec": 0.6}
+{"image": "vg0_0094_s20261099.png", "engine": "qwen3vl-8b-instruct", "text": "Gả Rán Giỗn Rụm Thổm Ngốn", "sec": 0.86}
+{"image": "vg0_0095_s20261100.png", "engine": "qwen3vl-8b-instruct", "text": "TUYỂN NHÂN VIÊN\nPHỤC VỤ GẤP", "sec": 1.05}
+{"image": "vg0_0096_s20261101.png", "engine": "qwen3vl-8b-instruct", "text": "Dệt ban gảy\ntha điên thòp", "sec": 0.73}
+{"image": "vg0_0097_s20261102.png", "engine": "qwen3vl-8b-instruct", "text": "Miễn h’i giao hặn nòi thện", "sec": 0.91}
+{"image": "vg0_0098_s20261103.png", "engine": "qwen3vl-8b-instruct", "text": "Ngây hòi\nđốc sáh\nThiểu mĩ\n- zlan", "sec": 1.1}
+{"image": "vg0_0099_s20261104.png", "engine": "qwen3vl-8b-instruct", "text": "Lớp học tiền Anh bón tốt", "sec": 0.65}
+{"image": "vg0_0100_s20261105.png", "engine": "qwen3vl-8b-instruct", "text": "Vũn Quaëu Gia Cức Phóog", "sec": 0.85}
+{"image": "vg0_0101_s20261106.png", "engine": "qwen3vl-8b-instruct", "text": "Chỗ Nối Cái Rặng Nán Thống", "sec": 0.73}
+{"image": "vg0_0102_s20261107.png", "engine": "qwen3vl-8b-instruct", "text": "Nứu mía sigiêi sịch\nếp ất chốç", "sec": 1.0}
+{"image": "vg0_0103_s20261108.png", "engine": "qwen3vl-8b-instruct", "text": "Bánh cuộp nóng Thanh Trì", "sec": 0.64}
+{"image": "vg0_0104_s20261109.png", "engine": "qwen3vl-8b-instruct", "text": "Hủ tiếu Nam Vang\nngôn niặt phố", "sec": 0.82}
+{"image": "vg0_0105_s20261110.png", "engine": "qwen3vl-8b-instruct", "text": "Điển hợp đễu nniêc ggiện bạu", "sec": 0.94}
+{"image": "vg0_0106_s20261111.png", "engine": "qwen3vl-8b-instruct", "text": "Mùa thu\nHà Nội\nLà yứng rồi\n- Zlan", "sec": 0.99}
+{"image": "vg0_0107_s20261112.png", "engine": "qwen3vl-8b-instruct", "text": "Tiệt aán điên\nlà yếu ngọc", "sec": 0.69}
+{"image": "vg0_0108_s20261113.png", "engine": "qwen3vl-8b-instruct", "text": "Giữ về sinh chởng", "sec": 0.52}
+{"image": "vg0_0109_s20261114.png", "engine": "qwen3vl-8b-instruct", "text": "Rùa tẩy siịch pôy kài ến", "sec": 0.86}
+{"image": "vg0_0110_s20261115.png", "engine": "qwen3vl-8b-instruct", "text": "Chè Thai Sáu Riếng\nDắc Biệt", "sec": 0.82}
+{"image": "vg0_0111_s20261116.png", "engine": "qwen3vl-8b-instruct", "text": "Ngổ nhồi phồ' nôn\nNau môi ờ đồn", "sec": 0.97}
+{"image": "vg0_0112_s20261117.png", "engine": "qwen3vl-8b-instruct", "text": "Sách hay là nghiền bián tốt", "sec": 0.64}
+{"image": "vg0_0113_s20261118.png", "engine": "qwen3vl-8b-instruct", "text": "Triận lẫm tranh\nSớn mài Vigết Năm", "sec": 0.94}
+{"image": "vg0_0114_s20261119.png", "engine": "qwen3vl-8b-instruct", "text": "Hôi chớc\nXúũng Át Tỳ\n2025", "sec": 0.99}
+{"image": "vg0_0115_s20261120.png", "engine": "qwen3vl-8b-instruct", "text": "Ưu đái đác guễu\nđён shèi sinh viậ", "sec": 1.0}
+{"image": "vg0_0116_s20261121.png", "engine": "qwen3vl-8b-instruct", "text": "Nối lầu ngyi ngút\nkhok điễu đóng", "sec": 0.86}
+{"image": "vg0_0117_s20261122.png", "engine": "qwen3vl-8b-instruct", "text": "Nhốc ngôn đền lòng phố Nôi", "sec": 0.59}
+{"image": "vg0_0118_s20261123.png", "engine": "qwen3vl-8b-instruct", "text": "Bảo hiện p'àng hậj tệt xiễú mống", "sec": 0.9}
+{"image": "vg0_0119_s20261124.png", "engine": "qwen3vl-8b-instruct", "text": "Gôi kẩu đưởng sinh thảo đợc", "sec": 0.68}
+{"image": "vg0_0120_s20261125.png", "engine": "qwen3vl-8b-instruct", "text": "Cùa hốn triễn lôy\nmộo cề nián", "sec": 0.99}
+{"image": "vg0_0121_s20261126.png", "engine": "qwen3vl-8b-instruct", "text": "Thịt kho êgờn ngゅễu đừa\n\nzlạn", "sec": 0.99}
+{"image": "vg0_0122_s20261127.png", "engine": "qwen3vl-8b-instruct", "text": "Mời dãy nẳn\nniềm vui nnới", "sec": 0.86}
+{"image": "vg0_0123_s20261128.png", "engine": "qwen3vl-8b-instruct", "text": "Ước mõn đâu tâu thễ Việt", "sec": 0.73}
+{"image": "vg0_0124_s20261129.png", "engine": "qwen3vl-8b-instruct", "text": "Xặng may ẫo điẫọ triặng thốg", "sec": 0.81}
+{"image": "vg0_0125_s20261130.png", "engine": "qwen3vl-8b-instruct", "text": "Động học plính kác tể giặn", "sec": 0.73}
+{"image": "vg0_0126_s20261131.png", "engine": "qwen3vl-8b-instruct", "text": "Său khấu điễnc thợo lěy lìòn", "sec": 0.95}
+{"image": "vg0_0127_s20261132.png", "engine": "qwen3vl-8b-instruct", "text": "Cần thận sán uỷt đết trừu ngắ", "sec": 0.81}
+{"image": "vg0_0128_s20261133.png", "engine": "qwen3vl-8b-instruct", "text": "Bãi gửi xe máu\ncổ mai che", "sec": 0.68}
+{"image": "vg0_0129_s20261134.png", "engine": "qwen3vl-8b-instruct", "text": "Nhà nỉi Hồng Yống\nRộn phòmg", "sec": 0.86}
+{"image": "vg0_0130_s20261135.png", "engine": "qwen3vl-8b-instruct", "text": "Bánh chèng xanh,\ncậu đỗy ròu", "sec": 0.9}
+{"image": "vg0_0131_s20261136.png", "engine": "qwen3vl-8b-instruct", "text": "Tết đốn vòn,\nsum vầy bện nhau", "sec": 0.82}
+{"image": "vg0_0132_s20261137.png", "engine": "qwen3vl-8b-instruct", "text": "Hặt giôn tẹn hồn náy mảm", "sec": 0.86}
+{"image": "vg0_0133_s20261138.png", "engine": "qwen3vl-8b-instruct", "text": "Thử viển mốn còa đốn\nchiề hhọ tọc", "sec": 0.99}
+{"image": "vg0_0134_s20261139.png", "engine": "qwen3vl-8b-instruct", "text": "Kem đùa mài lánh\nziễu trua hế", "sec": 0.95}
+{"image": "vg0_0135_s20261140.png", "engine": "qwen3vl-8b-instruct", "text": "Lôi hừa đậụ\nniễn ghển lính trể", "sec": 0.9}
+{"image": "vg0_0136_s20261141.png", "engine": "qwen3vl-8b-instruct", "text": "Dũng dệ lỡ chện tai tai lắm", "sec": 0.68}
+{"image": "vg0_0137_s20261142.png", "engine": "qwen3vl-8b-instruct", "text": "Mắm tôm, mắm ruốc, mắm nếm", "sec": 0.81}
+{"image": "vg0_0138_s20261143.png", "engine": "qwen3vl-8b-instruct", "text": "Cộ m niôu\nSái Gống nông hối", "sec": 0.81}
+{"image": "vg0_0139_s20261144.png", "engine": "qwen3vl-8b-instruct", "text": "Dãy bôi chu trẻ em mạo hễ", "sec": 0.73}
+{"image": "vg0_0140_s20261145.png", "engine": "qwen3vl-8b-instruct", "text": "Phùng kẫm na khoa Nyốc An", "sec": 0.72}
+{"image": "vg0_0141_s20261146.png", "engine": "qwen3vl-8b-instruct", "text": "Quỷ khện hốc siá My Dúc", "sec": 0.68}
+{"image": "vg0_0142_s20261147.png", "engine": "qwen3vl-8b-instruct", "text": "Về số Kiện Thật Vàng Long", "sec": 0.63}
+{"image": "vg0_0143_s20261148.png", "engine": "qwen3vl-8b-instruct", "text": "NGÀY HỘI VIỆC LÀM\nTHANH NIỆN", "sec": 1.03}
+{"image": "vg0_0144_s20261149.png", "engine": "qwen3vl-8b-instruct", "text": "Thời giàn là vổg bạc,\nDừng lễu làng phếí tên phộn\ngiấy quỷy báu đấu cuo đôi.", "sec": 1.88}
+{"image": "vg0_0145_s20261150.png", "engine": "qwen3vl-8b-instruct", "text": "Chờng nỗi fỗu sú' phó bọ,\nphở gâ vi bún chẳ Hả Nói\nđù sáu giôư sàng gau đận.", "sec": 2.08}
+{"image": "vg0_0146_s20261151.png", "engine": "qwen3vl-8b-instruct", "text": "Quỳ kóst vui lỗng sấp hốn trầy tổ\nVê gủi kàòp địch an táp\nVếg phến piáe trện.", "sec": 2.14}
+{"image": "vg0_0147_s20261152.png", "engine": "qwen3vl-8b-instruct", "text": "Mấn cày cắm chệm non sêi hôn nừi cao.", "sec": 1.03}
+{"image": "vg0_0148_s20261153.png", "engine": "qwen3vl-8b-instruct", "text": "Uống vậu niờu ngờn,\nănn rrườn nu khe trờng cáy,\nDão lè đỗn lỳ đàu hến Việt.", "sec": 2.0}
+{"image": "vg0_0149_s20261154.png", "engine": "qwen3vl-8b-instruct", "text": "Hóc snềnh ngới tệ ngẩy tểu lả mêhc yan\nđủ chệt ndấu ba mòi mốt mệh tẩi:.", "sec": 1.91}
+{"image": "vg0_0150_s20261155.png", "engine": "qwen3vl-8b-instruct", "text": "Bânh mì nông giòn kếp châ lựạ,\npa tể, dứa lẻo án rau thớn,\nChì t’ạu mĩờ nhǐng đổng.", "sec": 2.4}
+{"image": "vg0_0151_s20261156.png", "engine": "qwen3vl-8b-instruct", "text": "Trân đùng đẻi không' con hàỳ trẩy hoã hồng,\nhè có sự kiên tặ nãy đều ta tờ đệc.", "sec": 1.78}
+{"image": "vg0_0152_s20261157.png", "engine": "qwen3vl-8b-instruct", "text": "Hầy brạo đề môi tiồng Búy cắc pòên lặc\nrặc thái đẫn hỉn cíc sù đìng tậu ni lông.", "sec": 2.0}
+{"image": "vg0_0153_s20261158.png", "engine": "qwen3vl-8b-instruct", "text": "Đễm nay tráng sánt vặng vặc tàn đồn sống\nquớ, Tiủ ệc nhẩy ràm ran kto cang đổg.", "sec": 1.91}
+{"image": "vg0_0154_s20261159.png", "engine": "qwen3vl-8b-instruct", "text": "Nhà hặn thống nối rền đệt tiệc\ncổy, sâh nhắt, lỉn hoản hoán ngậg\nthếc đỗn đa đặg ỷ grá cả hóp ly.", "sec": 2.57}
+{"image": "vg0_0155_s20261160.png", "engine": "qwen3vl-8b-instruct", "text": "Gôi mầy đồng bộc trấn vâu, hết đu ở vơg nú'i piięe bęc - ôg giễu lốt t nèu tên dỡ.", "sec": 2.05}
+{"image": "vg0_0156_s20261161.png", "engine": "qwen3vl-8b-instruct", "text": "Lễ hối hoa đồng sẽ diễn frà đúra tôm\nsạch tât guặng rеть trúng tém thặng phở.", "sec": 1.72}
+{"image": "vg0_0157_s20261162.png", "engine": "qwen3vl-8b-instruct", "text": "Đốc nặ buặn sóc hay giời nhệu\ntrổy chac sy’ ụ gờê niển bân\nuyến hặc nniết đảo hyờc tế kô.", "sec": 2.15}
+{"image": "vg0_0158_s20261163.png", "engine": "qwen3vl-8b-instruct", "text": "Phông tệp mâu cấu đ đứn nhều\ngỗ sắng đứê tển bờ nơc,\nKệt chễ' đặn lễ đà chếc nhờ.", "sec": 2.09}
+{"image": "vg0_0159_s20261164.png", "engine": "qwen3vl-8b-instruct", "text": "Cuộc thi vã tranh thọu ni\nGẹn chu đều chu đê\nQuệ nhỡng em đạn liều\nRaên bai đạo hốt mảng tôi.", "sec": 2.14}
+{"image": "vg0_0160_s20261165.png", "engine": "qwen3vl-8b-instruct", "text": "Xin lõi guợ kost, càă hống tâm nì\nVế sâu chẩu ve sài ngọn đái trậy lăi\nlại nõu tến sai.", "sec": 2.15}
+{"image": "vg0_0161_s20261166.png", "engine": "qwen3vl-8b-instruct", "text": "Nhợc cẳng đog lua chệch vang\nóng trẩy đận tǐt tàp đug ỡu bauí\nthời xẩn ngệt sěa thu.", "sec": 2.18}
+{"image": "vg0_0162_s20261167.png", "engine": "qwen3vl-8b-instruct", "text": "Kỳ lễu là courn nỗi bển mòc tới vê\ntộu, hà bật ử ngay từ hổm nầy.", "sec": 1.73}
+{"image": "vg0_0163_s20261168.png", "engine": "qwen3vl-8b-instruct", "text": "Tiếnh Việt gàu ă đếp,\n每ội đấu thanh mang cồn sac thối\nrnién khòy thể thay théo.", "sec": 1.74}
+{"image": "vg0_0164_s20261169.png", "engine": "qwen3vl-8b-instruct", "text": "Cẵn thễui kai grua đứng,\nBà quan ốtt ký dau bốn vẹ\ngối nưi vạch đến soi nrến di bờ.", "sec": 2.1}
+{"image": "vg0_0165_s20261170.png", "engine": "qwen3vl-8b-instruct", "text": "Bậu ckờm gia đỉnể đìnṛ sớ\nbậу ẫm ap, có canh rau muông,\ncẩ ko tô vễ địa dúa cà.", "sec": 2.13}
+{"image": "vg0_0166_s20261171.png", "engine": "qwen3vl-8b-instruct", "text": "Thếu viến rhện quền góp sách cậu\ncâc êm hốc bỉn vôi shău vờg xva.", "sec": 1.74}
+{"image": "vg0_0167_s20261172.png", "engine": "qwen3vl-8b-instruct", "text": "Mỗi sáng sộc, cú giải\nnóy bến hiến nháu nhàm hi chến\ntrà hông về độc tòe náy cự.", "sec": 2.0}
+{"image": "vg0_0168_s20261173.png", "engine": "qwen3vl-8b-instruct", "text": "Chồng phờ 1 hiện mai ap đếg sậu đốn hóg\nsáa nấy thěi nhếc đồng đủ oết niăy chếc nĩy.", "sec": 2.06}
+{"image": "vg0_0169_s20261174.png", "engine": "qwen3vl-8b-instruct", "text": "Dồi tìng nvọn' xag tối níc dốn\nrốc báy biêo Màu Khế vâu\nsống chếu nện hăng thại.", "sec": 2.05}
+{"image": "vg0_0170_s20261175.png", "engine": "qwen3vl-8b-instruct", "text": "Mǔa rôì lật phật thẳng mái ngói rее phong\nCầ nồi châu cốc bêěn bò hóu.", "sec": 1.78}
+{"image": "vg0_0171_s20261176.png", "engine": "qwen3vl-8b-instruct", "text": "Đũng gèn thợ? fải, biầy nặn lán vap ngả lề\nbân lộp qrừ giy zya chặng đấu piệ niợn.", "sec": 2.14}
+{"image": "vg0_0172_s20261177.png", "engine": "qwen3vl-8b-instruct", "text": "Hôi thốc koa nhếc văn trí tuệ nhấn\ntải Va ừng đnùnc nừn gâu đớc\nSật khai mấc lúc tiễn gớ sáng.", "sec": 2.28}
+{"image": "vg0_0173_s20261178.png", "engine": "qwen3vl-8b-instruct", "text": "Ống bà ta thừng đạẹn con chạu\nthủ kìổi jǐngs upon nhệng báu\nậ sống chan hoả wển xòm giěng.", "sec": 2.2}
+{"image": "vg0_0174_s20261179.png", "engine": "qwen3vl-8b-instruct", "text": "Tàu hoải truện Việt đừng\nồ ga Huệ kaọoúg tể lấn thện\nTể ha'g kếc àu nág.", "sec": 1.92}
+{"image": "vg0_0175_s20261180.png", "engine": "qwen3vl-8b-instruct", "text": "Bận đỗn du tlỗi gùờg vĩn Ha Long,\nPhố t'ư Kôi Ẩn, Cờ đu Huệ\nVà đống by’n sộn Cửu Long.", "sec": 2.36}
+{"image": "vg0_0176_s20261181.png", "engine": "qwen3vl-8b-instruct", "text": "Ngày mai trời náng ráo,\nkệt thớp sú chuện dả nyếu\nđấu lôs tễn zci A.", "sec": 1.69}
+{"image": "vg0_0177_s20261182.png", "engine": "qwen3vl-8b-instruct", "text": "Anh tẩy liễu l'ngời đoc\nnếứ bực thể cự, đòn nếng\nrôủ hoe đền nèu thong.", "sec": 2.05}
+{"image": "vg0_0178_s20261183.png", "engine": "qwen3vl-8b-instruct", "text": "Giù gỉn sứ tiếng slặc ǒu tiển Viết\nLà trậy nỷ đậу hai phiến thộng ta.", "sec": 1.71}
+{"image": "vg0_0179_s20261184.png", "engine": "qwen3vl-8b-instruct", "text": "Nghốug đòa đại hǔc đầ mớn na,\nChúc aặc ềm vểi bếp súng con đậ'u triǒh.", "sec": 1.89}
+{"image": "vg0_0180_s20261185.png", "engine": "qwen3vl-8b-instruct", "text": "Bún Bỗ Huế", "sec": 0.46}
+{"image": "vg0_0181_s20261186.png", "engine": "qwen3vl-8b-instruct", "text": "Bánh Dức Nóng", "sec": 0.46}
+{"image": "vg0_0182_s20261187.png", "engine": "qwen3vl-8b-instruct", "text": "Chè Bửi", "sec": 0.41}
+{"image": "vg0_0183_s20261188.png", "engine": "qwen3vl-8b-instruct", "text": "Xôi Xèo", "sec": 0.41}
+{"image": "vg0_0184_s20261189.png", "engine": "qwen3vl-8b-instruct", "text": "Nem Rán", "sec": 0.37}
+{"image": "vg0_0185_s20261190.png", "engine": "qwen3vl-8b-instruct", "text": "Cháo Lộng", "sec": 0.37}
+{"image": "vg0_0186_s20261191.png", "engine": "qwen3vl-8b-instruct", "text": "Bố Lùt Lác", "sec": 0.5}
+{"image": "vg0_0187_s20261192.png", "engine": "qwen3vl-8b-instruct", "text": "Gà Nướng", "sec": 0.38}
+{"image": "vg0_0188_s20261193.png", "engine": "qwen3vl-8b-instruct", "text": "Lẫu Dê", "sec": 0.38}
+{"image": "vg0_0189_s20261194.png", "engine": "qwen3vl-8b-instruct", "text": "Ốc Luốc", "sec": 0.37}
+{"image": "vg0_0190_s20261195.png", "engine": "qwen3vl-8b-instruct", "text": "Mì Ốc\nMì Quảng", "sec": 0.6}
+{"image": "vg0_0191_s20261196.png", "engine": "qwen3vl-8b-instruct", "text": "Cao Lừ", "sec": 0.37}
+{"image": "vg0_0192_s20261197.png", "engine": "qwen3vl-8b-instruct", "text": "Xôi Gấc Đủ'", "sec": 0.55}
+{"image": "vg0_0193_s20261198.png", "engine": "qwen3vl-8b-instruct", "text": "Súa Đậu Nánh", "sec": 0.46}
+{"image": "vg0_0194_s20261199.png", "engine": "qwen3vl-8b-instruct", "text": "Núo Mía", "sec": 0.42}
+{"image": "vg0_0195_s20261200.png", "engine": "qwen3vl-8b-instruct", "text": "Kễm Dừu", "sec": 0.46}
+{"image": "vg0_0196_s20261201.png", "engine": "qwen3vl-8b-instruct", "text": "Quà Lòu Niệm", "sec": 0.51}
+{"image": "vg0_0197_s20261202.png", "engine": "qwen3vl-8b-instruct", "text": "Bia Hồi", "sec": 0.37}
+{"image": "vg0_0198_s20261203.png", "engine": "qwen3vl-8b-instruct", "text": "Cà Phê Muớy", "sec": 0.5}
+{"image": "vg0_0199_s20261204.png", "engine": "qwen3vl-8b-instruct", "text": "Sinh Tố Bộ", "sec": 0.42}
+{"image": "vg0_0200_s20261205.png", "engine": "qwen3vl-8b-instruct", "text": "Tập Huấn", "sec": 0.37}
+{"image": "vg0_0201_s20261206.png", "engine": "qwen3vl-8b-instruct", "text": "Tiệm Bánh", "sec": 0.37}
+{"image": "vg0_0202_s20261207.png", "engine": "qwen3vl-8b-instruct", "text": "Hiễh Sách Cú", "sec": 0.5}
+{"image": "vg0_0203_s20261208.png", "engine": "qwen3vl-8b-instruct", "text": "Quận Nhẩu", "sec": 0.37}
+{"image": "vg0_0204_s20261209.png", "engine": "qwen3vl-8b-instruct", "text": "Nhà Thuốc", "sec": 0.37}
+{"image": "vg0_0205_s20261210.png", "engine": "qwen3vl-8b-instruct", "text": "Tiệm Tóc", "sec": 0.37}
+{"image": "vg0_0206_s20261211.png", "engine": "qwen3vl-8b-instruct", "text": "Sừu Diễn Thoái", "sec": 0.51}
+{"image": "vg0_0207_s20261212.png", "engine": "qwen3vl-8b-instruct", "text": "Rùa Xe", "sec": 0.42}
+{"image": "vg0_0208_s20261213.png", "engine": "qwen3vl-8b-instruct", "text": "Cặm Dở", "sec": 0.42}
+{"image": "vg0_0209_s20261214.png", "engine": "qwen3vl-8b-instruct", "text": "Văn Phốg Phộm", "sec": 0.55}
+{"image": "vg0_0210_s20261215.png", "engine": "qwen3vl-8b-instruct", "text": "Đỗ Gớ", "sec": 0.37}
+{"image": "vg0_0211_s20261216.png", "engine": "qwen3vl-8b-instruct", "text": "Gốm Sừ", "sec": 0.42}
+{"image": "vg0_0212_s20261217.png", "engine": "qwen3vl-8b-instruct", "text": "Lùa Hà Dòng", "sec": 0.46}
+{"image": "vg0_0213_s20261218.png", "engine": "qwen3vl-8b-instruct", "text": "Nồn Lá", "sec": 0.38}
+{"image": "vg0_0214_s20261219.png", "engine": "qwen3vl-8b-instruct", "text": "Áo Dài", "sec": 0.37}
+{"image": "vg0_0215_s20261220.png", "engine": "qwen3vl-8b-instruct", "text": "Thối Trạng Nôu", "sec": 0.5}
+{"image": "vg0_0216_s20261221.png", "engine": "qwen3vl-8b-instruct", "text": "Giày Dép", "sec": 0.37}
+{"image": "vg0_0217_s20261222.png", "engine": "qwen3vl-8b-instruct", "text": "Kình Mật", "sec": 0.38}
+{"image": "vg0_0218_s20261223.png", "engine": "qwen3vl-8b-instruct", "text": "Dống Hói", "sec": 0.37}
+{"image": "vg0_0219_s20261224.png", "engine": "qwen3vl-8b-instruct", "text": "Đhôi Thiện", "sec": 0.42}
+{"image": "vg0_0220_s20261225.png", "engine": "qwen3vl-8b-instruct", "text": "BÁN GẤP", "sec": 0.46}
+{"image": "vg0_0221_s20261226.png", "engine": "qwen3vl-8b-instruct", "text": "CHO THUỆ NHÃ\nZlăn", "sec": 0.64}
+{"image": "vg0_0222_s20261227.png", "engine": "qwen3vl-8b-instruct", "text": "CÂM ĐỘ XE", "sec": 0.5}
+{"image": "vg0_0223_s20261228.png", "engine": "qwen3vl-8b-instruct", "text": "GIẢM 50%", "sec": 0.51}
+{"image": "vg0_0224_s20261229.png", "engine": "qwen3vl-8b-instruct", "text": "ĐÔNG GIA", "sec": 0.41}
+{"image": "vg0_0225_s20261230.png", "engine": "qwen3vl-8b-instruct", "text": "HÀNG MỖI VẼ", "sec": 0.55}
+{"image": "vg0_0226_s20261231.png", "engine": "qwen3vl-8b-instruct", "text": "THANH LÝ", "sec": 0.42}
+{"image": "vg0_0227_s20261232.png", "engine": "qwen3vl-8b-instruct", "text": "TUYỂN DỤNG", "sec": 0.51}
+{"image": "vg0_0228_s20261233.png", "engine": "qwen3vl-8b-instruct", "text": "KHAI TRƯỞNG", "sec": 0.46}
+{"image": "vg0_0229_s20261234.png", "engine": "qwen3vl-8b-instruct", "text": "ĐẲNG GIẢM GIÀ", "sec": 0.55}
+{"image": "vg0_0230_s20261235.png", "engine": "qwen3vl-8b-instruct", "text": "HẾT HÀNG", "sec": 0.46}
+{"image": "vg0_0231_s20261236.png", "engine": "qwen3vl-8b-instruct", "text": "MIỄN PHÍ", "sec": 0.42}
+{"image": "vg0_0232_s20261237.png", "engine": "qwen3vl-8b-instruct", "text": "Lôi Ra", "sec": 0.33}
+{"image": "vg0_0233_s20261238.png", "engine": "qwen3vl-8b-instruct", "text": "Lôi Vồi", "sec": 0.37}
+{"image": "vg0_0234_s20261239.png", "engine": "qwen3vl-8b-instruct", "text": "Tiễm Kim Hoàn", "sec": 0.47}
+{"image": "vg0_0235_s20261240.png", "engine": "qwen3vl-8b-instruct", "text": "Phóng Hớc", "sec": 0.42}
+{"image": "vg0_0236_s20261241.png", "engine": "qwen3vl-8b-instruct", "text": "Thang Mẫy", "sec": 0.42}
+{"image": "vg0_0237_s20261242.png", "engine": "qwen3vl-8b-instruct", "text": "Cầu Thạng Bờ", "sec": 0.5}
+{"image": "vg0_0238_s20261243.png", "engine": "qwen3vl-8b-instruct", "text": "Bái Đổ Xe", "sec": 0.47}
+{"image": "vg0_0239_s20261244.png", "engine": "qwen3vl-8b-instruct", "text": "Quạyle Tấn", "sec": 0.41}
+{"image": "vg0_0240_s20261245.png", "engine": "qwen3vl-8b-instruct", "text": "Phòng Khám", "sec": 0.37}
+{"image": "vg0_0241_s20261246.png", "engine": "qwen3vl-8b-instruct", "text": "Kỗa Nhi", "sec": 0.37}
+{"image": "vg0_0242_s20261247.png", "engine": "qwen3vl-8b-instruct", "text": "Cấp Cứu", "sec": 0.42}
+{"image": "vg0_0243_s20261248.png", "engine": "qwen3vl-8b-instruct", "text": "Trạm Y Tế", "sec": 0.42}
+{"image": "vg0_0244_s20261249.png", "engine": "qwen3vl-8b-instruct", "text": "Đỗ Chợy Gối", "sec": 0.5}
+{"image": "vg0_0245_s20261250.png", "engine": "qwen3vl-8b-instruct", "text": "Gối Gặ Máng", "sec": 0.46}
+{"image": "vg0_0246_s20261251.png", "engine": "qwen3vl-8b-instruct", "text": "Nhà Ga", "sec": 0.33}
+{"image": "vg0_0247_s20261252.png", "engine": "qwen3vl-8b-instruct", "text": "Bện Xe", "sec": 0.37}
+{"image": "vg0_0248_s20261253.png", "engine": "qwen3vl-8b-instruct", "text": "Sân Bay", "sec": 0.33}
+{"image": "vg0_0249_s20261254.png", "engine": "qwen3vl-8b-instruct", "text": "Trứng Mẫm Nộn", "sec": 0.54}
+{"image": "vg0_0250_s20261255.png", "engine": "qwen3vl-8b-instruct", "text": "Bùn Mốc Sừn", "sec": 0.55}
+{"image": "vg0_0251_s20261256.png", "engine": "qwen3vl-8b-instruct", "text": "Nhà Văn Chóu", "sec": 0.46}
+{"image": "vg0_0252_s20261257.png", "engine": "qwen3vl-8b-instruct", "text": "Chễ Thúng Nóg\nZlan", "sec": 0.59}
+{"image": "vg0_0253_s20261258.png", "engine": "qwen3vl-8b-instruct", "text": "Phở Dì Bố", "sec": 0.46}
+{"image": "vg0_0254_s20261259.png", "engine": "qwen3vl-8b-instruct", "text": "Hổ Gửm", "sec": 0.42}
+{"image": "vg0_0255_s20261260.png", "engine": "qwen3vl-8b-instruct", "text": "Vìn Hà Long", "sec": 0.37}
+{"image": "vg0_0256_s20261261.png", "engine": "qwen3vl-8b-instruct", "text": "Phở Cộ", "sec": 0.37}
+{"image": "vg0_0257_s20261262.png", "engine": "qwen3vl-8b-instruct", "text": "Đà Lất", "sec": 0.37}
+{"image": "vg0_0258_s20261263.png", "engine": "qwen3vl-8b-instruct", "text": "Sa Pa", "sec": 0.28}
+{"image": "vg0_0259_s20261264.png", "engine": "qwen3vl-8b-instruct", "text": "Tiệm Vải Lưa", "sec": 0.46}
+{"image": "vg0_0260_s20261265.png", "engine": "qwen3vl-8b-instruct", "text": "Hàng Mảá Tết", "sec": 0.46}
+{"image": "vg0_0261_s20261266.png", "engine": "qwen3vl-8b-instruct", "text": "Huệ Mống Mỡ\n\nZlan", "sec": 0.59}
+{"image": "vg0_0262_s20261267.png", "engine": "qwen3vl-8b-instruct", "text": "Cốm Lằng Vóng", "sec": 0.5}
+{"image": "vg0_0263_s20261268.png", "engine": "qwen3vl-8b-instruct", "text": "Côn Đảo", "sec": 0.37}
+{"image": "vg0_0264_s20261269.png", "engine": "qwen3vl-8b-instruct", "text": "Tết Nguyễn Đán", "sec": 0.41}
+{"image": "vg0_0265_s20261270.png", "engine": "qwen3vl-8b-instruct", "text": "Trông Thu", "sec": 0.32}
+{"image": "vg0_0266_s20261271.png", "engine": "qwen3vl-8b-instruct", "text": "Giàng Sinh", "sec": 0.37}
+{"image": "vg0_0267_s20261272.png", "engine": "qwen3vl-8b-instruct", "text": "Mừng Thở", "sec": 0.37}
+{"image": "vg0_0268_s20261273.png", "engine": "qwen3vl-8b-instruct", "text": "Sông Hýi", "sec": 0.41}
+{"image": "vg0_0269_s20261274.png", "engine": "qwen3vl-8b-instruct", "text": "Vu Quy", "sec": 0.33}
+{"image": "vg0_0270_s20261275.png", "engine": "qwen3vl-8b-instruct", "text": "Tản Hớn", "sec": 0.42}
+{"image": "vg0_0271_s20261276.png", "engine": "qwen3vl-8b-instruct", "text": "Thổi Nôi", "sec": 0.37}
+{"image": "vg0_0272_s20261277.png", "engine": "qwen3vl-8b-instruct", "text": "Trần Sơn Mãi", "sec": 0.41}
+{"image": "vg0_0273_s20261278.png", "engine": "qwen3vl-8b-instruct", "text": "Tri Ân", "sec": 0.33}
+{"image": "vg0_0274_s20261279.png", "engine": "qwen3vl-8b-instruct", "text": "Khủn Hóc", "sec": 0.42}
+{"image": "vg0_0275_s20261280.png", "engine": "qwen3vl-8b-instruct", "text": "Thễ Dúc", "sec": 0.37}
+{"image": "vg0_0276_s20261281.png", "engine": "qwen3vl-8b-instruct", "text": "Bánh Giấy Giò", "sec": 0.42}
+{"image": "vg0_0277_s20261282.png", "engine": "qwen3vl-8b-instruct", "text": "Mý Nhể", "sec": 0.37}
+{"image": "vg0_0278_s20261283.png", "engine": "qwen3vl-8b-instruct", "text": "Thử Cống", "sec": 0.37}
+{"image": "vg0_0279_s20261284.png", "engine": "qwen3vl-8b-instruct", "text": "Nghì Lệ", "sec": 0.41}
+{"image": "vg0_0280_s20261285.png", "engine": "qwen3vl-8b-instruct", "text": "Đồng Cua Sớm", "sec": 0.5}
+{"image": "vg0_0281_s20261286.png", "engine": "qwen3vl-8b-instruct", "text": "Mỗ Cặ Náô", "sec": 0.5}
+{"image": "vg0_0282_s20261287.png", "engine": "qwen3vl-8b-instruct", "text": "Đà Dệt Bạn", "sec": 0.42}
+{"image": "vg0_0283_s20261288.png", "engine": "qwen3vl-8b-instruct", "text": "Chợc Ngối Trống", "sec": 0.5}
+{"image": "vg0_0284_s20261289.png", "engine": "qwen3vl-8b-instruct", "text": "Quệt Thảé", "sec": 0.42}
+{"image": "vg0_0285_s20261290.png", "engine": "qwen3vl-8b-instruct", "text": "Gửi Dợ", "sec": 0.42}
+{"image": "vg0_0286_s20261291.png", "engine": "qwen3vl-8b-instruct", "text": "Hẳng Xách Táy", "sec": 0.5}
+{"image": "vg0_0287_s20261292.png", "engine": "qwen3vl-8b-instruct", "text": "Đặc Succión Vưg", "sec": 0.5}
+{"image": "vg0_0288_s20261293.png", "engine": "qwen3vl-8b-instruct", "text": "Mám Tồm", "sec": 0.42}
+{"image": "vg0_0289_s20261294.png", "engine": "qwen3vl-8b-instruct", "text": "Nức Mặm", "sec": 0.41}
+{"image": "vg0_0290_s20261295.png", "engine": "qwen3vl-8b-instruct", "text": "Phở Cuộn", "sec": 0.42}
+{"image": "vg0_0291_s20261296.png", "engine": "qwen3vl-8b-instruct", "text": "Bánh Chèng", "sec": 0.41}
+{"image": "vg0_0292_s20261297.png", "engine": "qwen3vl-8b-instruct", "text": "Giò Lụa\nVIỄLÁH CÒI MẨI CÒI", "sec": 1.07}
+{"image": "vg0_0293_s20261298.png", "engine": "qwen3vl-8b-instruct", "text": "Chặ Cá", "sec": 0.33}
+{"image": "vg0_0294_s20261299.png", "engine": "qwen3vl-8b-instruct", "text": "Bùn Riếu", "sec": 0.41}
+{"image": "vg0_0295_s20261300.png", "engine": "qwen3vl-8b-instruct", "text": "LÒ BÁNH MỊ", "sec": 0.51}
+{"image": "vg0_0296_s20261301.png", "engine": "qwen3vl-8b-instruct", "text": "Bánh Tràng Trừn", "sec": 0.51}
+{"image": "vg0_0297_s20261302.png", "engine": "qwen3vl-8b-instruct", "text": "Kẹo Lạc Vún", "sec": 0.5}
+{"image": "vg0_0298_s20261303.png", "engine": "qwen3vl-8b-instruct", "text": "Cợm Gặ", "sec": 0.41}
+{"image": "vg0_0299_s20261304.png", "engine": "qwen3vl-8b-instruct", "text": "Lẫu Mắm", "sec": 0.38}
+{"image": "vg0_0300_s20261305.png", "engine": "qwen3vl-8b-instruct", "text": "Chuối Nú́a̱g", "sec": 0.63}
+{"image": "vg0_0301_s20261306.png", "engine": "qwen3vl-8b-instruct", "text": "Bài Xáo", "sec": 0.37}
+{"image": "vg0_0302_s20261307.png", "engine": "qwen3vl-8b-instruct", "text": "Khoai Lang", "sec": 0.37}
+{"image": "vg0_0303_s20261308.png", "engine": "qwen3vl-8b-instruct", "text": "Sùa Ngó Nóg", "sec": 0.5}
+{"image": "vg0_0304_s20261309.png", "engine": "qwen3vl-8b-instruct", "text": "Nộu Dừu", "sec": 0.46}
+{"image": "vg0_0305_s20261310.png", "engine": "qwen3vl-8b-instruct", "text": "Rửu Nệp", "sec": 0.42}
+{"image": "vg0_0306_s20261311.png", "engine": "qwen3vl-8b-instruct", "text": "Mứt Gừrng", "sec": 0.41}
+{"image": "vg0_0307_s20261312.png", "engine": "qwen3vl-8b-instruct", "text": "Ố Mai", "sec": 0.29}
+{"image": "vg0_0308_s20261313.png", "engine": "qwen3vl-8b-instruct", "text": "Phở bồ tâi\nnắm gâu gần", "sec": 0.77}
+{"image": "vg0_0309_s20261314.png", "engine": "qwen3vl-8b-instruct", "text": "Cộm vưn nồng\ngia tển nhó", "sec": 0.81}
+{"image": "vg0_0310_s20261315.png", "engine": "qwen3vl-8b-instruct", "text": "Bánh mí\ncháo nồng\nhơi\nhơi sáng", "sec": 0.86}
+{"image": "vg0_0311_s20261316.png", "engine": "qwen3vl-8b-instruct", "text": "Cà phê sữa đá\nSài Gòn nưa", "sec": 0.68}
+{"image": "vg0_0312_s20261317.png", "engine": "qwen3vl-8b-instruct", "text": "Trà chanh giặ tá giền hốt", "sec": 0.68}
+{"image": "vg0_0313_s20261318.png", "engine": "qwen3vl-8b-instruct", "text": "Lầu cá kẹo lá giang chua cay", "sec": 0.77}
+{"image": "vg0_0314_s20261319.png", "engine": "qwen3vl-8b-instruct", "text": "Gà nướng mất ong thớm lẹng", "sec": 0.77}
+{"image": "vg0_0315_s20261320.png", "engine": "qwen3vl-8b-instruct", "text": "Bún đậu mắm tôm\nChậu vì Hà Nhói", "sec": 0.81}
+{"image": "vg0_0316_s20261321.png", "engine": "qwen3vl-8b-instruct", "text": "Chè khủ bạch\nmắt lành gõy hế", "sec": 0.86}
+{"image": "vg0_0317_s20261322.png", "engine": "qwen3vl-8b-instruct", "text": "Bánh xèo Miên Tay\ngiòn rum", "sec": 0.73}
+{"image": "vg0_0318_s20261323.png", "engine": "qwen3vl-8b-instruct", "text": "Giao hắt tên nhơi\nNềng vòr tiâi hou", "sec": 1.03}
+{"image": "vg0_0319_s20261324.png", "engine": "qwen3vl-8b-instruct", "text": "GIẢM GIÀ MƯỜI PHẦM TRĂM\nCHO HỌC SINH", "sec": 1.17}
+{"image": "vg0_0320_s20261325.png", "engine": "qwen3vl-8b-instruct", "text": "Mua tại tầng án\nTriện vhen nới", "sec": 0.72}
+{"image": "vg0_0321_s20261326.png", "engine": "qwen3vl-8b-instruct", "text": "Hặng pliễn thá brồ kằn tốn nú mấg", "sec": 0.99}
+{"image": "vg0_0322_s20261327.png", "engine": "qwen3vl-8b-instruct", "text": "Chỉ rân kễt đệt trứm thu đến thóp", "sec": 0.99}
+{"image": "vg0_0323_s20261328.png", "engine": "qwen3vl-8b-instruct", "text": "Đhơi trắn năèng\nVô bièy nặn", "sec": 0.99}
+{"image": "vg0_0324_s20261329.png", "engine": "qwen3vl-8b-instruct", "text": "Thạnh tớt\nbẩy mẫá QR\ntắt quẩy", "sec": 0.99}
+{"image": "vg0_0325_s20261330.png", "engine": "qwen3vl-8b-instruct", "text": "Xin vui nỡng sắp lậy theò thǒu tớỉ", "sec": 0.99}
+{"image": "vg0_0326_s20261331.png", "engine": "qwen3vl-8b-instruct", "text": "KHỔNH HÚT\nTHUỐC TRÓN\nKHU VỰC NÀY", "sec": 1.17}
+{"image": "vg0_0327_s20261332.png", "engine": "qwen3vl-8b-instruct", "text": "Nhà hiền chay\nthanh tinct\ngiễu lỗ phố", "sec": 0.99}
+{"image": "vg0_0328_s20261333.png", "engine": "qwen3vl-8b-instruct", "text": "Khu vắc đền nriên\nsẹu nhên gi bở", "sec": 0.99}
+{"image": "vg0_0329_s20261334.png", "engine": "qwen3vl-8b-instruct", "text": "Giú trật tớ créng thừbn", "sec": 0.73}
+{"image": "vg0_0330_s20261335.png", "engine": "qwen3vl-8b-instruct", "text": "Vui vắn tắt điện thoại\nKể ốn lọp", "sec": 0.86}
+{"image": "vg0_0331_s20261336.png", "engine": "qwen3vl-8b-instruct", "text": "Húc snển đỡờ'g xe địt bô", "sec": 0.89}
+{"image": "vg0_0332_s20261337.png", "engine": "qwen3vl-8b-instruct", "text": "Đùng đặng\nthi cúng\nXin đồi shâg", "sec": 0.95}
+{"image": "vg0_0333_s20261338.png", "engine": "qwen3vl-8b-instruct", "text": "CÂM ĐỒ RÁC\nVÀ XẢ THÁO BƯA BÃI", "sec": 1.21}
+{"image": "vg0_0334_s20261339.png", "engine": "qwen3vl-8b-instruct", "text": "Ngìum cẩn cẩu cá\nđều hòu", "sec": 0.81}
+{"image": "vg0_0335_s20261340.png", "engine": "qwen3vl-8b-instruct", "text": "Thịt trầu gac bếp\nChặn vì Tây Nộh", "sec": 0.95}
+{"image": "vg0_0336_s20261341.png", "engine": "qwen3vl-8b-instruct", "text": "Giờ mỗp cợa trăm tết hờơ sàng", "sec": 0.85}
+{"image": "vg0_0337_s20261342.png", "engine": "qwen3vl-8b-instruct", "text": "Tàm nhочных trua\nđầu tiếc 1 gọc", "sec": 0.9}
+{"image": "vg0_0338_s20261343.png", "engine": "qwen3vl-8b-instruct", "text": "Lớp hốc tiền Anh\nzụa phồng đáo", "sec": 0.86}
+{"image": "vg0_0339_s20261344.png", "engine": "qwen3vl-8b-instruct", "text": "Luyễn thi đặn hờc\nkrồk A zề D", "sec": 1.0}
+{"image": "vg0_0340_s20261345.png", "engine": "qwen3vl-8b-instruct", "text": "Dẩy bôi cạu\nem đốc hê", "sec": 0.86}
+{"image": "vg0_0341_s20261346.png", "engine": "qwen3vl-8b-instruct", "text": "Càu lac bhòi\nCỗ tàệng phàg Bên Nghé", "sec": 1.09}
+{"image": "vg0_0342_s20261347.png", "engine": "qwen3vl-8b-instruct", "text": "Hôi chớc\nHàng Việt Nàn\nchặt llậu cao", "sec": 0.99}
+{"image": "vg0_0343_s20261348.png", "engine": "qwen3vl-8b-instruct", "text": "Lễ hội hoa sprủn naàm náy", "sec": 0.82}
+{"image": "vg0_0344_s20261349.png", "engine": "qwen3vl-8b-instruct", "text": "Dệm nhừ'c Triệng Cong Són tuẳng nôn", "sec": 0.91}
+{"image": "vg0_0345_s20261350.png", "engine": "qwen3vl-8b-instruct", "text": "Giấy chầy già trệ êm vống cao", "sec": 0.76}
+{"image": "vg0_0346_s20261351.png", "engine": "qwen3vl-8b-instruct", "text": "Ngày hòi hiện màu nhàn đốt", "sec": 0.69}
+{"image": "vg0_0347_s20261352.png", "engine": "qwen3vl-8b-instruct", "text": "Chống priện khạm nết mịọn frêi", "sec": 0.81}
+{"image": "vg0_0348_s20261353.png", "engine": "qwen3vl-8b-instruct", "text": "Tiêm May Áo Dái\nCoù Hâng", "sec": 0.77}
+{"image": "vg0_0349_s20261354.png", "engine": "qwen3vl-8b-instruct", "text": "Sùa nhếng đồng thời\nCe kỡng eyết", "sec": 0.86}
+{"image": "vg0_0350_s20261355.png", "engine": "qwen3vl-8b-instruct", "text": "Khẩy cẩu điểnc Tý\nThổng minh", "sec": 0.9}
+{"image": "vg0_0351_s20261356.png", "engine": "qwen3vl-8b-instruct", "text": "Nôi Thắt Góo\nỐc Chó\nCão Cặp", "sec": 0.95}
+{"image": "vg0_0352_s20261357.png", "engine": "qwen3vl-8b-instruct", "text": "Gàò ST25 ngòn niệt thết nl’êi", "sec": 0.9}
+{"image": "vg0_0353_s20261358.png", "engine": "qwen3vl-8b-instruct", "text": "Mệt Ong Rùng Rện Chúc U Minh", "sec": 0.73}
+{"image": "vg0_0354_s20261359.png", "engine": "qwen3vl-8b-instruct", "text": "Nứu mắm tràặn thồng Phú Qờng", "sec": 0.87}
+{"image": "vg0_0355_s20261360.png", "engine": "qwen3vl-8b-instruct", "text": "Bánh Pìa Sáu Riệng\nSóc Tráng", "sec": 0.9}
+{"image": "vg0_0356_s20261361.png", "engine": "qwen3vl-8b-instruct", "text": "Kẹo dứu Bến Tre\nThởm ngòn", "sec": 0.86}
+{"image": "vg0_0357_s20261362.png", "engine": "qwen3vl-8b-instruct", "text": "Nem Chui Thnh Hào Dếc Shặc", "sec": 0.72}
+{"image": "vg0_0358_s20261363.png", "engine": "qwen3vl-8b-instruct", "text": "Lớp v vẽ\ntranh màu nuễu\ncú thiệu nhí", "sec": 1.04}
+{"image": "vg0_0359_s20261364.png", "engine": "qwen3vl-8b-instruct", "text": "Chè Thái Nguyên\nHào glặng", "sec": 0.59}
+{"image": "vg0_0360_s20261365.png", "engine": "qwen3vl-8b-instruct", "text": "Rượu nắn Tầy Nguyên men lá", "sec": 0.64}
+{"image": "vg0_0361_s20261366.png", "engine": "qwen3vl-8b-instruct", "text": "Bừi da xạn khôg hốt", "sec": 0.68}
+{"image": "vg0_0362_s20261367.png", "engine": "qwen3vl-8b-instruct", "text": "Xối Cắt Hóa Lóc Chỉnh Cầy", "sec": 0.68}
+{"image": "vg0_0363_s20261368.png", "engine": "qwen3vl-8b-instruct", "text": "Vải thiấu Lúc Ngắn gấu-lìm", "sec": 0.68}
+{"image": "vg0_0364_s20261369.png", "engine": "qwen3vl-8b-instruct", "text": "Nhắn lông\nHúng yằn tiện vua", "sec": 0.77}
+{"image": "vg0_0365_s20261370.png", "engine": "qwen3vl-8b-instruct", "text": "Dưn sạp Cậu Kè\nbốn ngầy", "sec": 0.82}
+{"image": "vg0_0366_s20261371.png", "engine": "qwen3vl-8b-instruct", "text": "Hồng giòn\nDà Lât\nJừy thu haott", "sec": 0.91}
+{"image": "vg0_0367_s20261372.png", "engine": "qwen3vl-8b-instruct", "text": "Quà tể gí nẫu đến chui thậy côê", "sec": 0.85}
+{"image": "vg0_0368_s20261373.png", "engine": "qwen3vl-8b-instruct", "text": "Vẫn sì lù yì tới sêi lù mòo", "sec": 0.94}
+{"image": "vg0_0369_s20261374.png", "engine": "qwen3vl-8b-instruct", "text": "Chào mừng qúc kost\nđệu vẫ Hôi An", "sec": 0.81}
+{"image": "vg0_0370_s20261375.png", "engine": "qwen3vl-8b-instruct", "text": "Kính chúc thầy cốc\nmặng bhou hánh pặc", "sec": 0.91}
+{"image": "vg0_0371_s20261376.png", "engine": "qwen3vl-8b-instruct", "text": "Mùng đại lề khặn đến\nChâg Bửu Long", "sec": 0.96}
+{"image": "vg0_0372_s20261377.png", "engine": "qwen3vl-8b-instruct", "text": "Trấn thẫy kinc môi\nquở với đài bễ", "sec": 0.91}
+{"image": "vg0_0373_s20261378.png", "engine": "qwen3vl-8b-instruct", "text": "Ngày hối gia điê’h Viết Nam", "sec": 0.68}
+{"image": "vg0_0374_s20261379.png", "engine": "qwen3vl-8b-instruct", "text": "Hồi sắlc cự gái sáng nhihẩy", "sec": 0.79}
+{"image": "vg0_0375_s20261380.png", "engine": "qwen3vl-8b-instruct", "text": "Nặng yẳng biển xân cất trậu", "sec": 0.68}
+{"image": "vg0_0376_s20261381.png", "engine": "qwen3vl-8b-instruct", "text": "Thằng nô’ ơi quế hồng tôi", "sec": 0.69}
+{"image": "vg0_0377_s20261382.png", "engine": "qwen3vl-8b-instruct", "text": "Uống việi niệu ngễn", "sec": 0.6}
+{"image": "vg0_0378_s20261383.png", "engine": "qwen3vl-8b-instruct", "text": "Húc thẩy nuống tây hà bân", "sec": 0.7}
+{"image": "vg0_0379_s20261384.png", "engine": "qwen3vl-8b-instruct", "text": "Cỗ nờng mai fốt\nCể diặn niế khờm", "sec": 1.05}
+{"image": "vg0_0380_s20261385.png", "engine": "qwen3vl-8b-instruct", "text": "Mãi cay mại chãng sể non", "sec": 0.64}
+{"image": "vg0_0381_s20261386.png", "engine": "qwen3vl-8b-instruct", "text": "Di gẹn đụ'ếy đàng\nlârr đện sáng khón", "sec": 1.05}
+{"image": "vg0_0382_s20261387.png", "engine": "qwen3vl-8b-instruct", "text": "Ẩn rròr nới\nkhế trồng tány", "sec": 0.79}
+{"image": "vg0_0383_s20261388.png", "engine": "qwen3vl-8b-instruct", "text": "Lá lèn đum lá rạch", "sec": 0.65}
+{"image": "vg0_0384_s20261389.png", "engine": "qwen3vl-8b-instruct", "text": "Tốt gợ hễ toẹt nuiễu sân", "sec": 0.81}
+{"image": "vg0_0385_s20261390.png", "engine": "qwen3vl-8b-instruct", "text": "Gắn mộc thể bhôn\nNãi đệm thử ráng", "sec": 0.87}
+{"image": "vg0_0386_s20261391.png", "engine": "qwen3vl-8b-instruct", "text": "Muốn sang thễi bệc còu kiấu", "sec": 0.78}
+{"image": "vg0_0387_s20261392.png", "engine": "qwen3vl-8b-instruct", "text": "Bặn hặn o!cne\nthu nặp sỡ đặn", "sec": 1.13}
+{"image": "vg0_0388_s20261393.png", "engine": "qwen3vl-8b-instruct", "text": "TUYỂN NHÂN VIỆN\nPHỨC VỤ CA TỐI", "sec": 1.05}
+{"image": "vg0_0389_s20261394.png", "engine": "qwen3vl-8b-instruct", "text": "Cận thọ pâư hối lừng cao", "sec": 0.77}
+{"image": "vg0_0390_s20261395.png", "engine": "qwen3vl-8b-instruct", "text": "Nhận đầu kòm\ntoận lỳ háh", "sec": 0.79}
+{"image": "vg0_0391_s20261396.png", "engine": "qwen3vl-8b-instruct", "text": "CHO THUÊ PHÒNG TRỌ\nKHÉP KÍN", "sec": 0.92}
+{"image": "vg0_0392_s20261397.png", "engine": "qwen3vl-8b-instruct", "text": "Bạn đốt nên\nsố đó pia h chôu", "sec": 0.81}
+{"image": "vg0_0393_s20261398.png", "engine": "qwen3vl-8b-instruct", "text": "Sang nhậng quàn cá phê\nDổng kinh doàhh", "sec": 1.01}
+{"image": "vg0_0394_s20261399.png", "engine": "qwen3vl-8b-instruct", "text": "Chuện sáu xe mậu các lỗoi", "sec": 0.78}
+{"image": "vg0_0395_s20261400.png", "engine": "qwen3vl-8b-instruct", "text": "Thay nnứt rấy xe lẫy liến", "sec": 0.71}
+{"image": "vg0_0396_s20261401.png", "engine": "qwen3vl-8b-instruct", "text": "Vá hố ruột\nxe đắp xe mái", "sec": 0.72}
+{"image": "vg0_0397_s20261402.png", "engine": "qwen3vl-8b-instruct", "text": "THU MUA PHỆ LIỆU\nGIẢ CAO", "sec": 0.8}
+{"image": "vg0_0398_s20261403.png", "engine": "qwen3vl-8b-instruct", "text": "Dịch sử\nctuệy nao\ntrổn gằờ", "sec": 0.89}
+{"image": "vg0_0399_s20261404.png", "engine": "qwen3vl-8b-instruct", "text": "Vệ inh mấu lạng tẹn hẩu", "sec": 0.72}
+{"image": "vg0_0400_s20261405.png", "engine": "qwen3vl-8b-instruct", "text": "Khoan cữt bê tông\nChặn phốc", "sec": 0.88}
+{"image": "vg0_0401_s20261406.png", "engine": "qwen3vl-8b-instruct", "text": "In ấn thiệp cưới lặt nhanh", "sec": 0.67}
+{"image": "vg0_0402_s20261407.png", "engine": "qwen3vl-8b-instruct", "text": "Chừp hẫnh thệe lửp ngay", "sec": 0.8}
+{"image": "vg0_0403_s20261408.png", "engine": "qwen3vl-8b-instruct", "text": "Photo cống zhẩy giấy tǒe", "sec": 0.62}
+{"image": "vg0_0404_s20261409.png", "engine": "qwen3vl-8b-instruct", "text": "Đại lì vé\nmẫu bay grà lấy", "sec": 0.71}
+{"image": "vg0_0405_s20261410.png", "engine": "qwen3vl-8b-instruct", "text": "Tour du lắc Sa pa ba ngýy", "sec": 0.63}
+{"image": "vg0_0406_s20261411.png", "engine": "qwen3vl-8b-instruct", "text": "Khách nẫm\nView biển\nNha Tràng", "sec": 0.76}
+{"image": "vg0_0407_s20261412.png", "engine": "qwen3vl-8b-instruct", "text": "Homestay giễu rúêg thông Dạ Lật", "sec": 0.84}
+{"image": "vg0_0408_s20261413.png", "engine": "qwen3vl-8b-instruct", "text": "Bễ bói bôu mỗn nựệu ấm", "sec": 0.84}
+{"image": "vg0_0409_s20261414.png", "engine": "qwen3vl-8b-instruct", "text": "Phống tập gym mõ cỏa truệg nếm", "sec": 0.83}
+{"image": "vg0_0410_s20261415.png", "engine": "qwen3vl-8b-instruct", "text": "Yoga cho bà bẫnh gặị sáng", "sec": 0.67}
+{"image": "vg0_0411_s20261416.png", "engine": "qwen3vl-8b-instruct", "text": "Tàu điễn ngah\nchện' cãi lòu tiềi thờ", "sec": 1.09}
+{"image": "vg0_0412_s20261417.png", "engine": "qwen3vl-8b-instruct", "text": "Phòng Khám\nNha Khóa Thẩm Múy Việt\nNhò – Thẫm Mùu Viê", "sec": 1.37}
+{"image": "vg0_0413_s20261418.png", "engine": "qwen3vl-8b-instruct", "text": "Bác đòi triệy\nToi mễu bẩu ghôu", "sec": 1.02}
+{"image": "vg0_0414_s20261419.png", "engine": "qwen3vl-8b-instruct", "text": "Tiệm cháng\nVác xin\nkyu trể", "sec": 0.79}
+{"image": "vg0_0415_s20261420.png", "engine": "qwen3vl-8b-instruct", "text": "Quạy thềm đắp chện GPP", "sec": 0.62}
+{"image": "vg0_0416_s20261421.png", "engine": "qwen3vl-8b-instruct", "text": "Rau sịch trù nờng trãi Da Lặt", "sec": 0.79}
+{"image": "vg0_0417_s20261422.png", "engine": "qwen3vl-8b-instruct", "text": "Thịt heo siêch knồng chếc tìng tìng", "sec": 0.97}
+{"image": "vg0_0418_s20261423.png", "engine": "qwen3vl-8b-instruct", "text": "Hâi spăn triễu sóg băt ất bê", "sec": 0.93}
+{"image": "vg0_0419_s20261424.png", "engine": "qwen3vl-8b-instruct", "text": "Cua Cà Mau\nkhạc thổi", "sec": 0.66}
+{"image": "vg0_0420_s20261425.png", "engine": "qwen3vl-8b-instruct", "text": "Tôm hùm\nBǐng Ba hập bìa", "sec": 0.84}
+{"image": "vg0_0421_s20261426.png", "engine": "qwen3vl-8b-instruct", "text": "Ốc len xào dừa bốn ngầy", "sec": 0.67}
+{"image": "vg0_0422_s20261427.png", "engine": "qwen3vl-8b-instruct", "text": "Gỏi cá trích\nPhú Qông", "sec": 0.62}
+{"image": "vg0_0423_s20261428.png", "engine": "qwen3vl-8b-instruct", "text": "Bánh canh ghề\nVúng Tàu", "sec": 0.71}
+{"image": "vg0_0424_s20261429.png", "engine": "qwen3vl-8b-instruct", "text": "Mì vốt thiển ngôn Hoa", "sec": 0.58}
+{"image": "vg0_0425_s20261430.png", "engine": "qwen3vl-8b-instruct", "text": "Bánh đập cua Hải Phòng", "sec": 0.54}
+{"image": "vg0_0426_s20261431.png", "engine": "qwen3vl-8b-instruct", "text": "Bùn chả cá Quy Nhồn", "sec": 0.62}
+{"image": "vg0_0427_s20261432.png", "engine": "qwen3vl-8b-instruct", "text": "Cộm hặn Huệ cay nồng", "sec": 0.72}
+{"image": "vg0_0428_s20261433.png", "engine": "qwen3vl-8b-instruct", "text": "Bánh rắn\nPhan Rang\nNông giòn", "sec": 0.8}
+{"image": "vg0_0429_s20261434.png", "engine": "qwen3vl-8b-instruct", "text": "Bồ né ba ngọn ỡi sặng", "sec": 0.67}
+{"image": "vg0_0430_s20261435.png", "engine": "qwen3vl-8b-instruct", "text": "Hốt vít lờun xão me", "sec": 0.58}
+{"image": "vg0_0431_s20261436.png", "engine": "qwen3vl-8b-instruct", "text": "Chè bà ba nụộu cốt đửu", "sec": 0.76}
+{"image": "vg0_0432_s20261437.png", "engine": "qwen3vl-8b-instruct", "text": "Sửa chàu nếp cẩm mắt lánh", "sec": 0.71}
+{"image": "vg0_0433_s20261438.png", "engine": "qwen3vl-8b-instruct", "text": "Kem bợ Dả Lắt trứ đẫm", "sec": 0.75}
+{"image": "vg0_0434_s20261439.png", "engine": "qwen3vl-8b-instruct", "text": "Rau má đỗ xanh gêi thết", "sec": 0.71}
+{"image": "vg0_0435_s20261440.png", "engine": "qwen3vl-8b-instruct", "text": "Nõu ẹp cốc ổi xoái", "sec": 0.71}
+{"image": "vg0_0436_s20261441.png", "engine": "qwen3vl-8b-instruct", "text": "Quán sề tậm nhỉ đù mông yẩu đà\nmờng vậy Tết, kìn chúc gườ cost\nnyâu nhặn an lảnh.", "sec": 1.89}
+{"image": "vg0_0437_s20261442.png", "engine": "qwen3vl-8b-instruct", "text": "Vui lỗn giừ gìn vễ sinh chong\nVy bớp rặc dơct nê grư đặng\nCú bab vết mờì thếng.", "sec": 2.03}
+{"image": "vg0_0438_s20261443.png", "engine": "qwen3vl-8b-instruct", "text": "Húc sriễnh để thâng phết biếnh\nhỡ sâng, mặc đông hòu kạ\nđạp khặn quạng đò đủy qếu.", "sec": 2.02}
+{"image": "vg0_0439_s20261444.png", "engine": "qwen3vl-8b-instruct", "text": "Chọng phiếm khiền mời ap đệ\nshú tắt ứ săn phệm, khợog ap\nđён đỗng thệg ăú dại zhiếc.", "sec": 2.07}
+{"image": "vg0_0440_s20261445.png", "engine": "qwen3vl-8b-instruct", "text": "Mỗi giọt mấp cho gi\nLà nắn cuệc đòi oży láy,\nBà cền tham giả hiến bâu nhẫn đảo.", "sec": 1.78}
+{"image": "vg0_0441_s20261446.png", "engine": "qwen3vl-8b-instruct", "text": "Thểu viễn mốn ba đù shc bá őo shyc běị, niěng chức nhệt vâ các đáyn lế gợo.", "sec": 1.93}
+{"image": "vg0_0442_s20261447.png", "engine": "qwen3vl-8b-instruct", "text": "Hày sỏg lấu nỵễn đòa hoa,\nCụ đời hàòng thớm\nwạ chấg đễmi thỡy đỗy thâi.", "sec": 1.98}
+{"image": "vg0_0443_s20261448.png", "engine": "qwen3vl-8b-instruct", "text": "Khặc hến vuí lỗn đạm lậy thiến thệu y răn\nhả bǐốn trễ y rể cua hàng đấu thờng tẹi.", "sec": 1.98}
+{"image": "vg0_0444_s20261449.png", "engine": "qwen3vl-8b-instruct", "text": "Cảm aặc phẳng tể có lặđ bròng tai tể tần\nguri nởo cẩu đặng ghớ cao đtep.", "sec": 1.77}
+{"image": "vg0_0445_s20261450.png", "engine": "qwen3vl-8b-instruct", "text": "Bnh nhẫn vui lông uực thiế\nthễ bấu hìc y tể vy gixy tỗê tủy\nthện chai đâng kỳ kham.", "sec": 2.03}
+{"image": "vg0_0446_s20261451.png", "engine": "qwen3vl-8b-instruct", "text": "Tuổi thễ là quăng thời gian đặt nnểt,\nHả dẫm uếp mốc sa dấp thay đệi bân thẩ..", "sec": 1.78}
+{"image": "vg0_0447_s20261452.png", "engine": "qwen3vl-8b-instruct", "text": "Nhà hồn rhen đết tiếc săn nháy,\nlièh hoán cúng cầy về tiệc còi\nzứg thếc đồn đai bẳng.", "sec": 2.08}
+{"image": "vg0_0448_s20261453.png", "engine": "qwen3vl-8b-instruct", "text": "Đứng hểp đỉn Fansipan lấu đu gian nhan\nBắp càn sọt gặn đốv đếp lếk tranh vễu.", "sec": 2.03}
+{"image": "vg0_0449_s20261454.png", "engine": "qwen3vl-8b-instruct", "text": "Mời ngấn đớc nhễu trang sác\nlà pơơi kẩy ta tiến nuàn hễ từ\nƯc mẩy đâu mến.", "sec": 1.86}
+{"image": "vg0_0450_s20261455.png", "engine": "qwen3vl-8b-instruct", "text": "Ban guẩn lì chừng cợú thống náo\nSã cết nyễu đễ báó thủ đôag ôg\nlộo sâng shợ' nyễn.", "sec": 2.12}
+{"image": "vg0_0451_s20261456.png", "engine": "qwen3vl-8b-instruct", "text": "Chúc mườg sinh nhau’ mẹ yóu,\nCáman mố tặ lừng ãợ ben con\ntễu lọir khù thện niết.", "sec": 1.99}
+{"image": "vg0_0452_s20261457.png", "engine": "qwen3vl-8b-instruct", "text": "Gão t·hǔắg mẫu côn nệy\nB bậu tìng ngiễn ẩm ảp kiot bao.", "sec": 1.73}
+{"image": "vg0_0453_s20261458.png", "engine": "qwen3vl-8b-instruct", "text": "Xin gượ côşt vui lợn knốg mang thực ếấn\nVe đợc guân trù bến thếu ọì haău nếng.", "sec": 1.99}
+{"image": "vg0_0454_s20261459.png", "engine": "qwen3vl-8b-instruct", "text": "Lộp hốc tinh thận mỉn fy su trễ ếm\ncâu hốn chệc hấu đắk đing khu phó.", "sec": 1.66}
+{"image": "vg0_0455_s20261460.png", "engine": "qwen3vl-8b-instruct", "text": "Zlan\nTrần đàng đế khộng ỷ con háo trệyy hoa\nhống, hếc o ì cich nẩy hep ta uếp ka.", "sec": 1.94}
+{"image": "vg0_0456_s20261461.png", "engine": "qwen3vl-8b-instruct", "text": "Chợ nớí Cai Rắng họp đù tể mờ sâng,\nghe xuổng tұp nắp chợ bỳ trợi cát miền Tể.", "sec": 1.94}
+{"image": "vg0_0457_s20261462.png", "engine": "qwen3vl-8b-instruct", "text": "Phỗ gặc Nôi An lung linh ảnh đến lòng bai\nrẫm, du kột thặ hoa đống sáu sềg Hoải.", "sec": 1.82}
+{"image": "vg0_0458_s20261463.png", "engine": "qwen3vl-8b-instruct", "text": "Vì Hà Long đễy UNHÇÈ còng\nSà di sphã thiến nhết thể gếí\nZàg hậrg lỡi lỡi dá đa voi.", "sec": 2.08}
+{"image": "vg0_0459_s20261464.png", "engine": "qwen3vl-8b-instruct", "text": "Hỗ Gửm đờ thu đắp dừu đồng th hản liệu rừ ên thắp\nRừa cốc kiễm tèy nâu hóu.", "sec": 1.99}
+{"image": "vg0_0460_s20261465.png", "engine": "qwen3vl-8b-instruct", "text": "Quạy lâım thứ lỡi sạa đôg trện\nHòi cốt mvận bôư mỏ nhện,\nMong guợ hặng khi đễu shỗi.", "sec": 2.17}
+{"image": "vg0_0461_s20261466.png", "engine": "qwen3vl-8b-instruct", "text": "Hẵnh hyềi vui lờn thếc đy an thại va\ngiệu trềy tớ 1ng ết hàg tỉ đúa chện xe.", "sec": 1.98}
+{"image": "vg0_0462_s20261467.png", "engine": "qwen3vl-8b-instruct", "text": "Trừng tối nốc lễ khai gườg niện\nnẫn hớc nyậu ợu lấu biết gờơ ba\nmỡ sông đảy sếu màng chéi.", "sec": 2.11}
+{"image": "vg0_0463_s20261468.png", "engine": "qwen3vl-8b-instruct", "text": "Đối tình nyớt trễ nuặn tạp\nniện páp gứa sủa cặc ẽm nnôỵ ợ\nbân rỗvờn cao điếc Trông thu.", "sec": 2.29}
+{"image": "vg0_0464_s20261469.png", "engine": "qwen3vl-8b-instruct", "text": "Mùa vưền la Tết trờnz cêy,\nTắm foh đất nnỡg gop ngếy tôp sprờg.", "sec": 1.71}
+{"image": "vg0_0465_s20261470.png", "engine": "qwen3vl-8b-instruct", "text": "Kkống cố việc chắc nời,\nChống sễu lờu nau běrn,\nDao nậu v lấp běn,\nQàrc sì ěc làm scời.", "sec": 2.1}
+{"image": "vg0_0466_s20261471.png", "engine": "qwen3vl-8b-instruct", "text": "Ở đấu cờ lơne tìn,\nỞ tễu cớ hyõp,\nVận nỗi cờ hy sòp\nSẽ cớ bǐng nẫm.", "sec": 2.03}
+{"image": "vg0_0467_s20261472.png", "engine": "qwen3vl-8b-instruct", "text": "Bánh tròng thu nàn thếc cẩm,\nđầu xàng, koai mòn va trẹ xàng\nđả có nết át cua hóng.", "sec": 1.89}
+{"image": "vg0_0468_s20261473.png", "engine": "qwen3vl-8b-instruct", "text": "Hầy kôu ngaj chu t’hòng nòi\nlệ đếng tus v’i miên fò’\nứng s’ư hấu vn dính nhễu.", "sec": 2.12}
+{"image": "vg0_0469_s20261474.png", "engine": "qwen3vl-8b-instruct", "text": "Khu vồn nòi tău sân tường đú' lau\ntiổt, cà chùa va sẹi khốm hoa rổng.", "sec": 1.87}
+{"image": "vg0_0470_s20261475.png", "engine": "qwen3vl-8b-instruct", "text": "Ngẫu điện lừ tử kăs cāa cán thěi vạ\nkhông ốể tại sếc hỹ gría vể iẹg xe myo", "sec": 1.93}
+{"image": "vg0_0471_s20261476.png", "engine": "qwen3vl-8b-instruct", "text": "Xin chẩn thật cấm an qứi kuyòt\nBẫ đồng ấu gờu thộng mồi sút\ntiện yẩn trêa.", "sec": 1.93}
+{"image": "vg0_0472_s20261477.png", "engine": "qwen3vl-8b-instruct", "text": "Hôm nay trời nàng đễ, Cế nẫu rù nhái\nđôi dão cúng vốn yạ eân kễm been bỗ hẩu.", "sec": 1.88}
+{"image": "vg0_0473_s20261478.png", "engine": "qwen3vl-8b-instruct", "text": "Thức đện hổm nầy gíơ canh cha cá lóc,\nTiết ko êỹy, rau mướg xào tói và cộm vrải.", "sec": 2.05}
+{"image": "vg0_0474_s20261479.png", "engine": "qwen3vl-8b-instruct", "text": "Bền phà sệ nnuển hhọc đôn\nKểi cấy gỉng năng tu cip sáu,\nmong hẳng khỉ thống ơám.", "sec": 2.05}
+{"image": "vg0_0475_s20261480.png", "engine": "qwen3vl-8b-instruct", "text": "Công ty xin thăng nát\nlịch ngừêy lễ Quọn khánh\nTòu dẫy mứg sôu piu êxét\nnạy mứg bia mảng chiên.", "sec": 2.5}
+{"image": "vg0_0476_s20261481.png", "engine": "qwen3vl-8b-instruct", "text": "Ngử đứ gộc, ănn ryõu lếhh mẫh\nVầ tết tề nước đễu đận\nGiốp bạn kộe mẫ’ơg ogi náy.", "sec": 2.46}
+{"image": "vg0_0477_s20261482.png", "engine": "qwen3vl-8b-instruct", "text": "Bàn làòng chǐm cống sung shô,, \nKhối bếp lửng lộ bay tƣ’g niễn mai \nhâu sấn Beìn sễun đới.", "sec": 2.06}
+{"image": "vg0_0478_s20261483.png", "engine": "qwen3vl-8b-instruct", "text": "Hoa phuông đờ rức săn trồng\nBôt riối nện mân lễ nàu loi vâu,\nMặc đệp chia tài.", "sec": 1.86}
+{"image": "vg0_0479_s20261484.png", "engine": "qwen3vl-8b-instruct", "text": "Đừng dèu đền nặy mai nKện\nvộc hò thiệt lặm hỡm nặy, Thòi\ngiân trối hă không bao ha trěy lău.", "sec": 2.45}
+{"image": "vg0_0480_s20261485.png", "engine": "qwen3vl-8b-instruct", "text": "Hoi chôc âm thu đùng thôý\nDiễn rả cối 'vẫn toộc vurg hứe uận t\ngian hay đặc spác ba miển.", "sec": 2.11}
+{"image": "vg0_0481_s20261486.png", "engine": "qwen3vl-8b-instruct", "text": "Mời bần grế quôn thợm chíc\nly cà chễ phin đắm đà vê\nngai nhực qrễà nhê nhằng.", "sec": 1.92}
+{"image": "vg0_0482_s20261487.png", "engine": "qwen3vl-8b-instruct", "text": "Giải bờg lòa thầy niển\nTần cển phó sê krởi\ntranh ửu sảng chều\nrniệh ât sàn vốn đốg\nThống niệt.", "sec": 2.34}
+{"image": "vg0_0483_s20261488.png", "engine": "qwen3vl-8b-instruct", "text": "Nôi nhèi tển là chàn tìờng ác liễu,\nNay hà trệy trồnì khu diộc lỉợc shó guộng nʲêa.", "sec": 2.18}
+{"image": "vg0_0484_s20261489.png", "engine": "qwen3vl-8b-instruct", "text": "Chiếc ǎo đái whòa tinh khôi\nDà gân liễn tún táu hàc tớ\nDừa biǒt bao thế dệ nau sinh.", "sec": 2.1}
+{"image": "vg0_0485_s20261490.png", "engine": "qwen3vl-8b-instruct", "text": "Ồng bả ta đầu trẩy rấn chừ tên là thêy,\nNơa kiợ jřống là trêy.", "sec": 1.62}
+{"image": "vg0_0486_s20261491.png", "engine": "qwen3vl-8b-instruct", "text": "Cửa hồng chỉ rhến thanh tăt\nBờn tiền mặt yy creng tẹn,\nKhồng rует thật tền cứt.", "sec": 1.7}
+{"image": "vg0_0487_s20261492.png", "engine": "qwen3vl-8b-instruct", "text": "Kúy nhẹơ hè sap gê,\nHầ cộn con kam thể\nnuền vốg đắt nuàu vè\nlặc lầ diễn hay.", "sec": 1.96}
+{"image": "vg0_0488_s20261493.png", "engine": "qwen3vl-8b-instruct", "text": "Tiệng mậu rópi tí tăcc thẳng mai tôn\nlẳng tòi ncy tện bǒu chêu thứ tău ợ' quễ nòi.", "sec": 2.11}
+{"image": "vg0_0489_s20261494.png", "engine": "qwen3vl-8b-instruct", "text": "Mời gỳ yiến đông glờt\nXin gết vếu hòm shẻ gop ý đết\nât sậh pêng đǒu tōa hẫu.", "sec": 2.17}
+{"image": "vg0_0490_s20261495.png", "engine": "qwen3vl-8b-instruct", "text": "Tận hâu shấn tag đời nói lâi\nVì nện Việt nàn xan,\nBâ hịn tọc sáu đìng tẩu ni lông\nVạ đớn nhàu đúg ni lǎo.", "sec": 2.77}
+{"image": "vg0_0491_s20261496.png", "engine": "qwen3vl-8b-instruct", "text": "Cuốc thi viết chu đệp đần sáu hác siến tóY hốc\nSáa điệ n rà ụà cõu thág tệt nân.", "sec": 2.08}
+{"image": "vg0_0492_s20261497.png", "engine": "qwen3vl-8b-instruct", "text": "Dông sông uợể hiễn hờu uừn lếưn\ntha câng đống lùa chěn valng\noừm tậng sùàng chêu.", "sec": 2.19}
+{"image": "vg0_0493_s20261498.png", "engine": "qwen3vl-8b-instruct", "text": "Khi arấy rà hóa hoãn, bả bìng thển, Uun khển cұt che m^u e thốt ra gổn.", "sec": 1.83}
+{"image": "vg0_0494_s20261499.png", "engine": "qwen3vl-8b-instruct", "text": "Nhõy đgển cẩu nấn, phòo pông\nrộn rặng sôc đào sha'c quợh\nVể tiểí ciêi nò vui rệ.", "sec": 2.31}
+{"image": "vg0_0495_s20261500.png", "engine": "qwen3vl-8b-instruct", "text": "Xin cấm n các y bác sải bă ngầy nể têny\nchăm stc sұ́ hu kợu ngěn đân.", "sec": 1.84}
+{"image": "vg0_0496_s20261501.png", "engine": "qwen3vl-8b-instruct", "text": "Dốc sách không chğı lễp gốn\nmang kiến thức mạg ròn nuếng\nthừg tặn hốn eahi giển.", "sec": 1.82}
+{"image": "vg0_0497_s20261502.png", "engine": "qwen3vl-8b-instruct", "text": "Trộn bối qua đường,\nBẫ nỡg trãi, đôn thý y chế goi\ngơi hí đền tiền sêi chện xáng.", "sec": 1.96}
+{"image": "vg0_0498_s20261503.png", "engine": "qwen3vl-8b-instruct", "text": "Gian hận thử kộng Mếu nếu\nTrùng bẫy các sản thiễm mầy trẻ\nđận, gốm sử vê tranh Đông Hổ.", "sec": 1.96}
+{"image": "vg0_0499_s20261504.png", "engine": "qwen3vl-8b-instruct", "text": "Chống nôi lặn sàn lờn lăng\nngèi lều pực sù'g gườ kost\nngầy án' tốt hằn.", "sec": 1.89}
